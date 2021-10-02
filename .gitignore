@@ -1,3 +1,5 @@
 .DS_Store
 .idea
 cmake-build-debug
+o1.txt
+o2.txt
