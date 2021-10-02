@@ -13,10 +13,12 @@
 
 
 struct game_movie {
+    int name_size;
     char name[MAX_NAME_LEN];
     int releaseYear;
 
-   char director[MAX_NAME_LEN];
+    int director_size;
+    char director[MAX_NAME_LEN];
 };
 
 // Ввод параметров прямоугольника из файла

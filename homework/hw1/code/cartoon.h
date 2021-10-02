@@ -13,6 +13,7 @@
 
 
 struct cartoon {
+    int name_size;
     char name[MAX_NAME_LEN];
     int releaseYear;
 

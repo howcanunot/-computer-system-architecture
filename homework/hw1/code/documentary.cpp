@@ -12,10 +12,11 @@ void In(documentary &d, std::ifstream &ifst) {
 
 // Случайный ввод параметров фильма
 void InRnd(documentary &g) {
-    for (size_t i = 0; i < MAX_NAME_LEN; ++i) {
+    g.name_size = Random();
+    for (size_t i = 0; i < g.name_size; ++i) {
         g.name[i] = char('a' + Random());
     }
-    g.name[MAX_NAME_LEN - 1] = '\0';
+    g.name[g.name_size - 1] = '\0';
 
     g.releaseYear = MIN_YEAR + Random();
     g.duration = 60 + 2 * Random();

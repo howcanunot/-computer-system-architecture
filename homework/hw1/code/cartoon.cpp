@@ -21,10 +21,11 @@ void In(cartoon &c, std::ifstream &ifst) {
 
 // Случайный ввод параметров игрового фильма
 void InRnd(cartoon &c) {
-    for (size_t i = 0; i < MAX_NAME_LEN; ++i) {
+    c.name_size = Random();
+    for (size_t i = 0; i < c.name_size; ++i) {
         c.name[i] = char('a' + Random());
     }
-    c.name[MAX_NAME_LEN - 1] = '\0';
+    c.name[c.name_size - 1] = '\0';
 
     c.releaseYear = MIN_YEAR + Random();
 

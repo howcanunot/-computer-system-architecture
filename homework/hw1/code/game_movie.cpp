@@ -12,15 +12,17 @@ void In(game_movie &g, std::ifstream &ifst) {
 
 // Случайный ввод параметров игрового фильма
 void InRnd(game_movie &g) {
-    for (size_t i = 0; i < MAX_NAME_LEN; ++i) {
+    g.name_size = Random();
+    for (size_t i = 0; i < g.name_size; ++i) {
         g.name[i] = char('a' + Random());
     }
 
-    for (size_t i = 0; i < MAX_NAME_LEN; ++i) {
+    g.director_size = Random();
+    for (size_t i = 0; i < g.director_size; ++i) {
         g.director[i] = char('a' + Random());
     }
-    g.name[MAX_NAME_LEN - 1] = '\0';
-    g.director[MAX_NAME_LEN - 1] = '\0';
+    g.name[g.name_size - 1] = '\0';
+    g.director[g.director_size - 1] = '\0';
     g.releaseYear = MIN_YEAR + Random();
 }
 
