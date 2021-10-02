@@ -21,13 +21,13 @@ struct game_movie {
     char director[MAX_NAME_LEN];
 };
 
-// Ввод параметров прямоугольника из файла
+// Ввод параметров фильма из файла
 void In(game_movie &r, std::ifstream &ifst);
 
-// Случайный ввод параметров прямоугольника
+// Случайный ввод параметров фильма
 void InRnd(game_movie &r);
 
-// Вывод параметров прямоугольника в форматируемый поток
+// Вывод параметров фильма в форматируемый поток
 void Out(game_movie &r, std::ofstream &ofst);
 
 #endif

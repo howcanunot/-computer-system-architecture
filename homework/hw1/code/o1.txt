@@ -1,0 +1,7 @@
+Filled container:
+Container contains 5 elements.
+0: It is Documentary Movie: name = yfgieyldgfnrcwwfphvojmi (1959), duration = 82
+1: It is Game Movie: name = qpqoqfjpmxgnap (1969), director: m
+2: It is Game Movie: name = ugouqceqmfrm (1963), director: nnlaytqomycrdsjlxsmapmb
+3: It is Cartoon Movie: name = phxaqwhhgkspxkmcjxqjh (1955), created by PLASTICINE
+4: It is Documentary Movie: name = qyxsybfyuqrdduc (1967), duration = 62

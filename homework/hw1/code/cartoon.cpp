@@ -19,7 +19,7 @@ void In(cartoon &c, std::ifstream &ifst) {
     }
 }
 
-// Случайный ввод параметров игрового фильма
+// Случайный ввод параметров фильма
 void InRnd(cartoon &c) {
     c.name_size = Random();
     for (size_t i = 0; i < c.name_size; ++i) {
@@ -40,7 +40,7 @@ void InRnd(cartoon &c) {
 }
 
 //------------------------------------------------------------------------------
-// Вывод параметров игрового фильма в форматируемый поток
+// Вывод параметров фильма в форматируемый поток
 void Out(cartoon &c, std::ofstream &ofst) {
     ofst << "It is Cartoon Movie: name = "
          << c.name << " (" << c.releaseYear <<

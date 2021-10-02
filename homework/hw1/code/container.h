@@ -31,7 +31,7 @@ void InRnd(container &c, int size);
 // Вывод содержимого контейнера в указанный поток
 void Out(container &c, std::ofstream &ofst);
 
-// Вычисление суммы периметров всех фигур в контейнере
+// 
 double PerimeterSum(container &c);
 
 #endif
