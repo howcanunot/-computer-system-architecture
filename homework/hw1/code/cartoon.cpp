@@ -1,7 +1,3 @@
-//------------------------------------------------------------------------------
-// cartoon.cpp - содержит функции обработки для процедурных ЯП
-//------------------------------------------------------------------------------
-
 #include "cartoon.h"
 
 //------------------------------------------------------------------------------
@@ -17,6 +13,8 @@ void In(cartoon &c, std::ifstream &ifst) {
     } else {
         c.type = cartoon::way_to_create::PLASTICINE;
     }
+
+    c.name_size = strlen(c.name);
 }
 
 // Случайный ввод параметров фильма
@@ -25,7 +23,7 @@ void InRnd(cartoon &c) {
     for (size_t i = 0; i < c.name_size; ++i) {
         c.name[i] = char('a' + Random());
     }
-    c.name[c.name_size - 1] = '\0';
+    c.name[c.name_size] = '\0';
 
     c.releaseYear = MIN_YEAR + Random();
 

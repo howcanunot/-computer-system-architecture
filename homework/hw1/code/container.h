@@ -31,7 +31,11 @@ void InRnd(container &c, int size);
 // Вывод содержимого контейнера в указанный поток
 void Out(container &c, std::ofstream &ofst);
 
-//
-double PerimeterSum(container &c);
+// ---
+void swap(int* a, int* b);
+
+int Partition(container &c, int low, int high);
+
+void QuickSort(container &c, int low, int high);
 
 #endif

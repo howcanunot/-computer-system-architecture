@@ -60,7 +60,7 @@ int main(int argc, char* argv[]) {
     Out(c, ofst1);
 
     // The 2nd part of task
-    // sort(c);
+    QuickSort(c, 0 , c.len - 1);
     std::ofstream ofst2(argv[4]);
     ofst2 << "Sorted container:\n";
     Out(c, ofst2);

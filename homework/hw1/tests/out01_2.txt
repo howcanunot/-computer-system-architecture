@@ -1,0 +1,7 @@
+Sorted container:
+Container contains 5 elements.
+0: It is Documentary Movie: name = bbc_africa (2021), duration = 95
+1: It is Game Movie: name = movie (2002), director = director_very_cool
+2: It is Game Movie: name = Borat (2007), director = Me
+3: It is Cartoon Movie: name = morty (2015), created by HAND
+4: It is Cartoon Movie: name = 9 (2004), created by PUPPET
