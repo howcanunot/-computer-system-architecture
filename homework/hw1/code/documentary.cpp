@@ -29,3 +29,7 @@ void Out(documentary &d, std::ofstream &ofst) {
          << d.name << " (" << d.releaseYear <<
          "), duration = " << d.duration << "\n";
 }
+
+double YearDivName(documentary &d) {
+    return 1.0 * d.releaseYear / d.name_size;
+}

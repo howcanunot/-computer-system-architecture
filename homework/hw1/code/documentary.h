@@ -29,5 +29,7 @@ void InRnd(documentary &r);
 // Вывод параметров фильма в форматируемый поток
 void Out(documentary &r, std::ofstream &ofst);
 
+double YearDivName(documentary &d);
+
 
 #endif

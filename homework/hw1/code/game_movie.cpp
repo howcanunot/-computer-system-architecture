@@ -33,3 +33,7 @@ void Out(game_movie &g, std::ofstream &ofst) {
          << g.name << " (" << g.releaseYear <<
          "), director: " <<  g.director << "\n";
 }
+
+double YearDivName(game_movie &g) {
+    return 1.0 * g.releaseYear / g.name_size;
+}

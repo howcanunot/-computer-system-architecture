@@ -33,5 +33,7 @@ void InRnd(cartoon &r);
 // Вывод параметров фильма в форматируемый поток
 void Out(cartoon &r, std::ofstream &ofst);
 
+double YearDivName(cartoon &c);
+
 
 #endif

@@ -47,3 +47,7 @@ void Out(cartoon &c, std::ofstream &ofst) {
          "), created by " <<
                           (c.type == 0 ? "HAND" : (c.type == 1 ?  "PUPPET" : "PLASTICINE")) << "\n";
 }
+
+double YearDivName(cartoon &c) {
+    return 1.0 * c.releaseYear / c.name_size;
+}
