@@ -1,0 +1,13 @@
+Sorted container:
+Container contains 11 elements.
+0: It is Cartoon Movie: name = alice_in_place_2 (2017), created by PLASTICINE
+1: It is Cartoon Movie: name = alice_in_place (2015), created by PLASTICINE
+2: It is Documentary Movie: name = blalalalal (2014), duration = 105
+3: It is Documentary Movie: name = bbc_africa (2021), duration = 95
+4: It is Game Movie: name = warcraft (2017), director = mommy
+5: It is Game Movie: name = soldier (2015), director = Bikov
+6: It is Game Movie: name = factory (2018), director = Bikov
+7: It is Game Movie: name = movie (2002), director = director_very_cool
+8: It is Game Movie: name = Borat (2007), director = Me
+9: It is Cartoon Movie: name = morty (2015), created by HAND
+10: It is Cartoon Movie: name = 9 (2004), created by PUPPET
