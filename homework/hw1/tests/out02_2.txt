@@ -1,0 +1,7 @@
+Sorted container:
+Container contains 5 elements.
+0: It is Cartoon Movie: name = alice_in_place_2 (2017), created by PLASTICINE
+1: It is Cartoon Movie: name = alice_in_place (2015), created by PLASTICINE
+2: It is Documentary Movie: name = blalalalal (2014), duration = 105
+3: It is Game Movie: name = soldier (2015), director = Bikov
+4: It is Game Movie: name = factory (2018), director = Bikov

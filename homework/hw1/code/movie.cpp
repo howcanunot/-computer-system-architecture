@@ -64,5 +64,20 @@ void Out(movie &m, std::ofstream &ofst) {
     }
 }
 
+double YearDivName(movie &m) {
+    switch (m.k) {
+        case movie::GAME_MOVIE: {
+            return YearDivName(m.g);
+        }
+        case movie::CARTOON: {
+            return YearDivName(m.c);
+        }
+        case movie::DOCUMENTARY: {
+            return YearDivName(m.d);
+        }
+        default:
+            return -1;
+    }
+}
 
 

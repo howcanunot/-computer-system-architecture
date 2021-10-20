@@ -3,6 +3,7 @@
 // Ввод параметров фильма из потока
 void In(game_movie &g, std::ifstream &ifst) {
     ifst >> g.name >> g.releaseYear >> g.director;
+    g.name_size = strlen(g.name);
 }
 
 // Случайный ввод параметров игрового фильма
@@ -16,8 +17,8 @@ void InRnd(game_movie &g) {
     for (size_t i = 0; i < g.director_size; ++i) {
         g.director[i] = char('a' + Random());
     }
-    g.name[g.name_size - 1] = '\0';
-    g.director[g.director_size - 1] = '\0';
+    g.name[g.name_size] = '\0';
+    g.director[g.director_size] = '\0';
     g.releaseYear = MIN_YEAR + Random();
 }
 
@@ -26,7 +27,7 @@ void InRnd(game_movie &g) {
 void Out(game_movie &g, std::ofstream &ofst) {
     ofst << "It is Game Movie: name = "
          << g.name << " (" << g.releaseYear <<
-         "), director: " <<  g.director << "\n";
+         "), director = " <<  g.director << "\n";
 }
 
 double YearDivName(game_movie &g) {

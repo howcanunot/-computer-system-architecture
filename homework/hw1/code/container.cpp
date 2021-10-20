@@ -34,3 +34,39 @@ void Out(container &c, std::ofstream &ofst) {
         Out(*(c.cont[i]), ofst);
     }
 }
+
+void swap(movie *a, movie *b)
+{
+    movie t = *a;
+    *a = *b;
+    *b = t;
+}
+
+int Partition (container &c, int low, int high)
+{
+    int pivot = high;
+    int i = (low - 1);
+
+    for (int j = low; j <= high - 1; j++)
+    {
+        if (YearDivName(*c.cont[j]) < YearDivName(*c.cont[pivot]))
+        {
+            i++;
+            swap(c.cont[i], c.cont[j]);
+        }
+    }
+    swap(c.cont[i + 1], c.cont[high]);
+    return (i + 1);
+}
+
+void QuickSort(container &c, int low, int high)
+{
+    if (low < high)
+    {
+
+        int pi = Partition(c, low, high);
+
+        QuickSort(c, low, pi - 1);
+        QuickSort(c, pi + 1, high);
+    }
+}

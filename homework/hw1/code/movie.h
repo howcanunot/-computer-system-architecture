@@ -34,5 +34,7 @@ movie *InRnd();
 // Вывод обобщенного фильма
 void Out(movie &s, std::ofstream &ofst);
 
+double YearDivName(movie &m);
+
 
 #endif
