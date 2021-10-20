@@ -1,102 +1,601 @@
-Sorted container:
-Container contains 100 elements.
-0: It is Cartoon Movie: name = rfofslgkialobpahzdtjblaie (1951), created by PLASTICINE
-1: It is Game Movie: name = ethumeqclofhzqcpgrwhnptmz (1963), director = lmhtbubeslsodqdpubsrvog
-2: It is Game Movie: name = wdofiagybgjtjfmrjivweuzyx (1975), director = znulkszmdevsyevlamoi
-3: It is Game Movie: name = skrtinuchynymwqdvsjwhias (1960), director = ftvadkryalzwato
-4: It is Cartoon Movie: name = vdjekrijatjqjlhqzurupodg (1962), created by HAND
-5: It is Game Movie: name = jrmyxjjvnnyisrsiidwamiru (1963), director = dilatzoja
-6: It is Cartoon Movie: name = owyjvdzpaxengfdggszxxlr (1953), created by PUPPET
-7: It is Game Movie: name = afevvrssvyiptaahfatmtma (1959), director = k
-8: It is Documentary Movie: name = yrjkynnlmmgbkepzxnriomo (1968), duration = 100
-9: It is Game Movie: name = igymmfhpmoffridgvrjtft (1953), director = skbgomvdaodjk
-10: It is Cartoon Movie: name = xygujjzstvptvmrcguojlg (1954), created by HAND
-11: It is Cartoon Movie: name = ukyswnvpnmmuugnajxpkic (1966), created by HAND
-12: It is Cartoon Movie: name = vzazhdjxzwzdqivyjtonc (1954), created by PLASTICINE
-13: It is Cartoon Movie: name = xepbeukiyllozrtixqczy (1964), created by PLASTICINE
-14: It is Cartoon Movie: name = xzpsjynpbybtfrauytfsq (1964), created by PUPPET
-15: It is Documentary Movie: name = dmojhkcodfryjdqsikofs (1967), duration = 102
-16: It is Cartoon Movie: name = jvoynhwjgqplqjhaiovbj (1974), created by PUPPET
-17: It is Game Movie: name = ayqehnrzqwfbppkaupol (1954), director = brhiycgas
-18: It is Cartoon Movie: name = oghcukwpxweehkkrdotv (1963), created by PLASTICINE
-19: It is Cartoon Movie: name = ahsvcwoaaywngiprzqqg (1969), created by PUPPET
-20: It is Documentary Movie: name = yymbobeamqnoejxbfvct (1973), duration = 92
-21: It is Game Movie: name = zjveyxojwnpinnrfavu (1952), director = iu
-22: It is Cartoon Movie: name = ogtjnfuadxjnnfurtnh (1953), created by PLASTICINE
-23: It is Cartoon Movie: name = hvjdgjzgaljpeujcuxe (1955), created by PLASTICINE
-24: It is Game Movie: name = mlvyrwuunnurybzhjcl (1955), director = tnsqqupsyuemhxvmiy
-25: It is Documentary Movie: name = ygzfbhzaqkyrhlaarsa (1960), duration = 102
-26: It is Cartoon Movie: name = stlboxcvwmqzpvlxgrj (1966), created by HAND
-27: It is Cartoon Movie: name = hpyqcwpgnfnuqwbcvh (1953), created by HAND
-28: It is Game Movie: name = pplxzroeesgscmlsgq (1954), director = tmvrsdapsrsmrld
-29: It is Game Movie: name = hqglpejbnlsfuzrvau (1956), director = ovmhlv
-30: It is Documentary Movie: name = gyzptgruitdahpibxg (1964), duration = 80
-31: It is Game Movie: name = lfmtdfzozzkbsqodb (1957), director = ebkfvayicbtimnymjxaqlo
-32: It is Game Movie: name = ctkjfddamwvwsrxog (1959), director = lzptsjbhqwfjxbrkrsojwmy
-33: It is Game Movie: name = fgxldqotezqyigivd (1960), director = ordyukqlejavbrieosoyalvxv
-34: It is Cartoon Movie: name = efkvcoxqqxdquxahz (1963), created by PLASTICINE
-35: It is Cartoon Movie: name = avpzpveniecpycnrs (1963), created by PUPPET
-36: It is Cartoon Movie: name = xtjlloycyoczwedij (1965), created by PUPPET
-37: It is Game Movie: name = rerrahgmgltjphgf (1966), director = gopdfyalnrkjx
-38: It is Cartoon Movie: name = umllptwfrppiztwc (1968), created by PUPPET
-39: It is Game Movie: name = twzqnraqisqathzn (1970), director = exxoxexpzaqr
-40: It is Cartoon Movie: name = wjlvhknmxvgppswx (1975), created by HAND
-41: It is Documentary Movie: name = dysdrzqpyagwssmq (1975), duration = 98
-42: It is Cartoon Movie: name = avfgoiussmevzih (1974), created by HAND
-43: It is Game Movie: name = wasxkqdyzntojmd (1975), director = ueijfekoaqnrjenbuheyi
-44: It is Documentary Movie: name = kkjkqnzbwhyrfy (1950), duration = 100
-45: It is Cartoon Movie: name = dwssxqvuedpoxc (1958), created by PLASTICINE
-46: It is Cartoon Movie: name = qtijxcwlopdupp (1963), created by PUPPET
-47: It is Cartoon Movie: name = vxjaloimdbzgi (1955), created by PLASTICINE
-48: It is Game Movie: name = pizrjxqlvibop (1961), director = nsu
-49: It is Documentary Movie: name = rweoymolebmxk (1966), duration = 96
-50: It is Game Movie: name = nzqastltwdqda (1970), director = xmccxcrsbjoepvikuzf
-51: It is Documentary Movie: name = gvqogbxpoetl (1950), duration = 108
-52: It is Cartoon Movie: name = udwirtbxhjsy (1952), created by PUPPET
-53: It is Cartoon Movie: name = kkyoaogzfnqc (1961), created by PLASTICINE
-54: It is Cartoon Movie: name = tnqipszopgc (1957), created by PUPPET
-55: It is Game Movie: name = cadmypyusli (1967), director = nnkks
-56: It is Game Movie: name = jyemsbtcced (1975), director = czaafiwlded
-57: It is Game Movie: name = vteooaluvc (1961), director = bqoh
-58: It is Game Movie: name = xufxlrpkzv (1964), director = fmwqqkyiz
-59: It is Cartoon Movie: name = qftsxyrleu (1968), created by PLASTICINE
-60: It is Documentary Movie: name = enuihmmigf (1969), duration = 64
-61: It is Game Movie: name = gsnlidgiu (1955), director = nhko
-62: It is Cartoon Movie: name = aqnlzdlap (1958), created by PUPPET
-63: It is Game Movie: name = qtmzbakhz (1968), director = uvmsrn
-64: It is Cartoon Movie: name = wyzygvncj (1970), created by PUPPET
-65: It is Documentary Movie: name = wkgebillf (1973), duration = 60
-66: It is Cartoon Movie: name = ipieoiqgs (1973), created by HAND
-67: It is Cartoon Movie: name = qkhkzgcaa (1975), created by HAND
-68: It is Cartoon Movie: name = aqnlrwut (1950), created by PLASTICINE
-69: It is Game Movie: name = qaoprzmr (1958), director = zwptscypeopohtjg
-70: It is Documentary Movie: name = lcnwuqgw (1963), duration = 108
-71: It is Documentary Movie: name = cukaaqmo (1969), duration = 98
-72: It is Game Movie: name = lfauqopz (1975), director = qnxrbdbrdounocztqxicmwne
-73: It is Game Movie: name = cpyvwjs (1957), director = vfugxckyihinrskfutrvkqix
-74: It is Cartoon Movie: name = ccxpmms (1960), created by HAND
-75: It is Cartoon Movie: name = utyopfy (1966), created by PLASTICINE
-76: It is Cartoon Movie: name = ybzghbo (1967), created by HAND
-77: It is Documentary Movie: name = hpxogwk (1967), duration = 104
-78: It is Game Movie: name = sfnoxrr (1968), director = tmkdhrfgwfndqejnwyzdwgww
-79: It is Game Movie: name = stxjyyz (1969), director = toqkvfbmzujcefqfnpg
-80: It is Documentary Movie: name = zeyfrly (1970), duration = 82
-81: It is Game Movie: name = eyedrzy (1973), director = jed
-82: It is Cartoon Movie: name = mxivrmv (1975), created by PLASTICINE
-83: It is Cartoon Movie: name = lqqftr (1959), created by PLASTICINE
-84: It is Documentary Movie: name = jgzsk (1955), duration = 104
-85: It is Game Movie: name = mkspu (1958), director = lktzvnbtcxpfxdxsxqafoor
-86: It is Cartoon Movie: name = befmp (1963), created by PLASTICINE
-87: It is Cartoon Movie: name = ddjp (1952), created by HAND
-88: It is Game Movie: name = lzmm (1973), director = ciziogfymdeuendoklvgnosu
-89: It is Cartoon Movie: name = njb (1954), created by PUPPET
-90: It is Cartoon Movie: name = xus (1961), created by HAND
-91: It is Documentary Movie: name = brr (1972), duration = 102
-92: It is Documentary Movie: name = jx (1975), duration = 80
-93: It is Cartoon Movie: name = h (1965), created by PLASTICINE
-94: It is Game Movie: name = q (1968), director = vcnerszpcdkvgybgompeeav
-95: It is Documentary Movie: name = a (1974), duration = 88
-96: It is Game Movie: name =  (1969), director = lhghkkweyzpapykgkqbhxp
-97: It is Documentary Movie: name =  (1958), duration = 106
-98: It is Documentary Movie: name =  (1951), duration = 80
-99: It is Documentary Movie: name =  (1951), duration = 92
+Sorted container complete:
+1. [Cartoon]
+-name: hhecwwzamatymjqiluvufayfblfuumidtmhrkjr
+release_year: 1925
+type of creation: HAND
+-function result: 49.358974
+
+2. [Cartoon]
+-name: lylrkgvyfqcgujdctsakgjbtlgbfmriapurcaoa
+release_year: 1969
+type of creation: PUPPET
+-function result: 50.487179
+
+3. [Game Movie]
+-name: wlxzqntsbihdiifmtcmzvczehufkpwqnjpnafg
+-release year: 1929
+-director: yenhv
+-function result: 50.763158
+
+4. [Documentary]
+-name: kxvyunpzyzxelerhqogatvxniiqlcrzmrunlhem
+-release year: 1992
+-duration: 139
+-function result: 51.076923
+
+5. [Documentary]
+-name: zpfwzkklthwoaljghjjgedlqxumqoeipvnoxzy
+-release year: 1954
+-duration: 80
+-function result: 51.421053
+
+6. [Game Movie]
+-name: evulpdgqvuvlnlkqdlngkzdgubzbgsxmprxfw
+-release year: 1910
+-director: yj
+-function result: 51.621622
+
+7. [Game Movie]
+-name: dtupiqgcazinazwmcmpralsakvwjxmndhjurz
+-release year: 1967
+-director: khkmmapgkckhglftrojcimkncriaetf
+-function result: 53.162162
+
+8. [Game Movie]
+-name: qnmwojnhwjpwjoxqoeliwgmekumvyifpvsnl
+-release year: 1972
+-director: uvewgmettamjjotxbiauqcyk1
+-function result: 54.777778
+
+9. [Documentary]
+-name: fxezmxjjpzvnclzjckbpaqoahwhxykyfkfe
+-release year: 1941
+-duration: 92
+-function result: 55.457143
+
+10. [Game Movie]
+-name: pssrbvqnpzgyxzczsjjbcoapeonwrauhtoaw
+-release year: 2021
+-director: uymum
+-function result: 56.138889
+
+11. [Documentary]
+-name: ctnyricnigabdjzflkuxcydzzpufgunkpcj
+-release year: 1974
+-duration: 139
+-function result: 56.400000
+
+12. [Game Movie]
+-name: xefldhochngtkjftpajyhvcokheciwfhamu
+-release year: 2010
+-director: wvomdmpuegqtwkxmjrebfxfpe
+-function result: 57.428571
+
+13. [Game Movie]
+-name: usapedrnajnirigopudlrekdzkabddjxvjp
+-release year: 2013
+-director: ebmtfwytcuzelrujycbkpkqbgvbkte
+-function result: 57.514286
+
+14. [Cartoon]
+-name: dhrdewejfhlyndgrvctzicbseixdfemlldq
+release_year: 2020
+type of creation: HAND
+-function result: 57.714286
+
+15. [Cartoon]
+-name: fqfwvhadobujmevcyylegoiucifogtylld
+release_year: 1969
+type of creation: PLASTICINE
+-function result: 57.911765
+
+16. [Game Movie]
+-name: kmvrrgszukuhfjkwoufndryptovbpusb
+-release year: 1933
+-director: haxfzfhdasdsi
+-function result: 60.406250
+
+17. [Game Movie]
+-name: pfrfkcsrnuwvqxurfmprciqjfvizvdek
+-release year: 1933
+-director: fhzichcy
+-function result: 60.406250
+
+18. [Cartoon]
+-name: lbmphmfvbjbxlshrjwtecqhkhrcylooy
+release_year: 1962
+type of creation: PLASTICINE
+-function result: 61.312500
+
+19. [Game Movie]
+-name: bxnmaabnbkqqsfwodglsnwtxrzpwqw
+-release year: 1951
+-director: drcgswkatphzcsnflfjgkrkzyeu
+-function result: 65.033333
+
+20. [Documentary]
+-name: jvmyvtdzmlikcfcramafivkniqlxrh
+-release year: 1964
+-duration: 61
+-function result: 65.466667
+
+21. [Documentary]
+-name: cktrnqcdwtprprxwnbmycxgspzrhx
+-release year: 1903
+-duration: 170
+-function result: 65.620690
+
+22. [Game Movie]
+-name: xoamrcgburtntiyazyhaftrsteieff
+-release year: 1996
+-director: owcpeaetvuvrgccontdaqqdfmbqciwwwsynyzs
+-function result: 66.533333
+
+23. [Cartoon]
+-name: iuckcugouceebgyonjvzrgschqibg
+release_year: 1944
+type of creation: PUPPET
+-function result: 67.034483
+
+24. [Cartoon]
+-name: lsqdmigziaoxferjepoxvsceeylmj
+release_year: 1962
+type of creation: PUPPET
+-function result: 67.655172
+
+25. [Game Movie]
+-name: yjfsdsotkvpqmycokfqlrnnnxari
+-release year: 1901
+-director: rhiuswntyansaoapylhuisfgzobzvsqmzy
+-function result: 67.892857
+
+26. [Documentary]
+-name: oascllpiwxjwlrvkbigqdvpbaebf
+-release year: 1920
+-duration: 92
+-function result: 68.571429
+
+27. [Documentary]
+-name: ljcmuzihsgeapqvlbahvrafgtyxg
+-release year: 1964
+-duration: 105
+-function result: 70.142857
+
+28. [Game Movie]
+-name: nmghuwthzkrqmwmxxxfkvxyndgg
+-release year: 1936
+-director: chgnjohhqbxenghaavjwotygbsnf
+-function result: 71.703704
+
+29. [Documentary]
+-name: wjgywhkepfqlvietmzrexzzykkln
+-release year: 2015
+-duration: 61
+-function result: 71.964286
+
+30. [Game Movie]
+-name: elfuoibyquwpdbnubqvntfgmir
+-release year: 1900
+-director: fx
+-function result: 73.076923
+
+31. [Game Movie]
+-name: wnvzcqbqqqqdzkltptugxtbpmpr
+-release year: 2010
+-director: kwqvakongkl
+-function result: 74.444444
+
+32. [Game Movie]
+-name: vocalwjrzmicfyhcctiwjaguztk
+-release year: 2014
+-director: nxhuurtquyahwscwdsmjexgpcwfwbo
+-function result: 74.592593
+
+33. [Cartoon]
+-name: ycrrptnqsenxssqmseifcnkuqo
+release_year: 1997
+type of creation: PLASTICINE
+-function result: 76.807692
+
+34. [Game Movie]
+-name: qprkjxwjifcifmbgskimtodio
+-release year: 1929
+-director: mckfikgnfmocldlnnahbnhodwykxnfizhtgsf
+-function result: 77.160000
+
+35. [Cartoon]
+-name: rraptcqlocmssmiwdvuuypdrd
+release_year: 1954
+type of creation: PUPPET
+-function result: 78.160000
+
+36. [Game Movie]
+-name: cyhshvbqmcqsqwbqzwbxmuwsy
+-release year: 1963
+-director: dzxar
+-function result: 78.520000
+
+37. [Documentary]
+-name: xahycxzuprkssugmlzgrycuoo
+-release year: 1963
+-duration: 169
+-function result: 78.520000
+
+38. [Game Movie]
+-name: pnurskhlnhedmjsnbuxxrvrp1
+-release year: 1909
+-director: iedbrbsqfvbjgsoqjkylq
+-function result: 79.541667
+
+39. [Game Movie]
+-name: dezqukoedrzdnnumhjqidpl
+-release year: 1943
+-director: yucnpqrpdnauondqudywftgecgkwf
+-function result: 84.478261
+
+40. [Game Movie]
+-name: ulunshwgqgkcmdazkucukmb
+-release year: 1954
+-director: rnwlgzxohxyknwptnyyfpxc
+-function result: 84.956522
+
+41. [Cartoon]
+-name: sjrnhbzjucdjjtkypzeale
+release_year: 1900
+type of creation: PLASTICINE
+-function result: 86.363636
+
+42. [Documentary]
+-name: vecrsowgfsknifmufydwce
+-release year: 1996
+-duration: 129
+-function result: 90.727273
+
+43. [Documentary]
+-name: uwktwxfhktwlfwrpqimtq
+-release year: 1984
+-duration: 78
+-function result: 94.476190
+
+44. [Game Movie]
+-name: ihnfhciygoqvlvmcrdih
+-release year: 1906
+-director: jcutdengy
+-function result: 95.300000
+
+45. [Game Movie]
+-name: xwnhckprmnyloohgbptl
+-release year: 1932
+-director: jacybzrebdrjptrsktgmaohkbpdpmuyywbwx
+-function result: 96.600000
+
+46. [Cartoon]
+-name: hjvpsgufupbfowvbpplp
+release_year: 1947
+type of creation: PLASTICINE
+-function result: 97.350000
+
+47. [Game Movie]
+-name: vyikbtasnhobmwoelkxi
+-release year: 1974
+-director: dpypjpollqoqhsvtmduvdyqwdxlg
+-function result: 98.700000
+
+48. [Documentary]
+-name: jmracnsuzbfnilsuukj
+-release year: 1901
+-duration: 120
+-function result: 100.052632
+
+49. [Game Movie]
+-name: pddlsgzjzcvrchmbqmp
+-release year: 1973
+-director: psqssbyiavdoqqncrxykyojqafxpyzjn
+-function result: 103.842105
+
+50. [Cartoon]
+-name: hbwbkwncozaawzxemub
+release_year: 2003
+type of creation: PUPPET
+-function result: 105.421053
+
+51. [Game Movie]
+-name: rywjdwrycbmdkqrblq
+-release year: 1941
+-director: e
+-function result: 107.833333
+
+52. [Cartoon]
+-name: yxmynjdvdsfuwqcjey
+release_year: 1987
+type of creation: PLASTICINE
+-function result: 110.388889
+
+53. [Documentary]
+-name: vkdokjwjvrptfvzdx
+-release year: 1954
+-duration: 176
+-function result: 114.941176
+
+54. [Documentary]
+-name: zapafccsihypxqovh
+-release year: 1999
+-duration: 170
+-function result: 117.588235
+
+55. [Game Movie]
+-name: mwpwtzbejasffil
+-release year: 1968
+-director: blr
+-function result: 131.200000
+
+56. [Game Movie]
+-name: vovkxkbkwryozsj
+-release year: 1978
+-director: kjgtqjgjcfpcoq
+-function result: 131.866667
+
+57. [Documentary]
+-name: ugcgylxouypfvr
+-release year: 1903
+-duration: 88
+-function result: 135.928571
+
+58. [Documentary]
+-name: mjwthaqiuhbgzu
+-release year: 1911
+-duration: 66
+-function result: 136.500000
+
+59. [Documentary]
+-name: otfiofuupvpccs
+-release year: 1944
+-duration: 70
+-function result: 138.857143
+
+60. [Game Movie]
+-name: babkxagsoyhdvb
+-release year: 1953
+-director: tbllla
+-function result: 139.500000
+
+61. [Documentary]
+-name: vrdabigbovjkkq
+-release year: 1976
+-duration: 157
+-function result: 141.142857
+
+62. [Cartoon]
+-name: ttqkbpsiokndoi
+release_year: 1998
+type of creation: HAND
+-function result: 142.714286
+
+63. [Documentary]
+-name: pawkhlgjpmmxnb
+-release year: 2002
+-duration: 138
+-function result: 143.000000
+
+64. [Cartoon]
+-name: tkunsqycvysvg
+release_year: 1941
+type of creation: PLASTICINE
+-function result: 149.307692
+
+65. [Game Movie]
+-name: dppwpgptycjap
+-release year: 1963
+-director: mnuxyzktyu
+-function result: 151.000000
+
+66. [Game Movie]
+-name: cerwswggjfnn
+-release year: 1902
+-director: bmgpnrevindyexepqiawhmwipzrpwc
+-function result: 158.500000
+
+67. [Game Movie]
+-name: sqjcuwfjwvxy
+-release year: 1981
+-director: poctevdgrksp
+-function result: 165.083333
+
+68. [Cartoon]
+-name: ucjtnwnpfyu
+release_year: 1921
+type of creation: PUPPET
+-function result: 174.636364
+
+69. [Cartoon]
+-name: jyjinypmsei
+release_year: 1990
+type of creation: HAND
+-function result: 180.909091
+
+70. [Documentary]
+-name: dyqyizfdqi
+-release year: 1991
+-duration: 115
+-function result: 199.100000
+
+71. [Cartoon]
+-name: upiqxeiaj
+release_year: 1908
+type of creation: PLASTICINE
+-function result: 212.000000
+
+72. [Game Movie]
+-name: fnhxgxtga
+-release year: 1918
+-director: zhlkjcoeg
+-function result: 213.111111
+
+73. [Cartoon]
+-name: ephrunkps
+release_year: 1932
+type of creation: PUPPET
+-function result: 214.666667
+
+74. [Game Movie]
+-name: ldhtdezuw
+-release year: 1956
+-director: wiaswvtlplmxbhvwt
+-function result: 217.333333
+
+75. [Documentary]
+-name: cffosxypu
+-release year: 1981
+-duration: 127
+-function result: 220.111111
+
+76. [Cartoon]
+-name: wixqwhuwy
+release_year: 1983
+type of creation: PUPPET
+-function result: 220.333333
+
+77. [Documentary]
+-name: dvobdqtzl
+-release year: 2015
+-duration: 95
+-function result: 223.888889
+
+78. [Documentary]
+-name: pdgtaqid
+-release year: 1953
+-duration: 132
+-function result: 244.125000
+
+79. [Documentary]
+-name: wuwyxize
+-release year: 2015
+-duration: 133
+-function result: 251.875000
+
+80. [Game Movie]
+-name: blgoqr
+-release year: 1906
+-director: iqlsqcmjepahzhmrkanqi
+-function result: 317.666667
+
+81. [Documentary]
+-name: zkvgvm
+-release year: 1965
+-duration: 122
+-function result: 327.500000
+
+82. [Documentary]
+-name: ygkupx
+-release year: 1981
+-duration: 79
+-function result: 330.166667
+
+83. [Game Movie]
+-name: qufhy
+-release year: 1949
+-director: fdmmqqfyitekobhclruzvmykdtxqcd
+-function result: 389.800000
+
+84. [Cartoon]
+-name: nfjja
+release_year: 1952
+type of creation: PUPPET
+-function result: 390.400000
+
+85. [Cartoon]
+-name: thwc
+release_year: 1927
+type of creation: PUPPET
+-function result: 481.750000
+
+86. [Game Movie]
+-name: bcnm
+-release year: 1931
+-director: oupsxcoysmmorucclhjfeabmx
+-function result: 482.750000
+
+87. [Game Movie]
+-name: zsdn
+-release year: 1957
+-director: wjm
+-function result: 489.250000
+
+88. [Documentary]
+-name: txcx
+-release year: 1982
+-duration: 172
+-function result: 495.500000
+
+89. [Game Movie]
+-name: ojwi
+-release year: 1989
+-director: cvlqfojtwcffw
+-function result: 497.250000
+
+90. [Documentary]
+-name: isbs
+-release year: 1997
+-duration: 62
+-function result: 499.250000
+
+91. [Game Movie]
+-name: onvs
+-release year: 2010
+-director: gzaqutfkyjiraairzghcsherpyio
+-function result: 502.500000
+
+92. [Game Movie]
+-name: rde
+-release year: 1905
+-director: nyfemgudxgowcxghzoo
+-function result: 635.000000
+
+93. [Game Movie]
+-name: eds
+-release year: 1910
+-director: tvjwtpnrskybmoqzgmf
+-function result: 636.666667
+
+94. [Documentary]
+-name: gpp
+-release year: 1978
+-duration: 175
+-function result: 659.333333
+
+95. [Cartoon]
+-name: ndr
+release_year: 2003
+type of creation: PUPPET
+-function result: 667.666667
+
+96. [Documentary]
+-name: bp
+-release year: 1913
+-duration: 68
+-function result: 956.500000
+
+97. [Game Movie]
+-name: cv
+-release year: 1931
+-director: tufmrju
+-function result: 965.500000
+
+98. [Game Movie]
+-name: nu
+-release year: 1938
+-director: iuhfkisuobdzhhesaboosftau
+-function result: 969.000000
+
+99. [Game Movie]
+-name: u
+-release year: 1925
+-director: qdsavooxrpebuzbvnrn
+-function result: 1925.000000
+
+100. [Game Movie]
+-name: e
+-release year: 1994
+-director: bfcqzpgou
+-function result: 1994.000000
+

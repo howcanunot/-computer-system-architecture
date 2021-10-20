@@ -4,6 +4,7 @@
 #include "documentary.h"
 #include "rnd.h"
 #include "constants.h"
+#include <cstring>
 
 movie::movie(char *name, int name_size, int release_year) {
     this->name = name;
@@ -52,7 +53,7 @@ void movie::fill_rand(char *str, int size) {
     for (int i = 0; i < size; i++) {
         str[i] = (char)('a' + rand_letter());
     }
-    str[size] = '\0';
+    // str[size] = '\0';
 }
 
 movie* movie::create_random() {

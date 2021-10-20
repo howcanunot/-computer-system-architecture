@@ -1,21 +1,21 @@
-echo "\nTest #1";
-time /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/code/cmake-build-debug/hw1 -f /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/test01.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out01_1.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out01_2.txt;
+echo "Test #1";
+time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -f /home/canunot/repos/computer-system-architecture/homework/hw2/tests/test01.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out01_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out01_2.txt;
 
-echo "\nTest #2";
-time /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/code/cmake-build-debug/hw1 -f /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/test02.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out02_1.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out02_2.txt;
+echo "Test #2";
+time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -f /home/canunot/repos/computer-system-architecture/homework/hw2/tests/test02.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out02_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out02_2.txt;
 
-echo "\nTest #3";
-time /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/code/cmake-build-debug/hw1 -f /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/test03.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out03_1.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out03_2.txt;
+echo "Test #3";
+time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -f /home/canunot/repos/computer-system-architecture/homework/hw2/tests/test03.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out03_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out03_2.txt;
 
-echo "\nTest #4";
-time /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/code/cmake-build-debug/hw1 -f /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/test04.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out04_1.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out04_2.txt;
+echo "Test #4";
+time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -f /home/canunot/repos/computer-system-architecture/homework/hw2/tests/test04.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out04_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out04_2.txt;
 
-echo "\nTest #5";
-time /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/code/cmake-build-debug/hw1 -f /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/test05.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out05_1.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/out05_2.txt;
+echo "Test #5";
+time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -f /home/canunot/repos/computer-system-architecture/homework/hw2/tests/test05.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out05_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/out05_2.txt;
 
 
-echo "\nRandom test #1";
-time /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/code/cmake-build-debug/hw1 -n 100 /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/outrand01_1.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/outrand01_2.txt;
+echo "Random test #1";
+time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -n 100 /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand01_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand01_2.txt;
 
-echo "\nRandom Test #2";
-time /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/code/cmake-build-debug/hw1 -n 10000 /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/outrand02_1.txt /Users/mac/CLionProjects/computer-system-architecture/homework/hw1/tests/outrand02_2.txt;
+echo "Random Test #2";
+time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -n 1000 /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand02_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand02_1.txt;

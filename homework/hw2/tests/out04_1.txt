@@ -1,3 +1,7 @@
 Filled container:
-Container contains 1 elements.
-0: It is Game Movie: name = warcraft (2017), director = mommy
+1. [Game Movie]
+-name: warcraft
+-release year: 2017
+-director: mommy
+-function result: 2017.000000
+

@@ -1,13 +1,67 @@
 Filled container:
-Container contains 11 elements.
-0: It is Game Movie: name = warcraft (2017), director = mommy
-1: It is Game Movie: name = Borat (2007), director = Me
-2: It is Cartoon Movie: name = 9 (2004), created by PUPPET
-3: It is Game Movie: name = movie (2002), director = director_very_cool
-4: It is Documentary Movie: name = bbc_africa (2021), duration = 95
-5: It is Cartoon Movie: name = morty (2015), created by HAND
-6: It is Documentary Movie: name = blalalalal (2014), duration = 105
-7: It is Cartoon Movie: name = alice_in_place (2015), created by PLASTICINE
-8: It is Cartoon Movie: name = alice_in_place_2 (2017), created by PLASTICINE
-9: It is Game Movie: name = factory (2018), director = Bikov
-10: It is Game Movie: name = soldier (2015), director = Bikov
+1. [Game Movie]
+-name: warcraft
+-release year: 2017
+-director: mommy
+-function result: 2017.000000
+
+2. [Game Movie]
+-name: Borat
+-release year: 2007
+-director: Me
+-function result: 2007.000000
+
+3. [Cartoon]
+-name: 9
+release_year: 2004
+type of creation: PUPPET
+-function result: 2004.000000
+
+4. [Game Movie]
+-name: movie
+-release year: 2002
+-director: director_very_cool
+-function result: 2002.000000
+
+5. [Documentary]
+-name: bbc_africa
+-release year: 2021
+-duration: 95
+-function result: 2021.000000
+
+6. [Cartoon]
+-name: morty
+release_year: 2015
+type of creation: HAND
+-function result: 2015.000000
+
+7. [Documentary]
+-name: blalalalal
+-release year: 2014
+-duration: 105
+-function result: 2014.000000
+
+8. [Cartoon]
+-name: alice_in_place
+release_year: 2015
+type of creation: PLASTICINE
+-function result: 2015.000000
+
+9. [Cartoon]
+-name: alice_in_place_2
+release_year: 2017
+type of creation: PLASTICINE
+-function result: 2017.000000
+
+10. [Game Movie]
+-name: factory
+-release year: 2018
+-director: Bikov
+-function result: 2018.000000
+
+11. [Game Movie]
+-name: soldier
+-release year: 2015
+-director: Bikov
+-function result: 2015.000000
+

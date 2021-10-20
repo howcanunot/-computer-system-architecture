@@ -14,7 +14,7 @@ container::~container() {
         delete this->cont[i];
     }
 
-    delete cont;
+    delete[] cont;
     this->size = 0;
 }
 

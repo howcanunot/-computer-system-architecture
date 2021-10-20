@@ -1,4 +1,13 @@
-Sorted container:
-Container contains 2 elements.
-0: It is Documentary Movie: name = geography (2010), duration = 500
-1: It is Documentary Movie: name = geography (2010), duration = 500
+Sorted container complete:
+1. [Documentary]
+-name: geography
+-release year: 2010
+-duration: 500
+-function result: 2010.000000
+
+2. [Documentary]
+-name: geography
+-release year: 2010
+-duration: 500
+-function result: 2010.000000
+

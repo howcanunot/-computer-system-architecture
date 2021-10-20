@@ -1,7 +1,31 @@
-Sorted container:
-Container contains 5 elements.
-0: It is Cartoon Movie: name = alice_in_place_2 (2017), created by PLASTICINE
-1: It is Cartoon Movie: name = alice_in_place (2015), created by PLASTICINE
-2: It is Documentary Movie: name = blalalalal (2014), duration = 105
-3: It is Game Movie: name = soldier (2015), director = Bikov
-4: It is Game Movie: name = factory (2018), director = Bikov
+Sorted container complete:
+1. [Documentary]
+-name: blalalalal
+-release year: 2014
+-duration: 105
+-function result: 2014.000000
+
+2. [Cartoon]
+-name: soldier
+release_year: 2015
+type of creation: PLASTICINE
+-function result: 2015.000000
+
+3. [Cartoon]
+-name: alice_in_place
+release_year: 2015
+type of creation: PLASTICINE
+-function result: 2015.000000
+
+4. [Game Movie]
+-name: alice_in_place_2
+-release year: 2017
+-director: Bikov
+-function result: 2017.000000
+
+5. [Game Movie]
+-name: factory
+-release year: 2018
+-director: Bikov
+-function result: 2018.000000
+
