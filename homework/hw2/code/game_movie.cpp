@@ -7,6 +7,11 @@ game_movie::game_movie(char *name, int name_size,
     this->director_size = director_size;
 }
 
+game_movie::~game_movie() {
+    delete[] name;
+    delete[] director;
+}
+
 void game_movie::print(FILE *out) {
     fprintf(out, "[Game Movie]\n"
                  "-name: %s\n"

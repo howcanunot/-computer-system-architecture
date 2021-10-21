@@ -1,4 +1,7 @@
 #include "container.h"
+#include "game_movie.h"
+#include "cartoon.h"
+#include "documentary.h"
 
 container::container() {
 
@@ -11,7 +14,18 @@ container::container(int size) {
 
 container::~container() {
     for (int i = 0; i < this->size; i++) {
-        delete this->cont[i];
+        // game_movie *m1 = dynamic_cast<game_movie *>(cont[i]);
+        // cartoon *m2 = dynamic_cast<cartoon *>(cont[i]);
+        // documentary *m3 = dynamic_cast<documentary*>(cont[i]);
+//
+        // if (m1 != NULL) {
+        //     delete m1;
+        // } else if (m2 != NULL) {
+        //     delete m2;
+        // } else {
+        //     delete m3;
+        // }
+        delete cont[i];
     }
 
     delete[] cont;

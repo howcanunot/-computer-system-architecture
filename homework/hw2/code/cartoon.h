@@ -26,6 +26,8 @@ public:
 
     cartoon(char *name, int name_size, int release_year, int type);
 
+    ~cartoon() override;
+
     void print(FILE *out) override;
 };
 

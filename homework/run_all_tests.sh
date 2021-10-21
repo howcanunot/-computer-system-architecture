@@ -18,4 +18,4 @@ echo "Random test #1";
 time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -n 100 /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand01_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand01_2.txt;
 
 echo "Random Test #2";
-time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -n 1000 /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand02_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand02_1.txt;
+time /home/canunot/repos/computer-system-architecture/homework/hw2/code/cmake-build-debug/hw2 -n 10000 /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand02_1.txt /home/canunot/repos/computer-system-architecture/homework/hw2/tests/outrand02_2.txt;

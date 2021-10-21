@@ -11,11 +11,13 @@
 //     int duration;
 // };
 
-class documantary : public movie {
+class documentary : public movie {
 public:
     int duration;
 
-    documantary(char *name, int name_size, int release_year, int duration);
+    documentary(char *name, int name_size, int release_year, int duration);
+
+    ~documentary() override;
 
     void print(FILE *out) override;
 };

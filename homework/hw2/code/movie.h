@@ -14,6 +14,8 @@ public:
 
     movie(char *name, int name_size, int release_year);
 
+    virtual ~movie();
+
     double year_div_name();
 
     virtual void print(FILE *out);

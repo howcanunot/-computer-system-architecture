@@ -10,6 +10,8 @@ public:
 
     game_movie(char *name, int name_size, int release_year, char *director, int director_size);
 
+    ~game_movie() override;
+
     void print(FILE *out) override;
 };
 

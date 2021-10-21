@@ -12,6 +12,10 @@ movie::movie(char *name, int name_size, int release_year) {
     this->release_year = release_year;
 }
 
+movie::~movie() {
+
+}
+
 double movie::year_div_name() {
     return 1.0 * this->release_year / this->name_size;
 }
@@ -42,7 +46,7 @@ movie* movie::create_from_file(FILE *in) {
         int release_year, duration;
 
         fscanf(in, "%s %d %d\n", name, &release_year, &duration);
-        return new documantary(name, sizeof(name) / sizeof(char*), release_year, duration);
+        return new documentary(name, sizeof(name) / sizeof(char*), release_year, duration);
     } else {
         printf("ERROR: Wrong movie type %s\n", type);
         exit(1);
@@ -50,33 +54,33 @@ movie* movie::create_from_file(FILE *in) {
 }
 
 void movie::fill_rand(char *str, int size) {
-    for (int i = 0; i < size; i++) {
+    for (int i = 0; i < size - 1; i++) {
         str[i] = (char)('a' + rand_letter());
     }
-    // str[size] = '\0';
+    str[size - 1] = '\0';
 }
 
 movie* movie::create_random() {
     int type = rand_letter() % 3;
 
     if (type == 0) {
-        int size1 = rand_size(), size2 = rand_size();
+        int size1 = rand_size() + 1, size2 = rand_size() + 1;
         char *name = new char[size1], *director = new char[size2];
         fill_rand(name, size1);
         fill_rand(director, size2);
 
         return new game_movie(name, size1, rand_year(), director, size2);
     } else if (type == 1) {
-        int size = rand_size();
+        int size = rand_size() + 1;
         char *name = new char[size];
         fill_rand(name, size);
 
         return new cartoon(name, size, rand_year(), rand_letter() % 3);
     } else {
-        int size = rand_size();
+        int size = rand_size() + 1;
         char *name = new char[size];
         fill_rand(name, size);
 
-        return new documantary(name, size, rand_year(), rand_duration());
+        return new documentary(name, size, rand_year(), rand_duration());
     }
 }
