@@ -7,8 +7,7 @@ void In(game_movie &g, std::ifstream &ifst) {
 }
 
 // Случайный ввод параметров игрового фильма
-void InRnd(game_movie &g) {
-    g.name_size = Random();
+void InRnd(game_movie &g) {    g.name_size = Random();
     for (size_t i = 0; i < g.name_size; ++i) {
         g.name[i] = char('a' + Random());
     }
