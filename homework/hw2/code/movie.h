@@ -25,11 +25,4 @@ public:
     static movie* create_random();
 };
 
-// movie *In(std::ifstream &ifdt);
-//
-// movie *InRnd();
-//
-// void Out(movie &s, std::ofstream &ofst);
-
-
 #endif

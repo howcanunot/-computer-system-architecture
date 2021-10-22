@@ -3,13 +3,6 @@
 
 #include "movie.h"
 
-
-// struct container {
-//     enum {max_len = 10000};
-//     int len; // текущая длина
-//     movie *cont[max_len];
-// };
-
 class container {
 private:
     movie **cont;

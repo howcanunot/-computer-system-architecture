@@ -15,15 +15,4 @@ public:
     void print(FILE *out) override;
 };
 
-// // Ввод параметров фильма из файла
-// void In(game_movie &r, std::ifstream &ifst);
-//
-// // Случайный ввод параметров фильма
-// void InRnd(game_movie &r);
-//
-// // Вывод параметров фильма в форматируемый поток
-// void Out(game_movie &r, std::ofstream &ofst);
-//
-// double YearDivName(game_movie &g);
-
 #endif
