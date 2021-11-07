@@ -21,3 +21,6 @@ class Movie:
 
     def _release_year_div_name(self) -> float:
         return self._release_year / len(self._name)
+
+    def __gt__(self, other):
+        return self._release_year_div_name() > other._release_year_div_name()

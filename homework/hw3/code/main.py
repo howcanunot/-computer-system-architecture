@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import getopt
 import sys
+import time
 from container import Container
 
 
@@ -13,10 +14,11 @@ def error_message():
 
 
 def main(argv):
-    if len(argv) != 3:
+    if len(argv) != 4:
         error_message()
         return
 
+    start = time.time()
     try:
         opt, args = getopt.getopt(argv, "f:n")
     except getopt.GetoptError:
@@ -27,6 +29,10 @@ def main(argv):
     container.fill()
 
     container.print(args[1])
+    container.shuffle()
+    container.print(args[2])
+
+    print("--- {} seconds ---".format(time.time() - start))
 
 
 if __name__ == '__main__':
