@@ -20,19 +20,22 @@ def main(argv):
 
     start = time.time()
     try:
-        opt, args = getopt.getopt(argv, "f:n")
+        opt, args = getopt.getopt(argv, "n:f:")
     except getopt.GetoptError:
         error_message()
         return
 
-    container = Container(args[0])
+    if opt[0][0] == '-n':
+        container = Container(size=opt[0][1])
+    else:
+        container = Container(filename=opt[0][1])
     container.fill()
 
-    container.print(args[1])
+    container.print(args[0])
     container.shuffle()
-    container.print(args[2])
+    container.print(args[1])
 
-    print("--- {} seconds ---".format(time.time() - start))
+    print("--- {} seconds ---\n\n".format(time.time() - start))
 
 
 if __name__ == '__main__':
