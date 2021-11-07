@@ -1,0 +1,31 @@
+Filled container:
+1. [Game Movie]
+-name: Borat
+-release year: 2007
+-director: Me
+-function result: 2007.000000
+
+2. [Cartoon]
+-name: 9
+release_year: 2004
+type of creation: PUPPET
+-function result: 2004.000000
+
+3. [Game Movie]
+-name: movie
+-release year: 2002
+-director: director_very_cool
+-function result: 2002.000000
+
+4. [Documentary]
+-name: bbc_africa
+-release year: 2021
+-duration: 95
+-function result: 2021.000000
+
+5. [Cartoon]
+-name: morty
+release_year: 2015
+type of creation: HAND
+-function result: 2015.000000
+
