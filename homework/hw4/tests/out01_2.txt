@@ -1,0 +1,32 @@
+Sorted container:
+Container contains 5 elements
+[Documentary]
+-name = bbc_africa
+-release year = 2021
+-duration = 95
+-function result = 202.100000
+
+[Game Movie]
+-name = movie
+-release year = 2002
+-director = director_very_cool
+-function result = 400.400000
+
+[Game Movie]
+-name = Borat
+-release year = 2007
+-director = Me
+-function result = 401.400000
+
+[Cartoon]
+-name = morty
+-release year = 2015
+-director = 0
+-function result = 403.000000
+
+[Cartoon]
+-name = 9
+-release year = 2004
+-director = 1
+-function result = 2004.000000
+

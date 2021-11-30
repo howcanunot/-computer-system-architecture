@@ -1,0 +1,57 @@
+     1                                  global GameMovieYearDivName
+     2                                  global CartoonYearDivName
+     3                                  global DocumentaryDivName
+     4                                  global MovieYearDivName
+     5                                  
+     6                                  SECTION .text
+     7                                  
+     8                                  GameMovieYearDivName:
+     9 00000000 55                              push    rbp
+    10 00000001 4889E5                          mov     rbp, rsp
+    11 00000004 48897DF8                        mov     qword [rbp-8H], rdi
+    12 00000008 488B45F8                        mov     rax, qword [rbp-8H]
+    13 0000000C 8B4030                          mov     eax, dword [rax+30H]
+    14 0000000F 8945F0                          mov     dword [rbp-10H], eax
+    15 00000012 C5FB2A45F0                      vcvtsi2sd xmm0, xmm0, dword [rbp-10H]
+    16 00000017 488B45F8                        mov     rax, qword [rbp-8H]
+    17 0000001B 8B00                            mov     eax, dword [rax]
+    18 0000001D 8945F0                          mov     dword [rbp-10H], eax
+    19 00000020 C5F32A4DF0                      vcvtsi2sd xmm1, xmm1, dword [rbp-10H]
+    20 00000025 C5FB5EC1                        vdivsd  xmm0, xmm0, xmm1
+    21 00000029 5D                              pop     rbp
+    22 0000002A C3                              ret
+    23                                  
+    24                                  CartoonYearDivName:; Function begin
+    25 0000002B 55                              push    rbp                                     ; 03AD _ 55
+    26 0000002C 4889E5                          mov     rbp, rsp                                ; 03AE _ 48: 89. E5
+    27 0000002F 48897DF8                        mov     qword [rbp-8H], rdi                     ; 03B1 _ 48: 89. 7D, F8
+    28 00000033 488B45F8                        mov     rax, qword [rbp-8H]                     ; 03B5 _ 48: 8B. 45, F8
+    29 00000037 8B4030                          mov     eax, dword [rax+30H]                    ; 03B9 _ 8B. 40, 30
+    30 0000003A 8945F0                          mov     dword [rbp-10H], eax                    ; 03BC _ 89. 45, F0
+    31 0000003D C5F32A4DF0                      vcvtsi2sd xmm1, xmm1, dword [rbp-10H]           ; 03BF _ C5 F3: 2A. 4D, F0
+    32 00000042 488B45F8                        mov     rax, qword [rbp-8H]                     ; 03C4 _ 48: 8B. 45, F8
+    33 00000046 488B00                          mov     rax, qword [rax]                        ; 03C8 _ 48: 8B. 00
+    34 00000049 488945F0                        mov     qword [rbp-10H], rax                    ; 03D0 _ 48: 89. 45, F0
+    35 0000004D C4E1FB2A45F0                    vcvtsi2sd xmm0, xmm0, qword [rbp-10H]           ; 03D4 _ C4 E1 FB: 2A. 45, F0
+    36 00000053 C5F35EC0                        vdivsd  xmm0, xmm1, xmm0                        ; 03DA _ EB, 1A
+    37 00000057 5D                              pop     rbp                                     ; 03FA _ 5D
+    38 00000058 C3                              ret                                             ; 03FB _ C3
+    39                                  ; CartoonYearDivName End of function
+    40                                  
+    41                                  
+    42                                  DocumentaryDivName:
+    43 00000059 55                              push    rbp                                     
+    44 0000005A 4889E5                          mov     rbp, rsp                                
+    45 0000005D 48897DF8                        mov     qword [rbp-8H], rdi                     
+    46 00000061 488B45F8                        mov     rax, qword [rbp-8H]                     
+    47 00000065 8B402C                          mov     eax, dword [rax+2CH]                    
+    48 00000068 8945F4                          mov     dword [rbp-0CH], eax                    
+    49 0000006B C5FB2A45F4                      vcvtsi2sd xmm0, xmm0, dword [rbp-0CH]           
+    50 00000070 488B45F8                        mov     rax, qword [rbp-8H]                     
+    51 00000074 8B00                            mov     eax, dword [rax]                        
+    52 00000076 8945F4                          mov     dword [rbp-0CH], eax                    
+    53 00000079 C5F32A4DF4                      vcvtsi2sd xmm1, xmm1, dword [rbp-0CH]           
+    54 0000007E C5FB5EC1                        vdivsd  xmm0, xmm0, xmm1                        
+    55 00000082 5D                              pop     rbp                                     
+    56 00000083 C3                              ret
+    57                                  

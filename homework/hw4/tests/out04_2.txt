@@ -1,0 +1,8 @@
+Sorted container:
+Container contains 1 elements
+[Game Movie]
+-name = warcraft
+-release year = 2017
+-director = mommy
+-function result = 252.125000
+

@@ -1,0 +1,32 @@
+Sorted container:
+Container contains 5 elements
+[Cartoon]
+-name = alice_in_place_2
+-release year = 2017
+-director = 2
+-function result = 126.062500
+
+[Cartoon]
+-name = alice_in_place
+-release year = 2015
+-director = 2
+-function result = 143.928571
+
+[Documentary]
+-name = blalalalal
+-release year = 2014
+-duration = 105
+-function result = 201.400000
+
+[Game Movie]
+-name = soldier
+-release year = 2015
+-director = Bikov
+-function result = 287.857143
+
+[Game Movie]
+-name = factory
+-release year = 2018
+-director = Bikov
+-function result = 288.285714
+

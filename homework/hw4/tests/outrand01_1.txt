@@ -1,0 +1,6002 @@
+Filled container:
+Container contains 1000 elements
+[Cartoon]
+-name = lrbbmqbhcdarzowkkyhiddq
+-release year = 1952
+-director = 0
+-function result = 84.869565
+
+[Game Movie]
+-name = rjmowfrxsjybldbefsarcbyn
+-release year = 1956
+-director = cdyg
+-function result = 81.500000
+
+[Documentary]
+-name = pklorellnmpapqfwkhopkmco
+-release year = 1957
+-duration = 174
+-function result = 81.541667
+
+[Cartoon]
+-name = nkuewhsqmgbbuqcljjivswm
+-release year = 1960
+-director = 0
+-function result = 85.217391
+
+[Cartoon]
+-name = bxixmvtrrbljptnsnfwz
+-release year = 1955
+-director = 1
+-function result = 97.750000
+
+[Game Movie]
+-name = afadrrwsofsbc
+-release year = 1966
+-director = uvqhffbsaqxwp
+-function result = 151.230769
+
+[Documentary]
+-name = c
+-release year = 1957
+-duration = 124
+-function result = 1957.000000
+
+[Documentary]
+-name = zvfrkmln
+-release year = 1975
+-duration = 118
+-function result = 246.875000
+
+[Game Movie]
+-name = pqpxrjxkitz
+-release year = 1955
+-director = xacbhhkicqcoendtomfgdwdw
+-function result = 177.727273
+
+[Documentary]
+-name = pxiqvku
+-release year = 1969
+-duration = 134
+-function result = 281.285714
+
+[Game Movie]
+-name = cgdewhtacioh
+-release year = 1966
+-director = rdtqkvwcsgspqo
+-function result = 163.833333
+
+[Game Movie]
+-name = boaguwnnyqxnzlgdgwp
+-release year = 1967
+-director = t
+-function result = 103.526316
+
+[Cartoon]
+-name = ln
+-release year = 1950
+-director = 0
+-function result = 975.000000
+
+[Game Movie]
+-name = uguum
+-release year = 1950
+-director = qcdrubetokyxho
+-function result = 390.000000
+
+[Documentary]
+-name = wdvmxxrd
+-release year = 1974
+-duration = 171
+-function result = 246.750000
+
+[Documentary]
+-name = mndqtukwagml
+-release year = 1959
+-duration = 116
+-function result = 163.250000
+
+[Documentary]
+-name = kwcibxubumenmeyatdrmy
+-release year = 1958
+-duration = 145
+-function result = 93.238095
+
+[Game Movie]
+-name = xloghiqfmz
+-release year = 1971
+-director = lvihjou
+-function result = 197.100000
+
+[Game Movie]
+-name = yoypayulyeimuotehzrii
+-release year = 1960
+-director = fs
+-function result = 93.333333
+
+[Game Movie]
+-name = gkbbipz
+-release year = 1965
+-director = rzucxamludfykgruowzgiooob
+-function result = 280.714286
+
+[Game Movie]
+-name = eqlwphapjnad
+-release year = 1957
+-director = hdcnvwdtxjbmyppp
+-function result = 163.083333
+
+[Game Movie]
+-name = xnspusgdhiixqmbfjxjcv
+-release year = 1973
+-director = djsuyibyebmwsiqyoygy
+-function result = 93.952381
+
+[Game Movie]
+-name = zevypzvjegebe
+-release year = 1958
+-director = cfuftsxdixtigs
+-function result = 150.615385
+
+[Cartoon]
+-name = hkchz
+-release year = 1955
+-director = 0
+-function result = 391.000000
+
+[Documentary]
+-name = lrjqfnxzt
+-release year = 1967
+-duration = 108
+-function result = 218.555556
+
+[Game Movie]
+-name = bspkyhsenbppkqtpddbuot
+-release year = 1966
+-director = b
+-function result = 89.363636
+
+[Documentary]
+-name = ivrfxjujjddntgeiqvdgaij
+-release year = 1972
+-duration = 99
+-function result = 85.739130
+
+[Documentary]
+-name = aubwewpjvygehljxepbpiwuqz
+-release year = 1975
+-duration = 123
+-function result = 79.000000
+
+[Documentary]
+-name = du
+-release year = 1975
+-duration = 151
+-function result = 987.500000
+
+[Game Movie]
+-name = f
+-release year = 1971
+-director = pqpqwuzifwovyddwyv
+-function result = 1971.000000
+
+[Cartoon]
+-name = rczmgyjgfdxvtnunnesls
+-release year = 1961
+-director = 0
+-function result = 93.380952
+
+[Cartoon]
+-name = iupfxlzbknhkwppanltcf
+-release year = 1967
+-director = 2
+-function result = 93.666667
+
+[Game Movie]
+-name = dds
+-release year = 1964
+-director = zoyvegurfwcsfm
+-function result = 654.666667
+
+[Documentary]
+-name = qmrjo
+-release year = 1967
+-duration = 120
+-function result = 393.400000
+
+[Game Movie]
+-name = wlkobmea
+-release year = 1957
+-director = kgccnae
+-function result = 244.625000
+
+[Cartoon]
+-name = veymqpxhlrnunyfdzrh
+-release year = 1950
+-director = 1
+-function result = 102.631579
+
+[Game Movie]
+-name = euygafoubu
+-release year = 1973
+-director = pnimuwfjqsjxvkqdorx
+-function result = 197.300000
+
+[Game Movie]
+-name = wctdsneogvbpkxlpgd
+-release year = 1955
+-director = rbfcriqi
+-function result = 108.611111
+
+[Game Movie]
+-name = ynkrref
+-release year = 1952
+-director = snvucftpwctgtwmxnupycfg
+-function result = 278.857143
+
+[Documentary]
+-name = unublmoiitncklefs
+-release year = 1951
+-duration = 155
+-function result = 114.764706
+
+[Cartoon]
+-name = rampetvhqnddjeqvuygpnkaz
+-release year = 1955
+-director = 1
+-function result = 81.458333
+
+[Documentary]
+-name = jvoaxdpcwmjobmsk
+-release year = 1960
+-duration = 148
+-function result = 122.500000
+
+[Documentary]
+-name = jnewxgxnnofwltw
+-release year = 1972
+-duration = 139
+-function result = 131.466667
+
+[Cartoon]
+-name = vbwjckdmeouuzh
+-release year = 1971
+-director = 0
+-function result = 140.785714
+
+[Cartoon]
+-name = vwujbqx
+-release year = 1965
+-director = 2
+-function result = 280.714286
+
+[Documentary]
+-name = cvograiddvhrrdsycqhk
+-release year = 1954
+-duration = 129
+-function result = 97.700000
+
+[Cartoon]
+-name = hxtembaqwqwpqhsuebnvfgv
+-release year = 1972
+-director = 0
+-function result = 85.739130
+
+[Game Movie]
+-name = jjafqzzxlcxdzncqgjlapo
+-release year = 1959
+-director = kvxfgvicetcmkbl
+-function result = 89.045455
+
+[Documentary]
+-name = gtqvvhbgsdvivhes
+-release year = 1960
+-duration = 179
+-function result = 122.500000
+
+[Cartoon]
+-name = mwrqidrvmhlubbryktheyent
+-release year = 1967
+-director = 0
+-function result = 81.958333
+
+[Documentary]
+-name = de
+-release year = 1966
+-duration = 130
+-function result = 983.000000
+
+[Documentary]
+-name = gluaiihveixwjjrqop
+-release year = 1951
+-duration = 150
+-function result = 108.388889
+
+[Game Movie]
+-name = uxhxdip
+-release year = 1951
+-director = zwswy
+-function result = 278.714286
+
+[Game Movie]
+-name = ylqvjz
+-release year = 1970
+-director = arvrlya
+-function result = 328.333333
+
+[Documentary]
+-name = drcnjkphclffrkeecbpdipufhi
+-release year = 1959
+-duration = 93
+-function result = 75.346154
+
+[Documentary]
+-name = jhrnxcxmjcxohqanxdrmgzeb
+-release year = 1963
+-duration = 113
+-function result = 81.791667
+
+[Documentary]
+-name = wpmhwdvthsfqu
+-release year = 1954
+-duration = 144
+-function result = 150.307692
+
+[Cartoon]
+-name = grujigskmvrzgfwvrftwapdt
+-release year = 1969
+-director = 2
+-function result = 82.041667
+
+[Game Movie]
+-name = zt
+-release year = 1964
+-director = gnsrxajjngcomikjzsdwsszn
+-function result = 982.000000
+
+[Game Movie]
+-name = ruyp
+-release year = 1970
+-director = nj
+-function result = 492.500000
+
+[Documentary]
+-name = fuzmxnafame
+-release year = 1965
+-duration = 168
+-function result = 178.636364
+
+[Documentary]
+-name = jcazxdrtdgy
+-release year = 1966
+-duration = 179
+-function result = 178.727273
+
+[Game Movie]
+-name = czy
+-release year = 1971
+-director = n
+-function result = 657.000000
+
+[Cartoon]
+-name = cqcjitlvcnvbmasid
+-release year = 1956
+-director = 1
+-function result = 115.058824
+
+[Cartoon]
+-name = aatzzwpwmfbfjkncvk
+-release year = 1961
+-director = 1
+-function result = 108.944444
+
+[Cartoon]
+-name = zjchpdnl
+-release year = 1963
+-director = 2
+-function result = 245.375000
+
+[Game Movie]
+-name = pnlgjznkewwuysge
+-release year = 1962
+-director = onexp
+-function result = 122.625000
+
+[Game Movie]
+-name = baopmdgzqmkqzxuvtqv
+-release year = 1965
+-director = xbslqzkglzamz
+-function result = 103.421053
+
+[Game Movie]
+-name = sjolvybwxxttqo
+-release year = 1960
+-director = nrbaia
+-function result = 140.000000
+
+[Cartoon]
+-name = lszkhfzconnm
+-release year = 1966
+-director = 2
+-function result = 163.833333
+
+[Cartoon]
+-name = peefsnsmouwq
+-release year = 1964
+-director = 1
+-function result = 163.666667
+
+[Game Movie]
+-name = gcfohesyshmgxwtoayu
+-release year = 1972
+-director = nojdjftqtwkbapriujimq
+-function result = 103.789474
+
+[Game Movie]
+-name = slgvlcsaqbdbgwtb
+-release year = 1970
+-director = eettwdnfnbyjvpdjxy
+-function result = 123.125000
+
+[Cartoon]
+-name = xstatbzpctthoofre
+-release year = 1956
+-director = 0
+-function result = 115.058824
+
+[Documentary]
+-name = rbcvkzvgbof
+-release year = 1957
+-duration = 129
+-function result = 177.909091
+
+[Game Movie]
+-name = jhdnaywpnbitora
+-release year = 1958
+-director = 
+-function result = 130.533333
+
+[Cartoon]
+-name = dnezw
+-release year = 1965
+-director = 2
+-function result = 393.000000
+
+[Game Movie]
+-name = w
+-release year = 1968
+-director = ohssvtqtkfv
+-function result = 1968.000000
+
+[Game Movie]
+-name = jzlucqxswyqd
+-release year = 1959
+-director = tdmfrtzlqseke
+-function result = 163.250000
+
+[Cartoon]
+-name = ksklfepxchvczysvdgcxbbiswm
+-release year = 1950
+-director = 1
+-function result = 75.000000
+
+[Game Movie]
+-name = zifktmoikssf
+-release year = 1953
+-director = tgpojxqiysrsqfwqdjqnqcg
+-function result = 162.750000
+
+[Cartoon]
+-name = nlluieazvmwnuufnnx
+-release year = 1961
+-director = 0
+-function result = 108.944444
+
+[Documentary]
+-name = vgmliuqandlyavfauaosnlnva
+-release year = 1968
+-duration = 142
+-function result = 78.720000
+
+[Game Movie]
+-name = iumoiawcqxswkqwg
+-release year = 1973
+-director = yazntnaikameybnuqbcqagg
+-function result = 123.312500
+
+[Game Movie]
+-name = hry
+-release year = 1964
+-director = qxqqmlfotpqhv
+-function result = 654.666667
+
+[Cartoon]
+-name = iammqmvxj
+-release year = 1951
+-director = 0
+-function result = 216.777778
+
+[Game Movie]
+-name = aifzyxnjcberrnm
+-release year = 1954
+-director = xxsyjhov
+-function result = 130.266667
+
+[Cartoon]
+-name = bpyqrix
+-release year = 1956
+-director = 1
+-function result = 279.428571
+
+[Cartoon]
+-name = rygx
+-release year = 1973
+-director = 2
+-function result = 493.250000
+
+[Cartoon]
+-name = hicain
+-release year = 1972
+-director = 1
+-function result = 328.666667
+
+[Documentary]
+-name = kqmbpeszdigz
+-release year = 1975
+-duration = 175
+-function result = 164.583333
+
+[Documentary]
+-name = zqsjwatycbmjawwmnine
+-release year = 1955
+-duration = 167
+-function result = 97.750000
+
+[Game Movie]
+-name = plucltxmkpvgrrgtuseur
+-release year = 1956
+-director = 
+-function result = 93.142857
+
+[Cartoon]
+-name = tkcapwpbqrom
+-release year = 1950
+-director = 1
+-function result = 162.500000
+
+[Cartoon]
+-name = xezqkvlfb
+-release year = 1972
+-director = 1
+-function result = 219.111111
+
+[Documentary]
+-name = cpjmrmbpbegvsul
+-release year = 1966
+-duration = 112
+-function result = 131.066667
+
+[Cartoon]
+-name = uvkesvjtdhvtjmexfqbvu
+-release year = 1953
+-director = 2
+-function result = 93.000000
+
+[Game Movie]
+-name = x
+-release year = 1972
+-director = wn
+-function result = 1972.000000
+
+[Cartoon]
+-name = tbplyzedic
+-release year = 1968
+-director = 1
+-function result = 196.800000
+
+[Documentary]
+-name = pwtq
+-release year = 1965
+-duration = 147
+-function result = 491.250000
+
+[Game Movie]
+-name = earhwgfnpaqelofrsotqi
+-release year = 1966
+-director = txipqzeqvl
+-function result = 93.619048
+
+[Game Movie]
+-name = oubbjbrpmixfclbstnosv
+-release year = 1952
+-director = kuj
+-function result = 92.952381
+
+[Game Movie]
+-name = sdqhxrkiueziowoqjpiecwx
+-release year = 1951
+-director = bjtnmkjgncpmvauqgtausok
+-function result = 84.826087
+
+[Documentary]
+-name = gjtfiuqbjclvlazamucim
+-release year = 1952
+-duration = 172
+-function result = 92.952381
+
+[Cartoon]
+-name = wdoxj
+-release year = 1955
+-director = 2
+-function result = 391.000000
+
+[Documentary]
+-name = mdadg
+-release year = 1957
+-duration = 178
+-function result = 391.400000
+
+[Documentary]
+-name = suevja
+-release year = 1967
+-duration = 109
+-function result = 327.833333
+
+[Cartoon]
+-name = vcorhfrqq
+-release year = 1963
+-director = 1
+-function result = 218.111111
+
+[Documentary]
+-name = quoyevslqp
+-release year = 1961
+-duration = 169
+-function result = 196.100000
+
+[Game Movie]
+-name = krhunljgsoxleuyyfqu
+-release year = 1960
+-director = ozqhmgyetyyepfaesjl
+-function result = 103.157895
+
+[Cartoon]
+-name = vdevdllyg
+-release year = 1975
+-director = 0
+-function result = 219.444444
+
+[Documentary]
+-name = ndjrxhrdyy
+-release year = 1953
+-duration = 131
+-function result = 195.300000
+
+[Cartoon]
+-name = qdoayshwxshxzj
+-release year = 1972
+-director = 0
+-function result = 140.857143
+
+[Documentary]
+-name = bffamxdnxjqoy
+-release year = 1967
+-duration = 120
+-function result = 151.307692
+
+[Game Movie]
+-name = rernekxdl
+-release year = 1973
+-director = cjfqkkvn
+-function result = 219.222222
+
+[Documentary]
+-name = mszcixmzkwsqoiwyf
+-release year = 1961
+-duration = 138
+-function result = 115.352941
+
+[Game Movie]
+-name = uuugf
+-release year = 1969
+-director = teomqinuqnirxelps
+-function result = 393.800000
+
+[Documentary]
+-name = aodqszkogrfbxtnpdbl
+-release year = 1966
+-duration = 139
+-function result = 103.473684
+
+[Cartoon]
+-name = pyyeqtujuiokc
+-release year = 1972
+-director = 2
+-function result = 151.692308
+
+[Game Movie]
+-name = qyxntndxqqsgkhvihbaawju
+-release year = 1960
+-director = aglodd
+-function result = 85.217391
+
+[Cartoon]
+-name = jizy
+-release year = 1974
+-director = 1
+-function result = 493.500000
+
+[Documentary]
+-name = suozr
+-release year = 1958
+-duration = 138
+-function result = 391.600000
+
+[Cartoon]
+-name = jrifximkyrokktvusuiqiojfc
+-release year = 1974
+-director = 1
+-function result = 78.960000
+
+[Game Movie]
+-name = ryekijksvusokcyeavwu
+-release year = 1973
+-director = pctaj
+-function result = 98.650000
+
+[Cartoon]
+-name = xdbxjmitw
+-release year = 1966
+-director = 2
+-function result = 218.444444
+
+[Cartoon]
+-name = fbbfhbadvfuaaujxfrwkvuuh
+-release year = 1965
+-director = 1
+-function result = 81.875000
+
+[Game Movie]
+-name = fvfkyhsfi
+-release year = 1955
+-director = leafgaapahjwtesplweq
+-function result = 217.222222
+
+[Game Movie]
+-name = mymtqreleinkop
+-release year = 1973
+-director = fpvomqueghdm
+-function result = 140.928571
+
+[Cartoon]
+-name = nwxzqnswaxgnjwdxbuusgkmnq
+-release year = 1966
+-director = 1
+-function result = 78.640000
+
+[Game Movie]
+-name = adiwahoqakqzqgkmlhqfdi
+-release year = 1965
+-director = nwzgsplorown
+-function result = 89.318182
+
+[Game Movie]
+-name = hioxh
+-release year = 1953
+-director = frvqalw
+-function result = 390.600000
+
+[Cartoon]
+-name = sslykajatax
+-release year = 1965
+-director = 0
+-function result = 178.636364
+
+[Game Movie]
+-name = yldxukdnftprr
+-release year = 1961
+-director = mbmemlrowrhwoqntclgh
+-function result = 150.846154
+
+[Documentary]
+-name = orzhgsbaecplpccdyv
+-release year = 1973
+-duration = 145
+-function result = 109.611111
+
+[Game Movie]
+-name = mfha
+-release year = 1958
+-director = plqizkhiqbjtim
+-function result = 489.500000
+
+[Cartoon]
+-name = kxik
+-release year = 1973
+-director = 0
+-function result = 493.250000
+
+[Game Movie]
+-name = cwmkw
+-release year = 1951
+-director = 
+-function result = 390.200000
+
+[Cartoon]
+-name = lievqvwcqeqaztkydwr
+-release year = 1956
+-director = 1
+-function result = 102.947368
+
+[Documentary]
+-name = cjpa
+-release year = 1968
+-duration = 153
+-function result = 492.000000
+
+[Cartoon]
+-name = epkzhhv
+-release year = 1973
+-director = 2
+-function result = 281.857143
+
+[Documentary]
+-name = xd
+-release year = 1959
+-duration = 96
+-function result = 979.500000
+
+[Documentary]
+-name = gtd
+-release year = 1966
+-duration = 170
+-function result = 655.333333
+
+[Documentary]
+-name = cyspqzvuqivzptlpvoo
+-release year = 1963
+-duration = 142
+-function result = 103.315789
+
+[Game Movie]
+-name = p
+-release year = 1968
+-director = vswoao
+-function result = 1968.000000
+
+[Game Movie]
+-name = hrffnxn
+-release year = 1963
+-director = yeeltzaiz
+-function result = 280.428571
+
+[Documentary]
+-name = coz
+-release year = 1960
+-duration = 126
+-function result = 653.333333
+
+[Cartoon]
+-name = yhzgpqlwfkjqipuujvwtxlb
+-release year = 1963
+-director = 1
+-function result = 85.347826
+
+[Documentary]
+-name = jdohbvghmyuiggtyqjtmuqinn
+-release year = 1966
+-duration = 127
+-function result = 78.640000
+
+[Game Movie]
+-name = hntkddnal
+-release year = 1967
+-director = nmsxsatqqeldacnnpjferm
+-function result = 218.555556
+
+[Cartoon]
+-name = uqnwbjjpdjhdeavknykpoxhxc
+-release year = 1966
+-director = 2
+-function result = 78.640000
+
+[Cartoon]
+-name = dqavd
+-release year = 1975
+-director = 1
+-function result = 395.000000
+
+[Documentary]
+-name = orrwwxyrh
+-release year = 1968
+-duration = 101
+-function result = 218.666667
+
+[Documentary]
+-name = gqkd
+-release year = 1971
+-duration = 160
+-function result = 492.750000
+
+[Cartoon]
+-name = zzczufvtvfioy
+-release year = 1960
+-director = 0
+-function result = 150.769231
+
+[Game Movie]
+-name = dervv
+-release year = 1955
+-director = dneghbctcbxdxezrzgbp
+-function result = 391.000000
+
+[Cartoon]
+-name = anffeccbgqfmzjqtlrsppxqiyw
+-release year = 1964
+-director = 0
+-function result = 75.538462
+
+[Cartoon]
+-name = pefujlxnmddurddiyob
+-release year = 1955
+-director = 1
+-function result = 102.894737
+
+[Game Movie]
+-name = vcoulcvdrzkmkwly
+-release year = 1974
+-director = qdchghrg
+-function result = 123.375000
+
+[Cartoon]
+-name = dnobqcvdeqjystmepxcaniewqm
+-release year = 1973
+-director = 2
+-function result = 75.884615
+
+[Cartoon]
+-name = wpymqorlux
+-release year = 1953
+-director = 1
+-function result = 195.300000
+
+[Game Movie]
+-name = whcoghotpusfgiestckrpaigo
+-release year = 1955
+-director = fu
+-function result = 78.200000
+
+[Cartoon]
+-name = biyrrffmwaeeimidfnnzc
+-release year = 1957
+-director = 0
+-function result = 93.190476
+
+[Cartoon]
+-name = lpbqsv
+-release year = 1953
+-director = 1
+-function result = 325.500000
+
+[Cartoon]
+-name = udsgaungfzoi
+-release year = 1951
+-director = 1
+-function result = 162.583333
+
+[Documentary]
+-name = foprwcjzs
+-release year = 1973
+-duration = 171
+-function result = 219.222222
+
+[Cartoon]
+-name = tacwtjy
+-release year = 1972
+-director = 0
+-function result = 281.714286
+
+[Cartoon]
+-name = xvegybogsfxqhipbompuf
+-release year = 1973
+-director = 0
+-function result = 93.952381
+
+[Documentary]
+-name = icaghufczma
+-release year = 1952
+-duration = 176
+-function result = 177.454545
+
+[Game Movie]
+-name = igmrqcteqkbwbaamicoqliv
+-release year = 1956
+-director = jjoomwkucznvd
+-function result = 85.043478
+
+[Cartoon]
+-name = qarsargkwuaheyvohlet
+-release year = 1966
+-director = 0
+-function result = 98.300000
+
+[Game Movie]
+-name = pdjslkoelfynzea
+-release year = 1965
+-director = aaceazuimydypvmgyxblh
+-function result = 131.000000
+
+[Game Movie]
+-name = unkttkqtmvanuuvjvahmv
+-release year = 1962
+-director = uvsvhzkywhmgchqvdcqdp
+-function result = 93.428571
+
+[Cartoon]
+-name = xwneikzfgtant
+-release year = 1961
+-director = 1
+-function result = 150.846154
+
+[Game Movie]
+-name = zvahnvkplpfaotxngexrfcz
+-release year = 1964
+-director = dmuszlobiokvkwkxlrxblvotz
+-function result = 85.391304
+
+[Game Movie]
+-name = qlftx
+-release year = 1969
+-director = lzkbcsqmnciazvrzyeupyvdkb
+-function result = 393.800000
+
+[Cartoon]
+-name = pvgcwtey
+-release year = 1972
+-director = 2
+-function result = 246.500000
+
+[Cartoon]
+-name = yu
+-release year = 1973
+-director = 1
+-function result = 986.500000
+
+[Documentary]
+-name = wszshxpmjrhfawdibzbfy
+-release year = 1953
+-duration = 171
+-function result = 93.000000
+
+[Cartoon]
+-name = bhtaapzsorbnjpzcxec
+-release year = 1959
+-director = 0
+-function result = 103.105263
+
+[Game Movie]
+-name = jqdjhgvzjcukfjjzacbpnso
+-release year = 1955
+-director = pvtleijpynyfvue
+-function result = 85.000000
+
+[Game Movie]
+-name = rdjadjegbsypjomfbrnkilzhs
+-release year = 1953
+-director = bwczwtdfvirbosvmjfcym
+-function result = 78.120000
+
+[Documentary]
+-name = qzkpgemjaojyjofeywimqdackd
+-release year = 1972
+-duration = 122
+-function result = 75.846154
+
+[Documentary]
+-name = xysjqzncipttncjtjhrt
+-release year = 1960
+-duration = 109
+-function result = 98.000000
+
+[Cartoon]
+-name = ojbqhjjfkboaccenrxihcsa
+-release year = 1951
+-director = 1
+-function result = 84.826087
+
+[Cartoon]
+-name = xdcttnu
+-release year = 1971
+-director = 0
+-function result = 281.571429
+
+[Documentary]
+-name = crwqtyuynmxwvbqxorq
+-release year = 1964
+-duration = 178
+-function result = 103.368421
+
+[Cartoon]
+-name = hpmdzjlrlcncyoywbmvzhxpenh
+-release year = 1958
+-director = 0
+-function result = 75.307692
+
+[Game Movie]
+-name = hfivkhfxbqaquyetwift
+-release year = 1966
+-director = nsxrggo
+-function result = 98.300000
+
+[Cartoon]
+-name = xiqsvzzs
+-release year = 1966
+-director = 2
+-function result = 245.750000
+
+[Documentary]
+-name = mszfqjnmtaeqtmykcbrz
+-release year = 1959
+-duration = 98
+-function result = 97.950000
+
+[Documentary]
+-name = ltznluiy
+-release year = 1960
+-duration = 128
+-function result = 245.000000
+
+[Documentary]
+-name = vstouzgq
+-release year = 1954
+-duration = 134
+-function result = 244.250000
+
+[Game Movie]
+-name = grqsdmzohydtuot
+-release year = 1966
+-director = yysttlknm
+-function result = 131.066667
+
+[Game Movie]
+-name = vdpbxftatuqastvphoahpsdif
+-release year = 1957
+-director = xrfbqaghdfoyh
+-function result = 78.280000
+
+[Game Movie]
+-name = hntdcctcmiupqzeqsjrkmzrp
+-release year = 1971
+-director = foooioy
+-function result = 82.125000
+
+[Game Movie]
+-name = xnwb
+-release year = 1968
+-director = hvqzwuprgibsitjpazfritpfe
+-function result = 492.000000
+
+[Documentary]
+-name = qgrxekxcgmtmvvgfqqw
+-release year = 1965
+-duration = 178
+-function result = 103.421053
+
+[Game Movie]
+-name = xzaddukvlq
+-release year = 1974
+-director = kuzjzhwsutpcafs
+-function result = 197.400000
+
+[Game Movie]
+-name = bjhammegw
+-release year = 1965
+-director = t
+-function result = 218.333333
+
+[Cartoon]
+-name = lrnkb
+-release year = 1953
+-director = 2
+-function result = 390.600000
+
+[Documentary]
+-name = uzgcsec
+-release year = 1958
+-duration = 128
+-function result = 279.714286
+
+[Cartoon]
+-name = izyogwqzlifx
+-release year = 1969
+-director = 2
+-function result = 164.083333
+
+[Cartoon]
+-name = gman
+-release year = 1975
+-director = 0
+-function result = 493.750000
+
+[Cartoon]
+-name = tanviajschhk
+-release year = 1973
+-director = 0
+-function result = 164.416667
+
+[Documentary]
+-name = frohmxmsmmhvodihdv
+-release year = 1963
+-duration = 169
+-function result = 109.055556
+
+[Documentary]
+-name = fbxmlclxvrojacj
+-release year = 1972
+-duration = 99
+-function result = 131.466667
+
+[Documentary]
+-name = eu
+-release year = 1957
+-duration = 117
+-function result = 978.500000
+
+[Documentary]
+-name = mz
+-release year = 1975
+-duration = 112
+-function result = 987.500000
+
+[Cartoon]
+-name = gyvtlzeivxygaappzosdikk
+-release year = 1961
+-director = 0
+-function result = 85.260870
+
+[Cartoon]
+-name = txirdioytnfe
+-release year = 1954
+-director = 2
+-function result = 162.833333
+
+[Cartoon]
+-name = ehgvgvqjfavsntfi
+-release year = 1963
+-director = 1
+-function result = 122.687500
+
+[Cartoon]
+-name = xputczznfdcmkkhshxdnzy
+-release year = 1964
+-director = 1
+-function result = 89.272727
+
+[Documentary]
+-name = wjcxfbobwrcve
+-release year = 1951
+-duration = 179
+-function result = 150.076923
+
+[Documentary]
+-name = nsdgacjpeiysbmrnoqss
+-release year = 1971
+-duration = 129
+-function result = 98.550000
+
+[Documentary]
+-name = xkeglmaygfgihqznazgdmzqcp
+-release year = 1970
+-duration = 124
+-function result = 78.800000
+
+[Documentary]
+-name = jucv
+-release year = 1959
+-duration = 90
+-function result = 489.750000
+
+[Documentary]
+-name = livqpdzhfnhev
+-release year = 1968
+-duration = 102
+-function result = 151.384615
+
+[Documentary]
+-name = vjlr
+-release year = 1967
+-duration = 90
+-function result = 491.750000
+
+[Documentary]
+-name = v
+-release year = 1975
+-duration = 129
+-function result = 1975.000000
+
+[Cartoon]
+-name = lrqgjhmj
+-release year = 1969
+-director = 1
+-function result = 246.125000
+
+[Game Movie]
+-name = ztjsnopyagetjfqiexqroiayro
+-release year = 1956
+-director = hjhgiarcp
+-function result = 75.230769
+
+[Documentary]
+-name = iysdhztpfqhwhp
+-release year = 1955
+-duration = 98
+-function result = 139.642857
+
+[Documentary]
+-name = opxxvgxniovabda
+-release year = 1956
+-duration = 159
+-function result = 130.400000
+
+[Game Movie]
+-name = zazsiwzzweiluxirvqq
+-release year = 1973
+-director = zefbhiddqm
+-function result = 103.842105
+
+[Documentary]
+-name = xjwtiwrogckdl
+-release year = 1950
+-duration = 167
+-function result = 150.000000
+
+[Game Movie]
+-name = kczpfhzikpujhjgqfbbb
+-release year = 1956
+-director = rhvcnifnmbaqapyjrgv
+-function result = 97.800000
+
+[Game Movie]
+-name = pmlirn
+-release year = 1959
+-director = vgaedetok
+-function result = 326.500000
+
+[Documentary]
+-name = jsnaqzrzuacb
+-release year = 1966
+-duration = 99
+-function result = 163.833333
+
+[Cartoon]
+-name = jciekllnpedbpfoyyczqdspx
+-release year = 1969
+-director = 0
+-function result = 82.041667
+
+[Cartoon]
+-name = jqjtsuzcfkr
+-release year = 1967
+-director = 1
+-function result = 178.818182
+
+[Documentary]
+-name = gcmfaqgttyitteudnkmgeggin
+-release year = 1951
+-duration = 118
+-function result = 78.040000
+
+[Cartoon]
+-name = yksbyxdrfw
+-release year = 1955
+-director = 1
+-function result = 195.500000
+
+[Cartoon]
+-name = ylzbal
+-release year = 1959
+-director = 1
+-function result = 326.500000
+
+[Game Movie]
+-name = rxmjzyvxknyimezramyjrxwta
+-release year = 1974
+-director = esgurxtfiudfspssxgwzzzl
+-function result = 78.960000
+
+[Cartoon]
+-name = vhxxg
+-release year = 1966
+-director = 1
+-function result = 393.200000
+
+[Game Movie]
+-name = h
+-release year = 1952
+-director = tovorbiivcf
+-function result = 1952.000000
+
+[Cartoon]
+-name = datbkay
+-release year = 1973
+-director = 1
+-function result = 281.857143
+
+[Cartoon]
+-name = dondvazjwpczxkwzraaaecthnv
+-release year = 1956
+-director = 0
+-function result = 75.230769
+
+[Cartoon]
+-name = iysvc
+-release year = 1972
+-director = 0
+-function result = 394.400000
+
+[Game Movie]
+-name = u
+-release year = 1971
+-director = evrqrsjstjwxffkalt
+-function result = 1971.000000
+
+[Documentary]
+-name = ul
+-release year = 1974
+-duration = 94
+-function result = 987.000000
+
+[Game Movie]
+-name = dcqvglowdggxbpvzwalxo
+-release year = 1964
+-director = ufhoti
+-function result = 93.523810
+
+[Cartoon]
+-name = ryvoe
+-release year = 1952
+-director = 2
+-function result = 390.400000
+
+[Cartoon]
+-name = ljkoahnxibwwhq
+-release year = 1967
+-director = 0
+-function result = 140.500000
+
+[Cartoon]
+-name = zxsfpqadujixytijjjqziaa
+-release year = 1972
+-director = 1
+-function result = 85.739130
+
+[Game Movie]
+-name = ccfyddqjuijzduhctclemww
+-release year = 1952
+-director = exnkvwizzoy
+-function result = 84.869565
+
+[Cartoon]
+-name = lnzxoetyioavsorrb
+-release year = 1964
+-director = 0
+-function result = 115.529412
+
+[Cartoon]
+-name = lpqlqg
+-release year = 1970
+-director = 2
+-function result = 328.333333
+
+[Cartoon]
+-name = goef
+-release year = 1960
+-director = 2
+-function result = 490.000000
+
+[Game Movie]
+-name = t
+-release year = 1970
+-director = dohtgaxdqnlcebp
+-function result = 1970.000000
+
+[Cartoon]
+-name = p
+-release year = 1955
+-director = 0
+-function result = 1955.000000
+
+[Documentary]
+-name = kcaucbnrgebbmdypuoaysdn
+-release year = 1960
+-duration = 99
+-function result = 85.217391
+
+[Game Movie]
+-name = suboe
+-release year = 1970
+-director = rbh
+-function result = 394.000000
+
+[Cartoon]
+-name = au
+-release year = 1953
+-director = 1
+-function result = 976.500000
+
+[Game Movie]
+-name = cydsabme
+-release year = 1950
+-director = boffjcgzglqjvk
+-function result = 243.750000
+
+[Cartoon]
+-name = ucqdlubpmbqyf
+-release year = 1952
+-director = 1
+-function result = 150.153846
+
+[Cartoon]
+-name = hfoogxzxguhis
+-release year = 1953
+-director = 1
+-function result = 150.230769
+
+[Cartoon]
+-name = iigjzumpuuyws
+-release year = 1954
+-director = 1
+-function result = 150.307692
+
+[Cartoon]
+-name = ufct
+-release year = 1959
+-director = 2
+-function result = 489.750000
+
+[Cartoon]
+-name = rkiwhwerepqye
+-release year = 1968
+-director = 1
+-function result = 151.384615
+
+[Game Movie]
+-name = rqvxryrwb
+-release year = 1975
+-director = bmepfpzeyvkr
+-function result = 219.444444
+
+[Game Movie]
+-name = zesteakwvh
+-release year = 1956
+-director = walznmnrbuicy
+-function result = 195.600000
+
+[Documentary]
+-name = xylixrbtvb
+-release year = 1967
+-duration = 155
+-function result = 196.700000
+
+[Cartoon]
+-name = gxnrwcglujfcme
+-release year = 1961
+-director = 2
+-function result = 140.071429
+
+[Game Movie]
+-name = mctltueqvkj
+-release year = 1955
+-director = xprmippoajyinmmyxdjj
+-function result = 177.727273
+
+[Cartoon]
+-name = ayzqtlzqiojxybmndxllmx
+-release year = 1961
+-director = 1
+-function result = 89.136364
+
+[Cartoon]
+-name = wgj
+-release year = 1953
+-director = 0
+-function result = 651.000000
+
+[Game Movie]
+-name = e
+-release year = 1966
+-director = v
+-function result = 1966.000000
+
+[Game Movie]
+-name = aqxxpyjedipp
+-release year = 1970
+-director = ooimtgucixoierfwsrwkq
+-function result = 164.166667
+
+[Cartoon]
+-name = fftqwinmxvzsdtwlt
+-release year = 1971
+-director = 0
+-function result = 115.941176
+
+[Documentary]
+-name = atytr
+-release year = 1961
+-duration = 118
+-function result = 392.200000
+
+[Documentary]
+-name = btpvlofyaet
+-release year = 1972
+-duration = 125
+-function result = 179.272727
+
+[Game Movie]
+-name = tlofiljkghexspletgvq
+-release year = 1963
+-director = jvpkakjyietvszdfk
+-function result = 98.150000
+
+[Documentary]
+-name = tlojyseenuxxpohrysqix
+-release year = 1953
+-duration = 119
+-function result = 93.000000
+
+[Game Movie]
+-name = ivxvitpvhat
+-release year = 1975
+-director = e
+-function result = 179.545455
+
+[Documentary]
+-name = w
+-release year = 1965
+-duration = 147
+-function result = 1965.000000
+
+[Cartoon]
+-name = jkpbummzdzhayflrugawcba
+-release year = 1967
+-director = 1
+-function result = 85.521739
+
+[Game Movie]
+-name = hrkdcxsdrgsrmrampfzibgkxi
+-release year = 1962
+-director = zlgbjntwrvtlb
+-function result = 78.480000
+
+[Game Movie]
+-name = femisdnslpavokkovqph
+-release year = 1950
+-director = kfxi
+-function result = 97.500000
+
+[Documentary]
+-name = maeugqcbtr
+-release year = 1956
+-duration = 103
+-function result = 195.600000
+
+[Game Movie]
+-name = dxfnlcdajjnqgvqpedriza
+-release year = 1951
+-director = 
+-function result = 88.681818
+
+[Cartoon]
+-name = swbbteyatlcwnoiaeovv
+-release year = 1951
+-director = 0
+-function result = 97.550000
+
+[Game Movie]
+-name = lzxlcygwwhzpnzpgkrfahnam
+-release year = 1959
+-director = y
+-function result = 81.625000
+
+[Cartoon]
+-name = lelkbwobfkxmkmcjbiwupwccwq
+-release year = 1970
+-director = 0
+-function result = 75.769231
+
+[Cartoon]
+-name = wmrhyufmvkyszi
+-release year = 1951
+-director = 0
+-function result = 139.357143
+
+[Documentary]
+-name = lsdbofdm
+-release year = 1959
+-duration = 177
+-function result = 244.875000
+
+[Game Movie]
+-name = yfkroiltuievcffigzrtrvuhc
+-release year = 1970
+-director = 
+-function result = 78.800000
+
+[Documentary]
+-name = dakkldyvprsz
+-release year = 1963
+-duration = 171
+-function result = 163.583333
+
+[Cartoon]
+-name = smk
+-release year = 1956
+-director = 2
+-function result = 652.000000
+
+[Cartoon]
+-name = davhapjmukyexd
+-release year = 1968
+-director = 2
+-function result = 140.571429
+
+[Documentary]
+-name = mutzyvumiosmbxmwfpno
+-release year = 1957
+-duration = 117
+-function result = 97.850000
+
+[Game Movie]
+-name = nxgp
+-release year = 1954
+-director = blevegvbahlqcxrzmq
+-function result = 488.500000
+
+[Cartoon]
+-name = vgpvjc
+-release year = 1965
+-director = 0
+-function result = 327.500000
+
+[Documentary]
+-name = qfvnlbiodsatuznv
+-release year = 1953
+-duration = 105
+-function result = 122.062500
+
+[Documentary]
+-name = ixuxudcpvwelbcb
+-release year = 1953
+-duration = 110
+-function result = 130.200000
+
+[Game Movie]
+-name = jdecx
+-release year = 1953
+-director = pttuvi
+-function result = 390.600000
+
+[Documentary]
+-name = cokee
+-release year = 1950
+-duration = 113
+-function result = 390.000000
+
+[Cartoon]
+-name = dottsfabigfgmxbgryq
+-release year = 1968
+-director = 2
+-function result = 103.578947
+
+[Documentary]
+-name = iefojibcnpvjhcjklpstcpuigu
+-release year = 1953
+-duration = 170
+-function result = 75.115385
+
+[Documentary]
+-name = ewzjlkrmmhbkqlmzxzops
+-release year = 1956
+-duration = 112
+-function result = 93.142857
+
+[Game Movie]
+-name = nic
+-release year = 1954
+-director = wxwtwheibqvithyevz
+-function result = 651.333333
+
+[Game Movie]
+-name = tnicckpknjhmhako
+-release year = 1972
+-director = spypzr
+-function result = 123.250000
+
+[Documentary]
+-name = uycpoxewzgiqtxzcjgetxkmmk
+-release year = 1964
+-duration = 101
+-function result = 78.560000
+
+[Cartoon]
+-name = n
+-release year = 1970
+-director = 1
+-function result = 1970.000000
+
+[Game Movie]
+-name = ladp
+-release year = 1952
+-director = cygtrgutpdzlajzovccwcqay
+-function result = 488.000000
+
+[Documentary]
+-name = eibclzkgsq
+-release year = 1963
+-duration = 130
+-function result = 196.300000
+
+[Documentary]
+-name = mtfxsu
+-release year = 1970
+-duration = 110
+-function result = 328.333333
+
+[Game Movie]
+-name = zoqxsyjwgkatllbfd
+-release year = 1956
+-director = sljg
+-function result = 115.058824
+
+[Game Movie]
+-name = alxv
+-release year = 1962
+-director = nwygvqegp
+-function result = 490.500000
+
+[Game Movie]
+-name = gdcjignctxiaonaz
+-release year = 1966
+-director = xiyvigrbkz
+-function result = 122.875000
+
+[Cartoon]
+-name = fexiogodkjatlqioptl
+-release year = 1969
+-director = 0
+-function result = 103.631579
+
+[Game Movie]
+-name = zcllbbhthor
+-release year = 1970
+-director = ezfhjqkecapqsid
+-function result = 179.090909
+
+[Cartoon]
+-name = ecoqnsrulaker
+-release year = 1955
+-director = 2
+-function result = 150.384615
+
+[Game Movie]
+-name = rpivrkkheumyxzdzpvmhmjvpv
+-release year = 1960
+-director = g
+-function result = 78.400000
+
+[Cartoon]
+-name = kyusvn
+-release year = 1958
+-director = 1
+-function result = 326.333333
+
+[Cartoon]
+-name = cijajmbzjq
+-release year = 1972
+-director = 2
+-function result = 197.200000
+
+[Cartoon]
+-name = nuhtgo
+-release year = 1966
+-director = 0
+-function result = 327.666667
+
+[Game Movie]
+-name = khjrpfauojwzyxyhnjfoo
+-release year = 1975
+-director = lxorlokzlwjunaanuq
+-function result = 94.047619
+
+[Cartoon]
+-name = zqqifzoupifnwyan
+-release year = 1950
+-director = 1
+-function result = 121.875000
+
+[Game Movie]
+-name = jsujukgk
+-release year = 1967
+-director = yckqsswtisk
+-function result = 245.875000
+
+[Cartoon]
+-name = pzackccrlxnwrxecifeuvynr
+-release year = 1973
+-director = 2
+-function result = 82.208333
+
+[Documentary]
+-name = qk
+-release year = 1956
+-duration = 173
+-function result = 978.000000
+
+[Cartoon]
+-name = kufp
+-release year = 1968
+-director = 1
+-function result = 492.000000
+
+[Game Movie]
+-name = q
+-release year = 1960
+-director = avh
+-function result = 1960.000000
+
+[Game Movie]
+-name = fxluperciinlqx
+-release year = 1952
+-director = ctvrindifjkaqv
+-function result = 139.428571
+
+[Game Movie]
+-name = a
+-release year = 1969
+-director = uryntivitnhjqcghk
+-function result = 1969.000000
+
+[Cartoon]
+-name = ywfbocfuchoyammwwjerxo
+-release year = 1965
+-director = 0
+-function result = 89.318182
+
+[Cartoon]
+-name = wbblwbjde
+-release year = 1956
+-director = 0
+-function result = 217.333333
+
+[Cartoon]
+-name = ktijuwxqsiwjhklwbtv
+-release year = 1972
+-director = 2
+-function result = 103.789474
+
+[Game Movie]
+-name = a
+-release year = 1968
+-director = feqlqkykthgpgwko
+-function result = 1968.000000
+
+[Cartoon]
+-name = fhsgapkzwmzorfefwofihmo
+-release year = 1970
+-director = 1
+-function result = 85.652174
+
+[Game Movie]
+-name = kgeilldtos
+-release year = 1961
+-director = noroc
+-function result = 196.100000
+
+[Cartoon]
+-name = srxxbelrd
+-release year = 1953
+-director = 1
+-function result = 217.000000
+
+[Documentary]
+-name = mtaxeftuxyhosxsdtb
+-release year = 1960
+-duration = 135
+-function result = 108.888889
+
+[Game Movie]
+-name = oehfkolyfxthwympskqca
+-release year = 1954
+-director = bsnutkht
+-function result = 93.047619
+
+[Game Movie]
+-name = lciznigkcohccywooaoychlyc
+-release year = 1955
+-director = fwbcuofepuowfqmouoord
+-function result = 78.200000
+
+[Cartoon]
+-name = dvapudkbzmgvclzsfpom
+-release year = 1950
+-director = 2
+-function result = 97.500000
+
+[Documentary]
+-name = qtv
+-release year = 1974
+-duration = 159
+-function result = 658.000000
+
+[Game Movie]
+-name = dmrsiufkvtqqvdrn
+-release year = 1969
+-director = jbzrddtwwr
+-function result = 123.062500
+
+[Cartoon]
+-name = iaucsdwzp
+-release year = 1968
+-director = 2
+-function result = 218.666667
+
+[Cartoon]
+-name = omgdyphxgmdbi
+-release year = 1970
+-director = 1
+-function result = 151.538462
+
+[Documentary]
+-name = cmyxoscnutjmcvcqdgoupocbr
+-release year = 1962
+-duration = 140
+-function result = 78.480000
+
+[Documentary]
+-name = q
+-release year = 1953
+-duration = 124
+-function result = 1953.000000
+
+[Documentary]
+-name = ctneihzrvboyrsghmvv
+-release year = 1974
+-duration = 171
+-function result = 103.894737
+
+[Documentary]
+-name = kjvadadwcylggshzninnbh
+-release year = 1959
+-duration = 125
+-function result = 89.045455
+
+[Documentary]
+-name = glrvibgdejgjfihqrpk
+-release year = 1964
+-duration = 162
+-function result = 103.368421
+
+[Game Movie]
+-name = dpkllvhfes
+-release year = 1959
+-director = zaahfeqlnyuwqnlblbdwes
+-function result = 195.900000
+
+[Game Movie]
+-name = ewji
+-release year = 1970
+-director = hjqjqynjlchhyx
+-function result = 492.500000
+
+[Documentary]
+-name = g
+-release year = 1953
+-duration = 114
+-function result = 1953.000000
+
+[Documentary]
+-name = wlgbsfmcvwomfgmtpx
+-release year = 1974
+-duration = 173
+-function result = 109.666667
+
+[Documentary]
+-name = wzjyhycmpyxxbrcowakkmpqak
+-release year = 1973
+-duration = 114
+-function result = 78.920000
+
+[Cartoon]
+-name = ciectdj
+-release year = 1957
+-director = 2
+-function result = 279.571429
+
+[Game Movie]
+-name = hvgioky
+-release year = 1974
+-director = kkuycnymvw
+-function result = 282.000000
+
+[Game Movie]
+-name = g
+-release year = 1953
+-director = canorwla
+-function result = 1953.000000
+
+[Documentary]
+-name = lxsmhfwed
+-release year = 1969
+-duration = 178
+-function result = 218.777778
+
+[Cartoon]
+-name = ocltcsdfusvnog
+-release year = 1967
+-director = 1
+-function result = 140.500000
+
+[Documentary]
+-name = foqrxvpdyowedmgoijilqe
+-release year = 1961
+-duration = 142
+-function result = 89.136364
+
+[Game Movie]
+-name = tfmkdtatkaobforctuq
+-release year = 1974
+-director = j
+-function result = 103.894737
+
+[Cartoon]
+-name = mayqnqkhxytarwvdyjfd
+-release year = 1972
+-director = 0
+-function result = 98.600000
+
+[Cartoon]
+-name = rywcyhxkjvcxnpglnbnfxj
+-release year = 1973
+-director = 1
+-function result = 89.681818
+
+[Game Movie]
+-name = buoiphimjhvgteew
+-release year = 1963
+-director = r
+-function result = 122.687500
+
+[Cartoon]
+-name = ajq
+-release year = 1958
+-director = 1
+-function result = 652.666667
+
+[Cartoon]
+-name = gtjjqzrfgctploygteewv
+-release year = 1956
+-director = 2
+-function result = 93.142857
+
+[Game Movie]
+-name = psbztxhohqegkmpmfezue
+-release year = 1951
+-director = piklg
+-function result = 92.904762
+
+[Documentary]
+-name = viazktw
+-release year = 1959
+-duration = 119
+-function result = 279.857143
+
+[Documentary]
+-name = ooucdihjh
+-release year = 1966
+-duration = 125
+-function result = 218.444444
+
+[Documentary]
+-name = ayegcxozgoaqjzjtgtj
+-release year = 1963
+-duration = 158
+-function result = 103.315789
+
+[Documentary]
+-name = vuleydvqdtwkxuazcpzuaafthz
+-release year = 1953
+-duration = 142
+-function result = 75.115385
+
+[Documentary]
+-name = fmmqqktlcyhbigvjfz
+-release year = 1957
+-duration = 166
+-function result = 108.722222
+
+[Game Movie]
+-name = h
+-release year = 1972
+-director = 
+-function result = 1972.000000
+
+[Documentary]
+-name = csouxaipsukgwipztvuebvgiqg
+-release year = 1967
+-duration = 171
+-function result = 75.653846
+
+[Cartoon]
+-name = qhagdzi
+-release year = 1964
+-director = 2
+-function result = 280.571429
+
+[Cartoon]
+-name = ajdiyd
+-release year = 1969
+-director = 0
+-function result = 328.166667
+
+[Cartoon]
+-name = wvpgnwye
+-release year = 1954
+-director = 2
+-function result = 244.250000
+
+[Documentary]
+-name = gfofozvrgvam
+-release year = 1950
+-duration = 161
+-function result = 162.500000
+
+[Documentary]
+-name = vsuspkydiyjk
+-release year = 1956
+-duration = 106
+-function result = 163.000000
+
+[Cartoon]
+-name = okpcmkvuhvi
+-release year = 1971
+-director = 0
+-function result = 179.181818
+
+[Cartoon]
+-name = q
+-release year = 1972
+-director = 2
+-function result = 1972.000000
+
+[Cartoon]
+-name = glmojyzogx
+-release year = 1970
+-director = 0
+-function result = 197.000000
+
+[Cartoon]
+-name = wvctsmoadlcfewbqf
+-release year = 1951
+-director = 2
+-function result = 114.764706
+
+[Documentary]
+-name = nuxdaudvevtbyntmduprwuv
+-release year = 1971
+-duration = 116
+-function result = 85.695652
+
+[Cartoon]
+-name = dr
+-release year = 1952
+-director = 0
+-function result = 976.000000
+
+[Cartoon]
+-name = zjswmnckidivxubr
+-release year = 1968
+-director = 0
+-function result = 123.000000
+
+[Game Movie]
+-name = plac
+-release year = 1957
+-director = etkizbjktfzi
+-function result = 489.250000
+
+[Game Movie]
+-name = ltoknpdyhsdyfdbrjw
+-release year = 1951
+-director = ryf
+-function result = 108.388889
+
+[Cartoon]
+-name = g
+-release year = 1959
+-director = 0
+-function result = 1959.000000
+
+[Cartoon]
+-name = cdlqnagqapkdophrisp
+-release year = 1960
+-director = 0
+-function result = 103.157895
+
+[Game Movie]
+-name = lattjelegorxbufruwdy
+-release year = 1951
+-director = shdbzvplkiyk
+-function result = 97.550000
+
+[Documentary]
+-name = gfcowtlznsrkpwibprhssch
+-release year = 1964
+-duration = 102
+-function result = 85.391304
+
+[Game Movie]
+-name = bsyza
+-release year = 1962
+-director = bpcwcb
+-function result = 392.400000
+
+[Game Movie]
+-name = wmrgpixwarajvpycssart
+-release year = 1952
+-director = skkqom
+-function result = 92.952381
+
+[Game Movie]
+-name = axzgnhflj
+-release year = 1964
+-director = msudswvlxogfgsqygebsmbp
+-function result = 218.222222
+
+[Documentary]
+-name = xpqhm
+-release year = 1951
+-duration = 178
+-function result = 390.200000
+
+[Cartoon]
+-name = ufehespk
+-release year = 1957
+-director = 0
+-function result = 244.625000
+
+[Documentary]
+-name = ngbhudzindgevprzqaikfotki
+-release year = 1972
+-duration = 144
+-function result = 78.880000
+
+[Cartoon]
+-name = yjfgmoapnjetrjog
+-release year = 1966
+-director = 2
+-function result = 122.875000
+
+[Cartoon]
+-name = ajjre
+-release year = 1975
+-director = 0
+-function result = 395.000000
+
+[Cartoon]
+-name = kervlzhaaznlficqziup
+-release year = 1974
+-director = 0
+-function result = 98.700000
+
+[Documentary]
+-name = kiwfkjzwpsrbsabszq
+-release year = 1957
+-duration = 143
+-function result = 108.722222
+
+[Cartoon]
+-name = xarspzqi
+-release year = 1952
+-director = 2
+-function result = 244.000000
+
+[Cartoon]
+-name = ifajbpbusvutpwmu
+-release year = 1963
+-director = 0
+-function result = 122.687500
+
+[Cartoon]
+-name = nuw
+-release year = 1970
+-director = 1
+-function result = 656.666667
+
+[Game Movie]
+-name = nrhczmckntmjmje
+-release year = 1959
+-director = zattfix
+-function result = 130.600000
+
+[Game Movie]
+-name = gbnvqamxcomgybcmlo
+-release year = 1950
+-director = pvvrrqyznhxfnyskotzoxn
+-function result = 108.333333
+
+[Game Movie]
+-name = bicoyafvvymnwo
+-release year = 1961
+-director = g
+-function result = 140.071429
+
+[Game Movie]
+-name = lagcvfqvssbhvljkjjpe
+-release year = 1968
+-director = otukhv
+-function result = 98.400000
+
+[Documentary]
+-name = ohdu
+-release year = 1951
+-duration = 147
+-function result = 487.750000
+
+[Cartoon]
+-name = wt
+-release year = 1973
+-director = 1
+-function result = 986.500000
+
+[Documentary]
+-name = kmztxqzeesarbxjx
+-release year = 1973
+-duration = 162
+-function result = 123.312500
+
+[Documentary]
+-name = tqgssc
+-release year = 1961
+-duration = 159
+-function result = 326.833333
+
+[Cartoon]
+-name = clcbebsgfyyhpcebz
+-release year = 1950
+-director = 0
+-function result = 114.705882
+
+[Game Movie]
+-name = uxuopxccasfmw
+-release year = 1968
+-director = sxcyfbzm
+-function result = 151.384615
+
+[Game Movie]
+-name = vezwlnqiiezhibhaivyr
+-release year = 1960
+-director = ytoduprpukkzmg
+-function result = 98.000000
+
+[Cartoon]
+-name = uhdtolwyoftmwjmpapmrjbmvl
+-release year = 1957
+-director = 2
+-function result = 78.280000
+
+[Game Movie]
+-name = hsrqvkhjgfznynjkabkrnbao
+-release year = 1970
+-director = ybafvxooohlao
+-function result = 82.083333
+
+[Game Movie]
+-name = vwtjifjjpawtdmgbpjil
+-release year = 1970
+-director = zbxgmx
+-function result = 98.500000
+
+[Game Movie]
+-name = pehkppqyy
+-release year = 1975
+-director = bwaekjh
+-function result = 219.444444
+
+[Game Movie]
+-name = maqpxwexsnfjtmuj
+-release year = 1957
+-director = m
+-function result = 122.312500
+
+[Cartoon]
+-name = kxwqjhxlbpzbfpzctwwibg
+-release year = 1966
+-director = 1
+-function result = 89.363636
+
+[Documentary]
+-name = rqwvlgsjxesup
+-release year = 1961
+-duration = 135
+-function result = 150.846154
+
+[Cartoon]
+-name = rhuvasrktzmldydtwyhdsq
+-release year = 1974
+-director = 0
+-function result = 89.727273
+
+[Documentary]
+-name = pekgzbnvyqnrajrouupxqlx
+-release year = 1964
+-duration = 137
+-function result = 85.391304
+
+[Game Movie]
+-name = qqapgfzmgcbccrpt
+-release year = 1956
+-director = ymitjxszjswzknqaqh
+-function result = 122.250000
+
+[Game Movie]
+-name = udkwfmpxh
+-release year = 1953
+-director = vusqdpjca
+-function result = 217.000000
+
+[Game Movie]
+-name = n
+-release year = 1964
+-director = snfzwchsgtqlhik
+-function result = 1964.000000
+
+[Documentary]
+-name = ijylbjp
+-release year = 1962
+-duration = 135
+-function result = 280.285714
+
+[Documentary]
+-name = zhxp
+-release year = 1972
+-duration = 132
+-function result = 493.000000
+
+[Cartoon]
+-name = ffvayihgtyxbgjzu
+-release year = 1961
+-director = 0
+-function result = 122.562500
+
+[Documentary]
+-name = xdtxkqowpbnwikzg
+-release year = 1958
+-duration = 173
+-function result = 122.375000
+
+[Documentary]
+-name = goppxqljbwybbta
+-release year = 1962
+-duration = 133
+-function result = 130.800000
+
+[Documentary]
+-name = drzzzkyifjytp
+-release year = 1960
+-duration = 140
+-function result = 150.769231
+
+[Cartoon]
+-name = crueovhroh
+-release year = 1950
+-director = 2
+-function result = 195.000000
+
+[Game Movie]
+-name = dmqfncfxhowcgimmup
+-release year = 1952
+-director = ovul
+-function result = 108.444444
+
+[Documentary]
+-name = l
+-release year = 1952
+-duration = 132
+-function result = 1952.000000
+
+[Game Movie]
+-name = iuaphcwf
+-release year = 1974
+-director = ndmtlbfhsj
+-function result = 246.750000
+
+[Game Movie]
+-name = jtrl
+-release year = 1974
+-director = hokr
+-function result = 493.500000
+
+[Game Movie]
+-name = pnvluhyxutlxzspkqg
+-release year = 1957
+-director = czhndqdphbvaskwg
+-function result = 108.722222
+
+[Documentary]
+-name = ezyry
+-release year = 1962
+-duration = 135
+-function result = 392.400000
+
+[Game Movie]
+-name = evzguiuzzx
+-release year = 1953
+-director = iblltwhbdogjog
+-function result = 195.300000
+
+[Documentary]
+-name = peqvzq
+-release year = 1972
+-duration = 152
+-function result = 328.666667
+
+[Game Movie]
+-name = vzvmiwztsxctaqbmgjrvoib
+-release year = 1968
+-director = dazfwzd
+-function result = 85.565217
+
+[Cartoon]
+-name = gj
+-release year = 1955
+-director = 1
+-function result = 977.500000
+
+[Cartoon]
+-name = dinfaqthakeqsfzyhy
+-release year = 1954
+-director = 2
+-function result = 108.555556
+
+[Game Movie]
+-name = yxkgijlmdq
+-release year = 1975
+-director = swwkrfmcjfwqewadcebnea
+-function result = 197.500000
+
+[Game Movie]
+-name = kxynquhmqud
+-release year = 1968
+-director = ghhlgascavggytkyswidvi
+-function result = 178.909091
+
+[Documentary]
+-name = czs
+-release year = 1955
+-duration = 122
+-function result = 651.666667
+
+[Cartoon]
+-name = maqua
+-release year = 1975
+-director = 2
+-function result = 395.000000
+
+[Game Movie]
+-name = fgdzsd
+-release year = 1960
+-director = qnwlvrzxtyrpdivsino
+-function result = 326.666667
+
+[Documentary]
+-name = kctsfukinavkns
+-release year = 1962
+-duration = 139
+-function result = 140.142857
+
+[Game Movie]
+-name = nhnqrikbwzltmvyhnfbzopz
+-release year = 1971
+-director = bmeebvcocpg
+-function result = 85.695652
+
+[Cartoon]
+-name = wxshreerotwpsmgtyj
+-release year = 1954
+-director = 2
+-function result = 108.555556
+
+[Cartoon]
+-name = brzggfbiya
+-release year = 1966
+-director = 2
+-function result = 196.600000
+
+[Game Movie]
+-name = xopljmceyjzysheisgzrmiznq
+-release year = 1963
+-director = pvqzunpjyavaewleuenzogf
+-function result = 78.520000
+
+[Cartoon]
+-name = vyilyyjoxdbmobmmdtip
+-release year = 1954
+-director = 1
+-function result = 97.700000
+
+[Game Movie]
+-name = djskwudusmhqm
+-release year = 1968
+-director = gjvhxmklyogidfma
+-function result = 151.384615
+
+[Game Movie]
+-name = mehgkdzylr
+-release year = 1956
+-director = bytzhslsfj
+-function result = 195.600000
+
+[Game Movie]
+-name = lrhljbwwgfcqjdquxaxv
+-release year = 1972
+-director = wenjwsucenpyxchyyfeek
+-function result = 98.600000
+
+[Game Movie]
+-name = mjmoijjhoyqkrlpx
+-release year = 1954
+-director = 
+-function result = 122.125000
+
+[Documentary]
+-name = hhwhmcnybcopnaewkpdyovkh
+-release year = 1975
+-duration = 150
+-function result = 82.291667
+
+[Game Movie]
+-name = geiplgwzjk
+-release year = 1967
+-director = moobcqhaaxfalanujmauseeh
+-function result = 196.700000
+
+[Documentary]
+-name = twsrigh
+-release year = 1960
+-duration = 159
+-function result = 280.000000
+
+[Documentary]
+-name = kaqpcdspxdczzwgdgxqm
+-release year = 1962
+-duration = 162
+-function result = 98.100000
+
+[Game Movie]
+-name = wmqkxqdjqv
+-release year = 1950
+-director = u
+-function result = 195.000000
+
+[Cartoon]
+-name = zwoyxkeascr
+-release year = 1970
+-director = 0
+-function result = 179.090909
+
+[Documentary]
+-name = gezwoyotjgokb
+-release year = 1955
+-duration = 124
+-function result = 150.384615
+
+[Documentary]
+-name = dznalsbgwumsbzyh
+-release year = 1973
+-duration = 132
+-function result = 123.312500
+
+[Game Movie]
+-name = lqhseutwzgldhzfutgapcnhgm
+-release year = 1960
+-director = nmfjmqbv
+-function result = 78.400000
+
+[Game Movie]
+-name = ferlqwupbpikrzoe
+-release year = 1964
+-director = usqigvts
+-function result = 122.750000
+
+[Documentary]
+-name = ycfehwrxsmowdyg
+-release year = 1975
+-duration = 108
+-function result = 131.666667
+
+[Documentary]
+-name = hp
+-release year = 1950
+-duration = 101
+-function result = 975.000000
+
+[Cartoon]
+-name = x
+-release year = 1970
+-director = 0
+-function result = 1970.000000
+
+[Documentary]
+-name = ikroqamjxhvndal
+-release year = 1973
+-duration = 131
+-function result = 131.533333
+
+[Cartoon]
+-name = ytwttv
+-release year = 1967
+-director = 0
+-function result = 327.833333
+
+[Game Movie]
+-name = egaqxogzdqyknlpqy
+-release year = 1963
+-director = 
+-function result = 115.470588
+
+[Documentary]
+-name = ldeezb
+-release year = 1968
+-duration = 154
+-function result = 328.000000
+
+[Cartoon]
+-name = wzsnyjvxmnvybinrgng
+-release year = 1970
+-director = 1
+-function result = 103.684211
+
+[Documentary]
+-name = yxuazmvrlumyuvvrjjoh
+-release year = 1972
+-duration = 152
+-function result = 98.600000
+
+[Documentary]
+-name = chlsbe
+-release year = 1952
+-duration = 171
+-function result = 325.333333
+
+[Cartoon]
+-name = eduzwftif
+-release year = 1955
+-director = 0
+-function result = 217.222222
+
+[Game Movie]
+-name = omwvasp
+-release year = 1954
+-director = wyuoayb
+-function result = 279.142857
+
+[Cartoon]
+-name = ieghdncltr
+-release year = 1974
+-director = 2
+-function result = 197.400000
+
+[Cartoon]
+-name = mvdmnu
+-release year = 1959
+-director = 0
+-function result = 326.500000
+
+[Cartoon]
+-name = zvpczqohxuqcjsne
+-release year = 1956
+-director = 2
+-function result = 122.250000
+
+[Documentary]
+-name = mofrculxfem
+-release year = 1951
+-duration = 150
+-function result = 177.363636
+
+[Game Movie]
+-name = cwyjvsbxe
+-release year = 1969
+-director = kierlqfbxyetjbyqqgr
+-function result = 218.777778
+
+[Documentary]
+-name = rpfmkhjocwyjpjzunxsrq
+-release year = 1970
+-duration = 171
+-function result = 93.809524
+
+[Documentary]
+-name = kxngqjxgokqxvgarejgq
+-release year = 1950
+-duration = 128
+-function result = 97.500000
+
+[Game Movie]
+-name = uuayortb
+-release year = 1962
+-director = gjhpgpgsfdolffrq
+-function result = 245.250000
+
+[Cartoon]
+-name = ok
+-release year = 1961
+-director = 1
+-function result = 980.500000
+
+[Game Movie]
+-name = lxdeywnhfep
+-release year = 1953
+-director = kibqwoxbfqpnrgzdrgoc
+-function result = 177.545455
+
+[Cartoon]
+-name = dpxmucbqo
+-release year = 1967
+-director = 0
+-function result = 218.555556
+
+[Game Movie]
+-name = felnuaan
+-release year = 1962
+-director = zszhib
+-function result = 245.250000
+
+[Documentary]
+-name = ptjbqnfgcoyky
+-release year = 1964
+-duration = 117
+-function result = 151.076923
+
+[Game Movie]
+-name = kluzuwstdaxqejhyulo
+-release year = 1963
+-director = qumguwec
+-function result = 103.315789
+
+[Cartoon]
+-name = zbpzvntoqvliawsatdobt
+-release year = 1965
+-director = 1
+-function result = 93.571429
+
+[Cartoon]
+-name = lejytfau
+-release year = 1975
+-director = 1
+-function result = 246.875000
+
+[Documentary]
+-name = ugcptmrser
+-release year = 1957
+-duration = 135
+-function result = 195.700000
+
+[Cartoon]
+-name = audcboimpdrpaqq
+-release year = 1975
+-director = 2
+-function result = 131.666667
+
+[Game Movie]
+-name = ddtqvluoweymgspitfshwwyn
+-release year = 1969
+-director = qfnqrnvvilstiirmgduyuf
+-function result = 82.041667
+
+[Cartoon]
+-name = awvbjrrphjiwffgszzcisqox
+-release year = 1965
+-director = 2
+-function result = 81.875000
+
+[Documentary]
+-name = kqnloloaehrltzjah
+-release year = 1968
+-duration = 97
+-function result = 115.764706
+
+[Game Movie]
+-name = xoknfhywyogrethph
+-release year = 1962
+-director = trahkcs
+-function result = 115.411765
+
+[Game Movie]
+-name = gpcdgnrnwpj
+-release year = 1966
+-director = gpqkjxbshwlhfxjyjskqkmt
+-function result = 178.727273
+
+[Cartoon]
+-name = dycovidnuok
+-release year = 1959
+-director = 0
+-function result = 178.090909
+
+[Documentary]
+-name = ubzukzdfjtpxphzzmzba
+-release year = 1961
+-duration = 126
+-function result = 98.050000
+
+[Documentary]
+-name = fuvcfpwbqx
+-release year = 1952
+-duration = 167
+-function result = 195.200000
+
+[Game Movie]
+-name = hhuygjhhltgoteaznhvlkaaidq
+-release year = 1952
+-director = zsfacou
+-function result = 75.076923
+
+[Cartoon]
+-name = kerfm
+-release year = 1975
+-director = 2
+-function result = 395.000000
+
+[Documentary]
+-name = agpxrbxt
+-release year = 1950
+-duration = 121
+-function result = 243.750000
+
+[Game Movie]
+-name = bezbgnwklcupvaeabvi
+-release year = 1973
+-director = dxa
+-function result = 103.842105
+
+[Game Movie]
+-name = qlbcddgcgoreacixudzyeavofa
+-release year = 1966
+-director = fxngqyhubmaft
+-function result = 75.615385
+
+[Game Movie]
+-name = qcinylowrotfvusctfijdsdggf
+-release year = 1960
+-director = bxnbqsjfqwupo
+-function result = 75.384615
+
+[Documentary]
+-name = gcmiwtthxlnfruvtsiui
+-release year = 1955
+-duration = 162
+-function result = 97.750000
+
+[Game Movie]
+-name = bjgpuqlatxkrsdyron
+-release year = 1956
+-director = iisbacxkdczwdlevfughpft
+-function result = 108.666667
+
+[Documentary]
+-name = hpnuoxegagixsnbujffpcmkivb
+-release year = 1964
+-duration = 125
+-function result = 75.538462
+
+[Documentary]
+-name = nrddnrcuzdaka
+-release year = 1973
+-duration = 147
+-function result = 151.769231
+
+[Documentary]
+-name = jjsangmxbomrya
+-release year = 1965
+-duration = 149
+-function result = 140.357143
+
+[Cartoon]
+-name = exmyzrzjsui
+-release year = 1959
+-director = 1
+-function result = 178.090909
+
+[Documentary]
+-name = duujgr
+-release year = 1970
+-duration = 128
+-function result = 328.333333
+
+[Game Movie]
+-name = sfkj
+-release year = 1970
+-director = wqjjoiapt
+-function result = 492.500000
+
+[Documentary]
+-name = qu
+-release year = 1973
+-duration = 111
+-function result = 986.500000
+
+[Documentary]
+-name = rgvksqnwktiwefmp
+-release year = 1952
+-duration = 176
+-function result = 122.000000
+
+[Cartoon]
+-name = usnfufarfxgygbjatyw
+-release year = 1969
+-director = 0
+-function result = 103.631579
+
+[Cartoon]
+-name = amq
+-release year = 1952
+-director = 0
+-function result = 650.666667
+
+[Game Movie]
+-name = umjjufpuwwteubifcb
+-release year = 1963
+-director = ajzh
+-function result = 109.055556
+
+[Cartoon]
+-name = drxyismtdgbscxqyclzksd
+-release year = 1972
+-director = 1
+-function result = 89.636364
+
+[Game Movie]
+-name = ypmxlsqisaceuglvapurnyepkw
+-release year = 1972
+-director = avaztqnsbhjlzjoefurc
+-function result = 75.846154
+
+[Game Movie]
+-name = nwxtliqfklileyywbihmhtanyw
+-release year = 1960
+-director = bvna
+-function result = 75.384615
+
+[Game Movie]
+-name = ewjudthlenlflontbumdimcopx
+-release year = 1957
+-director = r
+-function result = 75.269231
+
+[Game Movie]
+-name = lkahqwqdafphrfumgr
+-release year = 1960
+-director = 
+-function result = 108.888889
+
+[Cartoon]
+-name = mpclttshmgsnp
+-release year = 1961
+-director = 2
+-function result = 150.846154
+
+[Game Movie]
+-name = lncteipqqgsc
+-release year = 1970
+-director = foxjbqc
+-function result = 164.166667
+
+[Cartoon]
+-name = crerbrzpcnrxtbpmsv
+-release year = 1970
+-director = 1
+-function result = 109.444444
+
+[Game Movie]
+-name = lcsmuxitok
+-release year = 1974
+-director = ueonfdpsxpmae
+-function result = 197.400000
+
+[Documentary]
+-name = ep
+-release year = 1964
+-duration = 154
+-function result = 982.000000
+
+[Documentary]
+-name = iqehbyxll
+-release year = 1967
+-duration = 161
+-function result = 218.555556
+
+[Cartoon]
+-name = xfypepd
+-release year = 1971
+-director = 1
+-function result = 281.571429
+
+[Game Movie]
+-name = wiqdyungksqlqnzdjqepnlpfre
+-release year = 1966
+-director = wzoxwynbwj
+-function result = 75.615385
+
+[Cartoon]
+-name = iuhakidtykkoxavpefng
+-release year = 1960
+-director = 0
+-function result = 98.000000
+
+[Cartoon]
+-name = zfpivudgqkgasmvtygjx
+-release year = 1954
+-director = 2
+-function result = 97.700000
+
+[Game Movie]
+-name = jzuhlyakfsudo
+-release year = 1965
+-director = jekrhffcydkjbsnphyrdfcci
+-function result = 151.153846
+
+[Cartoon]
+-name = j
+-release year = 1964
+-director = 1
+-function result = 1964.000000
+
+[Game Movie]
+-name = sunbzsezyqiblvquvjxbob
+-release year = 1970
+-director = djjovzyrr
+-function result = 89.545455
+
+[Cartoon]
+-name = tyzswraxexqyszyvnzgs
+-release year = 1967
+-director = 2
+-function result = 98.350000
+
+[Game Movie]
+-name = qjxkd
+-release year = 1972
+-director = f
+-function result = 394.400000
+
+[Cartoon]
+-name = qyxqx
+-release year = 1965
+-director = 2
+-function result = 393.000000
+
+[Cartoon]
+-name = hpa
+-release year = 1952
+-director = 2
+-function result = 650.666667
+
+[Documentary]
+-name = xkdgqtpndsqk
+-release year = 1968
+-duration = 134
+-function result = 164.000000
+
+[Cartoon]
+-name = qoynsnd
+-release year = 1972
+-director = 2
+-function result = 281.714286
+
+[Game Movie]
+-name = bwznvlsbensttmkdceukuiij
+-release year = 1973
+-director = 
+-function result = 82.208333
+
+[Documentary]
+-name = ugtxfukageeksydllpontia
+-release year = 1968
+-duration = 141
+-function result = 85.565217
+
+[Documentary]
+-name = uinrcwmbdhofnslzkkcvvsmknu
+-release year = 1953
+-duration = 90
+-function result = 75.115385
+
+[Game Movie]
+-name = cjdrchppiuyyalrlmbxqzs
+-release year = 1953
+-director = lfyhpbwm
+-function result = 88.772727
+
+[Game Movie]
+-name = wiaozjixhikawwctnd
+-release year = 1965
+-director = xotvvkwsxbaoyi
+-function result = 109.166667
+
+[Game Movie]
+-name = aufjfqmdo
+-release year = 1972
+-director = ybtmzhfwestwpu
+-function result = 219.111111
+
+[Documentary]
+-name = hwipyfwkkowpdknedafmh
+-release year = 1966
+-duration = 138
+-function result = 93.619048
+
+[Cartoon]
+-name = pqrnyouuwlvbifnybcbnqiss
+-release year = 1954
+-director = 0
+-function result = 81.416667
+
+[Cartoon]
+-name = wbqlrkbryvoujjyton
+-release year = 1965
+-director = 2
+-function result = 109.166667
+
+[Cartoon]
+-name = eidwauczoycemwonnmkbjv
+-release year = 1959
+-director = 1
+-function result = 89.045455
+
+[Documentary]
+-name = w
+-release year = 1967
+-duration = 118
+-function result = 1967.000000
+
+[Game Movie]
+-name = vwir
+-release year = 1951
+-director = ctyquaviylxmyhpjfcstcq
+-function result = 487.750000
+
+[Documentary]
+-name = epbmjy
+-release year = 1954
+-duration = 123
+-function result = 325.666667
+
+[Game Movie]
+-name = yaeizqfn
+-release year = 1955
+-director = pczugtnjjrfovwqk
+-function result = 244.375000
+
+[Cartoon]
+-name = mq
+-release year = 1962
+-director = 2
+-function result = 981.000000
+
+[Cartoon]
+-name = vrfaevrjulppbays
+-release year = 1963
+-director = 2
+-function result = 122.687500
+
+[Game Movie]
+-name = fzlxc
+-release year = 1975
+-director = nnkdcfvjhbezkamcppenhkc
+-function result = 395.000000
+
+[Cartoon]
+-name = abgdztsjxu
+-release year = 1970
+-director = 1
+-function result = 197.000000
+
+[Game Movie]
+-name = xjyijlmaaqpkculsdlwkqvdi
+-release year = 1970
+-director = ceywjv
+-function result = 82.083333
+
+[Game Movie]
+-name = edjsfjivvnpihsudcmyixgk
+-release year = 1959
+-director = e
+-function result = 85.173913
+
+[Cartoon]
+-name = ffy
+-release year = 1961
+-director = 2
+-function result = 653.666667
+
+[Cartoon]
+-name = qsnn
+-release year = 1950
+-director = 1
+-function result = 487.500000
+
+[Documentary]
+-name = ixulbjmjguujzdwdkebvrkyhc
+-release year = 1973
+-duration = 141
+-function result = 78.920000
+
+[Game Movie]
+-name = ztyynjawxjesfot
+-release year = 1961
+-director = mwuszpjjpt
+-function result = 130.733333
+
+[Game Movie]
+-name = gtrzrqocslabruhfn
+-release year = 1954
+-director = slomkfwtvpgahmtynkq
+-function result = 114.941176
+
+[Game Movie]
+-name = rokiktoxo
+-release year = 1959
+-director = kcuuispf
+-function result = 217.666667
+
+[Cartoon]
+-name = qkapymhc
+-release year = 1966
+-director = 0
+-function result = 245.750000
+
+[Cartoon]
+-name = cdzvrzlbloygyqvf
+-release year = 1969
+-director = 0
+-function result = 123.062500
+
+[Game Movie]
+-name = eoheapiahdrjgtgyurb
+-release year = 1959
+-director = hzlfs
+-function result = 103.105263
+
+[Game Movie]
+-name = cymimwmonupuxideblevc
+-release year = 1951
+-director = dkhor
+-function result = 92.904762
+
+[Cartoon]
+-name = vecjm
+-release year = 1955
+-director = 2
+-function result = 391.000000
+
+[Cartoon]
+-name = utworh
+-release year = 1973
+-director = 1
+-function result = 328.833333
+
+[Documentary]
+-name = bgjij
+-release year = 1967
+-duration = 129
+-function result = 393.400000
+
+[Cartoon]
+-name = sbqpfvzrmgq
+-release year = 1951
+-director = 1
+-function result = 177.363636
+
+[Game Movie]
+-name = rfzlcjrdpanavfcizdy
+-release year = 1963
+-director = itqzhysbzettjsg
+-function result = 103.315789
+
+[Cartoon]
+-name = stafvxkxfmaebizrkhpcirid
+-release year = 1969
+-director = 0
+-function result = 82.041667
+
+[Documentary]
+-name = garyvtfrrsowepchzca
+-release year = 1959
+-duration = 109
+-function result = 103.105263
+
+[Documentary]
+-name = tivyuqvoyxgytz
+-release year = 1960
+-duration = 146
+-function result = 140.000000
+
+[Game Movie]
+-name = ypcptjpvjagaobllzhewwcu
+-release year = 1973
+-director = bnff
+-function result = 85.782609
+
+[Game Movie]
+-name = xphp
+-release year = 1968
+-director = qggbgobw
+-function result = 492.000000
+
+[Documentary]
+-name = twoquqkarzf
+-release year = 1974
+-duration = 112
+-function result = 179.454545
+
+[Documentary]
+-name = xukm
+-release year = 1950
+-duration = 91
+-function result = 487.500000
+
+[Game Movie]
+-name = dbbhxtvhntxd
+-release year = 1974
+-director = opphqxgqejnbwcg
+-function result = 164.500000
+
+[Documentary]
+-name = cxujvqgedacirszjzrih
+-release year = 1962
+-duration = 97
+-function result = 98.100000
+
+[Cartoon]
+-name = npwtptmrqjcnzjuelymcq
+-release year = 1961
+-director = 1
+-function result = 93.380952
+
+[Documentary]
+-name = tbliu
+-release year = 1971
+-duration = 119
+-function result = 394.200000
+
+[Documentary]
+-name = razduro
+-release year = 1957
+-duration = 90
+-function result = 279.571429
+
+[Cartoon]
+-name = brszfv
+-release year = 1968
+-director = 2
+-function result = 328.000000
+
+[Documentary]
+-name = wejjmfrjs
+-release year = 1950
+-duration = 149
+-function result = 216.666667
+
+[Game Movie]
+-name = gprunykvbdnclitdtccxnnlve
+-release year = 1955
+-director = ndxiddzvznvlkxpxbciv
+-function result = 78.200000
+
+[Cartoon]
+-name = jamznjfjxjgholjllyhwignfhp
+-release year = 1954
+-director = 1
+-function result = 75.153846
+
+[Documentary]
+-name = disshfbnpayximjty
+-release year = 1967
+-duration = 174
+-function result = 115.705882
+
+[Cartoon]
+-name = bniiwxwbwogfhyomabd
+-release year = 1975
+-director = 0
+-function result = 103.947368
+
+[Cartoon]
+-name = okdmgwtyxig
+-release year = 1956
+-director = 0
+-function result = 177.818182
+
+[Game Movie]
+-name = jcuqj
+-release year = 1974
+-director = o
+-function result = 394.800000
+
+[Cartoon]
+-name = ztrbudpehdmfylfit
+-release year = 1964
+-director = 1
+-function result = 115.529412
+
+[Cartoon]
+-name = aglqppepfvryouvrlb
+-release year = 1964
+-director = 0
+-function result = 109.111111
+
+[Documentary]
+-name = oblwwam
+-release year = 1967
+-duration = 148
+-function result = 281.000000
+
+[Game Movie]
+-name = eexvjna
+-release year = 1959
+-director = ebuyyn
+-function result = 279.857143
+
+[Cartoon]
+-name = znwnqjlnjzncoti
+-release year = 1966
+-director = 2
+-function result = 131.066667
+
+[Cartoon]
+-name = dgljjh
+-release year = 1957
+-director = 0
+-function result = 326.166667
+
+[Documentary]
+-name = hltwjinsvadxnfngnhytn
+-release year = 1950
+-duration = 128
+-function result = 92.857143
+
+[Game Movie]
+-name = lixtfrasnwbxlv
+-release year = 1972
+-director = lysaffgumhqzjqaydkv
+-function result = 140.857143
+
+[Game Movie]
+-name = yjcxmzihuuhmworf
+-release year = 1970
+-director = gmyhvqht
+-function result = 123.125000
+
+[Cartoon]
+-name = skgrtkofjwogsvspjm
+-release year = 1970
+-director = 2
+-function result = 109.444444
+
+[Game Movie]
+-name = uzdnjyh
+-release year = 1963
+-director = rb
+-function result = 280.428571
+
+[Documentary]
+-name = ijiovfcbzavojhkfzsa
+-release year = 1971
+-duration = 177
+-function result = 103.736842
+
+[Cartoon]
+-name = wwmnxbnskwa
+-release year = 1967
+-director = 0
+-function result = 178.818182
+
+[Cartoon]
+-name = uhc
+-release year = 1973
+-director = 1
+-function result = 657.666667
+
+[Documentary]
+-name = ktzcvaaikwgylgayymxymqiq
+-release year = 1965
+-duration = 167
+-function result = 81.875000
+
+[Cartoon]
+-name = oj
+-release year = 1974
+-director = 0
+-function result = 987.000000
+
+[Documentary]
+-name = byzdijbpimvknvykvkadalsv
+-release year = 1957
+-duration = 98
+-function result = 81.541667
+
+[Cartoon]
+-name = fjoiholrxmihbfto
+-release year = 1967
+-director = 0
+-function result = 122.937500
+
+[Game Movie]
+-name = dazeoubedgtkpityygpvvaf
+-release year = 1950
+-director = fymgsmcvodbexdjclencog
+-function result = 84.782609
+
+[Game Movie]
+-name = rkjrphxpvfjhjfy
+-release year = 1952
+-director = iemnpoyubakj
+-function result = 130.133333
+
+[Documentary]
+-name = w
+-release year = 1961
+-duration = 109
+-function result = 1961.000000
+
+[Game Movie]
+-name = t
+-release year = 1969
+-director = potzycgyrocdcs
+-function result = 1969.000000
+
+[Documentary]
+-name = vfygjxghgsxgnny
+-release year = 1957
+-duration = 163
+-function result = 130.466667
+
+[Cartoon]
+-name = lf
+-release year = 1952
+-director = 1
+-function result = 976.000000
+
+[Game Movie]
+-name = hzybe
+-release year = 1968
+-director = yjkesilaqfzx
+-function result = 393.600000
+
+[Game Movie]
+-name = vvwxhdylaevacweowpbajlnl
+-release year = 1960
+-director = s
+-function result = 81.666667
+
+[Game Movie]
+-name = zxiuthdyhpzmk
+-release year = 1951
+-director = oiffewggftwruqdxdculxquao
+-function result = 150.076923
+
+[Documentary]
+-name = ndoelvjrrrazkw
+-release year = 1956
+-duration = 118
+-function result = 139.714286
+
+[Documentary]
+-name = drwyevqyveanupskteie
+-release year = 1975
+-duration = 149
+-function result = 98.750000
+
+[Game Movie]
+-name = yfvqmmkrfipkdfkammpieisx
+-release year = 1955
+-director = aclczlcfgvts
+-function result = 81.458333
+
+[Cartoon]
+-name = pcksjwsxlifpqaoecsrescjzj
+-release year = 1970
+-director = 1
+-function result = 78.800000
+
+[Game Movie]
+-name = gdckpuuoorzy
+-release year = 1966
+-director = qqzgwbzoitqtubzqhmwkohckd
+-function result = 163.833333
+
+[Game Movie]
+-name = pzvhrwpoaqekjudfycvfqsr
+-release year = 1959
+-director = btog
+-function result = 85.173913
+
+[Game Movie]
+-name = ana
+-release year = 1969
+-director = fyzvypzib
+-function result = 656.333333
+
+[Cartoon]
+-name = trcahws
+-release year = 1975
+-director = 2
+-function result = 282.142857
+
+[Cartoon]
+-name = fxojzdljimkdkzcvaykjtcnulj
+-release year = 1975
+-director = 0
+-function result = 75.961538
+
+[Cartoon]
+-name = aryocauolcavimumjxmuggyval
+-release year = 1964
+-director = 1
+-function result = 75.538462
+
+[Cartoon]
+-name = pljqblqvbbadwissw
+-release year = 1967
+-director = 1
+-function result = 115.705882
+
+[Game Movie]
+-name = zrvurjahtswebminedofdudn
+-release year = 1964
+-director = ymnpvnrmklft
+-function result = 81.833333
+
+[Documentary]
+-name = gktizbxdfllkho
+-release year = 1969
+-duration = 126
+-function result = 140.642857
+
+[Game Movie]
+-name = jejwvxgieaysp
+-release year = 1962
+-director = eipfk
+-function result = 150.923077
+
+[Game Movie]
+-name = zwbhmdazpjfahczokd
+-release year = 1953
+-director = lxfqcnfhxrsoqqsz
+-function result = 108.500000
+
+[Game Movie]
+-name = c
+-release year = 1950
+-director = ljpvlpjxubisg
+-function result = 1950.000000
+
+[Cartoon]
+-name = fftyajrqdqtzsxoggdbtum
+-release year = 1965
+-director = 1
+-function result = 89.318182
+
+[Cartoon]
+-name = jveh
+-release year = 1961
+-director = 1
+-function result = 490.250000
+
+[Game Movie]
+-name = kmvdfytyzo
+-release year = 1954
+-director = nugtxapjveyyptcwjqlvczsf
+-function result = 195.400000
+
+[Cartoon]
+-name = f
+-release year = 1964
+-director = 0
+-function result = 1964.000000
+
+[Game Movie]
+-name = kjahlqqg
+-release year = 1958
+-director = ofojjmtzzqbzigfajmsxpa
+-function result = 244.750000
+
+[Cartoon]
+-name = rou
+-release year = 1971
+-director = 2
+-function result = 657.000000
+
+[Cartoon]
+-name = cjknvdnxtqydzddiqyhharkej
+-release year = 1975
+-director = 1
+-function result = 79.000000
+
+[Cartoon]
+-name = utaddnaicxdvvgubmetklck
+-release year = 1965
+-director = 2
+-function result = 85.434783
+
+[Documentary]
+-name = qpjojeqoifrqiqwfo
+-release year = 1951
+-duration = 106
+-function result = 114.764706
+
+[Game Movie]
+-name = fkasomzdbpvsaje
+-release year = 1955
+-director = bsnhl
+-function result = 130.333333
+
+[Documentary]
+-name = bwq
+-release year = 1973
+-duration = 168
+-function result = 657.666667
+
+[Cartoon]
+-name = ctxwhjwnmlifmujtvdicpnt
+-release year = 1967
+-director = 1
+-function result = 85.521739
+
+[Documentary]
+-name = zosvslurse
+-release year = 1957
+-duration = 153
+-function result = 195.700000
+
+[Game Movie]
+-name = q
+-release year = 1962
+-director = omihhopmfffywxjxnbsgonzit
+-function result = 1962.000000
+
+[Cartoon]
+-name = oilduvkblans
+-release year = 1971
+-director = 2
+-function result = 164.250000
+
+[Cartoon]
+-name = ubah
+-release year = 1970
+-director = 2
+-function result = 492.500000
+
+[Game Movie]
+-name = hobccrqrzduvaewogmg
+-release year = 1970
+-director = hxqbyqkdlax
+-function result = 103.684211
+
+[Cartoon]
+-name = ztrrksuenwkmkryrefqvionst
+-release year = 1970
+-director = 0
+-function result = 78.800000
+
+[Cartoon]
+-name = lrwelnqdjurfgdsxdjekzzsp
+-release year = 1962
+-director = 2
+-function result = 81.750000
+
+[Documentary]
+-name = hemuvkagzqmimfps
+-release year = 1957
+-duration = 102
+-function result = 122.312500
+
+[Game Movie]
+-name = qwxrxrhlfucmyo
+-release year = 1960
+-director = vyiexyqh
+-function result = 140.000000
+
+[Documentary]
+-name = fhgxuzvtqsmzfrtigtyopxzt
+-release year = 1973
+-duration = 154
+-function result = 82.208333
+
+[Documentary]
+-name = kifpplm
+-release year = 1960
+-duration = 99
+-function result = 280.000000
+
+[Game Movie]
+-name = ddseila
+-release year = 1969
+-director = rtriiqhdoeouqwzfnn
+-function result = 281.285714
+
+[Game Movie]
+-name = cgefyjqkjideblptusibjerhgx
+-release year = 1957
+-director = tsvsvexacisotbuxehoyc
+-function result = 75.269231
+
+[Documentary]
+-name = sowzuv
+-release year = 1963
+-duration = 134
+-function result = 327.166667
+
+[Documentary]
+-name = ilyhlcpgtkjnhnwwnyfvf
+-release year = 1960
+-duration = 125
+-function result = 93.333333
+
+[Documentary]
+-name = gzxwnteyrnmvcsombdvqateaa
+-release year = 1956
+-duration = 167
+-function result = 78.240000
+
+[Cartoon]
+-name = kaujzqzswzjjle
+-release year = 1955
+-director = 1
+-function result = 139.642857
+
+[Game Movie]
+-name = iy
+-release year = 1966
+-director = basfbugjuutwqevgdncdyl
+-function result = 983.000000
+
+[Cartoon]
+-name = yzzgaxharodmxoithejobprot
+-release year = 1962
+-director = 2
+-function result = 78.480000
+
+[Cartoon]
+-name = selsftseduwrak
+-release year = 1964
+-director = 2
+-function result = 140.285714
+
+[Game Movie]
+-name = yysmzhfpcc
+-release year = 1962
+-director = gpv
+-function result = 196.200000
+
+[Game Movie]
+-name = tvhyyewsggiuasua
+-release year = 1966
+-director = gzumqwotff
+-function result = 122.875000
+
+[Documentary]
+-name = glcpldth
+-release year = 1975
+-duration = 127
+-function result = 246.875000
+
+[Game Movie]
+-name = wpvq
+-release year = 1962
+-director = izqclgabbfgrznx
+-function result = 490.500000
+
+[Documentary]
+-name = zuigpkxvgosyfa
+-release year = 1973
+-duration = 143
+-function result = 140.928571
+
+[Cartoon]
+-name = dflgmrzng
+-release year = 1975
+-director = 1
+-function result = 219.444444
+
+[Game Movie]
+-name = yswgkgdfotxny
+-release year = 1960
+-director = 
+-function result = 150.769231
+
+[Game Movie]
+-name = valgi
+-release year = 1972
+-director = ailghngvnbtulazsqvpftrqr
+-function result = 394.400000
+
+[Cartoon]
+-name = htahvkvcrkkoxlhtyj
+-release year = 1968
+-director = 0
+-function result = 109.333333
+
+[Game Movie]
+-name = ifjbxaxkuhgwqbglf
+-release year = 1955
+-director = vqnvduoeejwgzgnlinnhzhoff
+-function result = 115.000000
+
+[Cartoon]
+-name = sokqgxlkuzqa
+-release year = 1962
+-director = 2
+-function result = 163.500000
+
+[Documentary]
+-name = vxxdknkkwbrcg
+-release year = 1963
+-duration = 164
+-function result = 151.000000
+
+[Game Movie]
+-name = aqvzbhtdxvomdahd
+-release year = 1962
+-director = 
+-function result = 122.625000
+
+[Cartoon]
+-name = wzjzrlhtbiidyg
+-release year = 1952
+-director = 2
+-function result = 139.428571
+
+[Cartoon]
+-name = fntvbzviexurkstwsmjzfkjqn
+-release year = 1972
+-director = 2
+-function result = 78.880000
+
+[Game Movie]
+-name = lqralmbmjlqjf
+-release year = 1955
+-director = vadrurbvwn
+-function result = 150.384615
+
+[Documentary]
+-name = pm
+-release year = 1951
+-duration = 105
+-function result = 975.500000
+
+[Game Movie]
+-name = uawicltnbcvn
+-release year = 1957
+-director = xsprjsmigtwjijeljrflpnna
+-function result = 163.083333
+
+[Game Movie]
+-name = larjx
+-release year = 1958
+-director = bqttebbyak
+-function result = 391.600000
+
+[Game Movie]
+-name = uuhbfxrvxyabjavvz
+-release year = 1952
+-director = wrarv
+-function result = 114.823529
+
+[Cartoon]
+-name = edenwajdboaulasldenybm
+-release year = 1973
+-director = 2
+-function result = 89.681818
+
+[Game Movie]
+-name = obkjwop
+-release year = 1952
+-director = dl
+-function result = 278.857143
+
+[Game Movie]
+-name = gcraotvzybnxcbe
+-release year = 1960
+-director = f
+-function result = 130.666667
+
+[Documentary]
+-name = ubeiqhl
+-release year = 1961
+-duration = 155
+-function result = 280.142857
+
+[Cartoon]
+-name = tckwqfrpeuedwghxnsov
+-release year = 1967
+-director = 2
+-function result = 98.350000
+
+[Cartoon]
+-name = himkumepoqlgwevcycfwiovxgk
+-release year = 1973
+-director = 0
+-function result = 75.884615
+
+[Game Movie]
+-name = wlcixyudnkuzqsdoweqb
+-release year = 1950
+-director = 
+-function result = 97.500000
+
+[Game Movie]
+-name = xykrxnktymdykabykxzbrernk
+-release year = 1971
+-director = qnjilii
+-function result = 78.840000
+
+[Cartoon]
+-name = ijyjwd
+-release year = 1958
+-director = 1
+-function result = 326.333333
+
+[Game Movie]
+-name = iokhrboipyr
+-release year = 1957
+-director = lapwixr
+-function result = 177.909091
+
+[Documentary]
+-name = scl
+-release year = 1956
+-duration = 164
+-function result = 652.000000
+
+[Documentary]
+-name = jehzorqsfahdrortgnddhkijfk
+-release year = 1971
+-duration = 170
+-function result = 75.807692
+
+[Game Movie]
+-name = ucucblvudaumfmc
+-release year = 1952
+-director = hiklorxwaciwybmsfgwitr
+-function result = 130.133333
+
+[Game Movie]
+-name = zmzlpvszhfnadlcfuadx
+-release year = 1956
+-director = ycvumqmrphqb
+-function result = 97.800000
+
+[Cartoon]
+-name = evsnbfqgtulnvrmhpoe
+-release year = 1952
+-director = 0
+-function result = 102.736842
+
+[Game Movie]
+-name = tmfjnnmgriahlfxrarenovzw
+-release year = 1975
+-director = pcwsxtljax
+-function result = 82.291667
+
+[Documentary]
+-name = hhthogonzp
+-release year = 1954
+-duration = 101
+-function result = 195.400000
+
+[Cartoon]
+-name = zetkvygpvbdhcaisjpbfws
+-release year = 1962
+-director = 2
+-function result = 89.181818
+
+[Documentary]
+-name = bopgmqmfcjdk
+-release year = 1951
+-duration = 151
+-function result = 162.583333
+
+[Game Movie]
+-name = kqe
+-release year = 1969
+-director = kpjluhditltvzkdlap
+-function result = 656.333333
+
+[Game Movie]
+-name = ynzbbdlthfdzopvvudpfymhip
+-release year = 1973
+-director = lenqemfenhjbcrggsx
+-function result = 78.920000
+
+[Cartoon]
+-name = rtjxrveckypqofxckbr
+-release year = 1960
+-director = 1
+-function result = 103.157895
+
+[Game Movie]
+-name = dbexyblqsearxxxbiwqakvx
+-release year = 1965
+-director = iafdnybszfqxib
+-function result = 85.434783
+
+[Game Movie]
+-name = rugpsizq
+-release year = 1965
+-director = zcwzqgzvjovnhuuxtdalgjcc
+-function result = 245.625000
+
+[Documentary]
+-name = zqkysmwrecsalhvaqsvnl
+-release year = 1963
+-duration = 116
+-function result = 93.476190
+
+[Game Movie]
+-name = ybinufp
+-release year = 1975
+-director = pnfejyinskybg
+-function result = 282.142857
+
+[Documentary]
+-name = welutkctnkjhryujnbpwbxluk
+-release year = 1971
+-duration = 101
+-function result = 78.840000
+
+[Cartoon]
+-name = pqivdcrpgkc
+-release year = 1969
+-director = 1
+-function result = 179.000000
+
+[Game Movie]
+-name = rgtekiclinf
+-release year = 1962
+-director = zdklscuphygzhrdamp
+-function result = 178.363636
+
+[Cartoon]
+-name = gkiqptacbudggraknpslwrupu
+-release year = 1951
+-director = 2
+-function result = 78.040000
+
+[Game Movie]
+-name = hkpsuhhn
+-release year = 1962
+-director = lqepwniwxv
+-function result = 245.250000
+
+[Game Movie]
+-name = kidzdzarg
+-release year = 1970
+-director = bxcvhjkr
+-function result = 218.888889
+
+[Game Movie]
+-name = lzitwiqkxzugctlbtekdfj
+-release year = 1963
+-director = cqqoh
+-function result = 89.227273
+
+[Documentary]
+-name = ytpupx
+-release year = 1975
+-duration = 134
+-function result = 329.166667
+
+[Game Movie]
+-name = tdnoqrjubnbk
+-release year = 1956
+-director = fdltkynpygfsxcfyzqre
+-function result = 163.000000
+
+[Cartoon]
+-name = xqoadrmywpjscjfrhnyak
+-release year = 1957
+-director = 0
+-function result = 93.190476
+
+[Documentary]
+-name = zbj
+-release year = 1958
+-duration = 139
+-function result = 652.666667
+
+[Game Movie]
+-name = augel
+-release year = 1973
+-director = ekkpcmyjgfwghijqsoqtx
+-function result = 394.600000
+
+[Game Movie]
+-name = c
+-release year = 1958
+-director = wkj
+-function result = 1958.000000
+
+[Documentary]
+-name = usgweefmmdtvlcmd
+-release year = 1954
+-duration = 162
+-function result = 122.125000
+
+[Game Movie]
+-name = bdqfimqswvjqnqou
+-release year = 1967
+-director = vgkybijguowyombrehasxu
+-function result = 122.937500
+
+[Documentary]
+-name = jkvaeu
+-release year = 1962
+-duration = 127
+-function result = 327.000000
+
+[Game Movie]
+-name = oofukuskkgmcmvehsyyod
+-release year = 1955
+-director = ybjcxfrdb
+-function result = 93.095238
+
+[Documentary]
+-name = becvpne
+-release year = 1967
+-duration = 149
+-function result = 281.000000
+
+[Cartoon]
+-name = vxstxgyjfzsjyzaeahyhicjgt
+-release year = 1960
+-director = 0
+-function result = 78.400000
+
+[Cartoon]
+-name = awkaofxvegafblea
+-release year = 1958
+-director = 0
+-function result = 122.375000
+
+[Cartoon]
+-name = ikekvkguuelwbwwpdwkh
+-release year = 1962
+-director = 1
+-function result = 98.100000
+
+[Game Movie]
+-name = yvimflhn
+-release year = 1971
+-director = lzsxforkaqlymcbknlrbayb
+-function result = 246.375000
+
+[Documentary]
+-name = avxpsiolguzzgz
+-release year = 1969
+-duration = 145
+-function result = 140.642857
+
+[Cartoon]
+-name = vbqkm
+-release year = 1962
+-director = 1
+-function result = 392.400000
+
+[Documentary]
+-name = pjqflmc
+-release year = 1954
+-duration = 168
+-function result = 279.142857
+
+[Cartoon]
+-name = psmrsssjlsnjvetjn
+-release year = 1973
+-director = 1
+-function result = 116.058824
+
+[Game Movie]
+-name = gmetygveslwlynfqhoezenwk
+-release year = 1969
+-director = fxqctnkh
+-function result = 82.041667
+
+[Game Movie]
+-name = zalrmhek
+-release year = 1955
+-director = lcecifgxcqghpwmilwrecy
+-function result = 244.375000
+
+[Documentary]
+-name = yotdasqfysn
+-release year = 1974
+-duration = 179
+-function result = 179.454545
+
+[Documentary]
+-name = qtripfqc
+-release year = 1960
+-duration = 91
+-function result = 245.000000
+
+[Documentary]
+-name = iniuly
+-release year = 1966
+-duration = 92
+-function result = 327.666667
+
+[Cartoon]
+-name = heiztnagx
+-release year = 1975
+-director = 0
+-function result = 219.444444
+
+[Cartoon]
+-name = o
+-release year = 1969
+-director = 0
+-function result = 1969.000000
+
+[Game Movie]
+-name = daennoibmyrniatqcndetayvq
+-release year = 1962
+-director = jnuemzesmugwxuuqierbuvqyz
+-function result = 78.480000
+
+[Game Movie]
+-name = htysguwstdmizsgwnboxhhyc
+-release year = 1951
+-director = rc
+-function result = 81.291667
+
+[Game Movie]
+-name = zkv
+-release year = 1960
+-director = eeubynglxfdedshtpobqsdhuf
+-function result = 653.333333
+
+[Cartoon]
+-name = wuhaabd
+-release year = 1967
+-director = 1
+-function result = 281.000000
+
+[Documentary]
+-name = osnuxibrxss
+-release year = 1960
+-duration = 119
+-function result = 178.181818
+
+[Documentary]
+-name = hcggkecshdvkcmymdqbxo
+-release year = 1951
+-duration = 175
+-function result = 92.904762
+
+[Documentary]
+-name = tzyfwtmbbu
+-release year = 1956
+-duration = 127
+-function result = 195.600000
+
+[Cartoon]
+-name = pcbbgp
+-release year = 1970
+-director = 1
+-function result = 328.333333
+
+[Game Movie]
+-name = xqejrlsmkqtglijpc
+-release year = 1954
+-director = xbcmffnlvnfpddfjmyugkey
+-function result = 114.941176
+
+[Game Movie]
+-name = myzqvwszkxf
+-release year = 1956
+-director = lckqrpvzyjxupkyoonaclbs
+-function result = 177.818182
+
+[Cartoon]
+-name = hjmogxstpkill
+-release year = 1972
+-director = 0
+-function result = 151.692308
+
+[Documentary]
+-name = osee
+-release year = 1969
+-duration = 104
+-function result = 492.250000
+
+[Cartoon]
+-name = efhmgtvpfkxec
+-release year = 1970
+-director = 1
+-function result = 151.538462
+
+[Documentary]
+-name = hz
+-release year = 1955
+-duration = 108
+-function result = 977.500000
+
+[Cartoon]
+-name = tetxpmdbskigqecf
+-release year = 1962
+-director = 2
+-function result = 122.625000
+
+[Game Movie]
+-name = qvmfwveiaqyuvrtkg
+-release year = 1959
+-director = lyhwhyalfnzifpgrucoblpr
+-function result = 115.235294
+
+[Documentary]
+-name = ceykbkjlisjkdox
+-release year = 1975
+-duration = 138
+-function result = 131.666667
+
+[Game Movie]
+-name = fwqjlrwckhnzkrxuvjfg
+-release year = 1953
+-director = zrdchdgiicneszrlvtx
+-function result = 97.650000
+
+[Documentary]
+-name = ncwjxhrfbqygvfjdorfdyzc
+-release year = 1960
+-duration = 97
+-function result = 85.217391
+
+[Game Movie]
+-name = idvgqxebwmub
+-release year = 1955
+-director = lzxihjlvataasds
+-function result = 162.916667
+
+[Game Movie]
+-name = ngavyy
+-release year = 1951
+-director = 
+-function result = 325.166667
+
+[Documentary]
+-name = wyfhzcpglcdoxeo
+-release year = 1959
+-duration = 162
+-function result = 130.600000
+
+[Documentary]
+-name = mnkuofsohtivpiayifpoqu
+-release year = 1956
+-duration = 144
+-function result = 88.909091
+
+[Documentary]
+-name = vjjfgvtqrjyjxhefdwqfwykmo
+-release year = 1958
+-duration = 139
+-function result = 78.320000
+
+[Documentary]
+-name = zigjrmpohi
+-release year = 1966
+-duration = 99
+-function result = 196.600000
+
+[Documentary]
+-name = npvuutkcpiodzrljd
+-release year = 1968
+-duration = 103
+-function result = 115.764706
+
+[Documentary]
+-name = lxnagxhwfylxvgtosvfdkjc
+-release year = 1970
+-duration = 119
+-function result = 85.652174
+
+[Documentary]
+-name = hfudrtrta
+-release year = 1950
+-duration = 126
+-function result = 216.666667
+
+[Game Movie]
+-name = akvvqolkmtnycpdwdmeigjb
+-release year = 1970
+-director = c
+-function result = 85.652174
+
+[Cartoon]
+-name = xapxmkveaiombckfto
+-release year = 1972
+-director = 2
+-function result = 109.555556
+
+[Game Movie]
+-name = fitgjwdnp
+-release year = 1965
+-director = 
+-function result = 218.333333
+
+[Cartoon]
+-name = bqwhqhvdizpotdspfcwpxfbtiq
+-release year = 1960
+-director = 2
+-function result = 75.384615
+
+[Documentary]
+-name = lieipxpmazmrphx
+-release year = 1974
+-duration = 169
+-function result = 131.600000
+
+[Cartoon]
+-name = vulcxeknpwsfhc
+-release year = 1965
+-director = 1
+-function result = 140.357143
+
+[Cartoon]
+-name = gflitczczj
+-release year = 1954
+-director = 1
+-function result = 195.400000
+
+[Game Movie]
+-name = ajaxqmkhiempgyfzhngsvcvxe
+-release year = 1961
+-director = ghcgfcqhzitlpbpbrvaywj
+-function result = 78.440000
+
+[Documentary]
+-name = jhz
+-release year = 1963
+-duration = 116
+-function result = 654.333333
+
+[Documentary]
+-name = xauecmmeufpljfp
+-release year = 1952
+-duration = 152
+-function result = 130.133333
+
+[Documentary]
+-name = z
+-release year = 1963
+-duration = 94
+-function result = 1963.000000
+
+[Cartoon]
+-name = wndec
+-release year = 1970
+-director = 1
+-function result = 394.000000
+
+[Cartoon]
+-name = rg
+-release year = 1955
+-director = 2
+-function result = 977.500000
+
+[Game Movie]
+-name = czznieckit
+-release year = 1959
+-director = hwynawcgdf
+-function result = 195.900000
+
+[Cartoon]
+-name = mqmrygb
+-release year = 1958
+-director = 0
+-function result = 279.714286
+
+[Documentary]
+-name = qiudqpnylnnoksup
+-release year = 1953
+-duration = 173
+-function result = 122.062500
+
+[Documentary]
+-name = phuifc
+-release year = 1957
+-duration = 107
+-function result = 326.166667
+
+[Cartoon]
+-name = ydvsgmivmvjbjt
+-release year = 1953
+-director = 1
+-function result = 139.500000
+
+[Cartoon]
+-name = iyazhuimytvjhuocmuq
+-release year = 1965
+-director = 1
+-function result = 103.421053
+
+[Documentary]
+-name = yedtzjdsresrlozamsv
+-release year = 1951
+-duration = 139
+-function result = 102.684211
+
+[Documentary]
+-name = egfucxzwxfcr
+-release year = 1961
+-duration = 132
+-function result = 163.416667
+
+[Cartoon]
+-name = eaqvoewotrlssdeyjltnkumib
+-release year = 1975
+-director = 2
+-function result = 79.000000
+
+[Documentary]
+-name = xedawbodzeyqrqlwujhievsyha
+-release year = 1973
+-duration = 143
+-function result = 75.884615
+
+[Cartoon]
+-name = ybndbler
+-release year = 1956
+-director = 2
+-function result = 244.500000
+
+[Game Movie]
+-name = yofjlbtsjxpeyye
+-release year = 1959
+-director = viitjxxklddblaqkovtzwougo
+-function result = 130.600000
+
+[Cartoon]
+-name = iqndyyzjxyvid
+-release year = 1960
+-director = 0
+-function result = 150.769231
+
+[Game Movie]
+-name = aznxuotjibxsnlagafgyeqycl
+-release year = 1969
+-director = gmsxkuwz
+-function result = 78.760000
+
+[Cartoon]
+-name = nbyqyqejsmmasme
+-release year = 1960
+-director = 2
+-function result = 130.666667
+
+[Game Movie]
+-name = trinqukmwdemsikjgdpsxbe
+-release year = 1957
+-director = tqeedpcyimlygxmcbsqtabe
+-function result = 85.086957
+
+[Cartoon]
+-name = bdwhbqxfwcwyaekmcslo
+-release year = 1962
+-director = 2
+-function result = 98.100000
+
+[Game Movie]
+-name = ihooquityeabwz
+-release year = 1952
+-director = uccscg
+-function result = 139.428571
+
+[Cartoon]
+-name = xcyuqghapyp
+-release year = 1968
+-director = 1
+-function result = 178.909091
+
+[Cartoon]
+-name = s
+-release year = 1952
+-director = 2
+-function result = 1952.000000
+
+[Cartoon]
+-name = cby
+-release year = 1953
+-director = 0
+-function result = 651.000000
+
+[Documentary]
+-name = lvbxsfxmx
+-release year = 1972
+-duration = 92
+-function result = 219.111111
+
+[Game Movie]
+-name = upfoohhtkaxocwuhnevkfu
+-release year = 1960
+-director = msr
+-function result = 89.090909
+
+[Game Movie]
+-name = kvhzawnifiufgk
+-release year = 1956
+-director = cetrkqdsk
+-function result = 139.714286
+
+[Cartoon]
+-name = yqa
+-release year = 1950
+-director = 1
+-function result = 650.000000
+
+[Game Movie]
+-name = zytoiyxefdorhukafadxkm
+-release year = 1962
+-director = p
+-function result = 89.181818
+
+[Game Movie]
+-name = zupuuqpiypffvktorq
+-release year = 1971
+-director = tvaxsmlvbxpvwkkteaiobawg
+-function result = 109.500000
+
+[Game Movie]
+-name = la
+-release year = 1959
+-director = jtolsgzdebatyzdks
+-function result = 979.500000
+
+[Cartoon]
+-name = yoc
+-release year = 1972
+-director = 1
+-function result = 657.333333
+
+[Cartoon]
+-name = zkc
+-release year = 1971
+-director = 1
+-function result = 657.000000
+
+[Game Movie]
+-name = gqqgwujy
+-release year = 1972
+-director = hxttpcgscuuys
+-function result = 246.500000
+
+[Game Movie]
+-name = gfncfukwksugbsukqpe
+-release year = 1972
+-director = tkzwh
+-function result = 103.789474
+
+[Cartoon]
+-name = sz
+-release year = 1974
+-director = 0
+-function result = 987.000000
+
+[Cartoon]
+-name = cmfnkpfew
+-release year = 1975
+-director = 0
+-function result = 219.444444
+
+[Game Movie]
+-name = phbucmwyvsxwkyukhcnwhc
+-release year = 1953
+-director = zjpxuorq
+-function result = 88.772727
+
+[Game Movie]
+-name = zcfvdcnabzavkixzeh
+-release year = 1953
+-director = mgo
+-function result = 108.500000
+
+[Game Movie]
+-name = rubuwuuycr
+-release year = 1957
+-director = e
+-function result = 195.700000
+
+[Cartoon]
+-name = gcasma
+-release year = 1968
+-director = 1
+-function result = 328.000000
+
+[Cartoon]
+-name = gpnkuybqbwmvskxjmcspjztmt
+-release year = 1962
+-director = 2
+-function result = 78.480000
+
+[Cartoon]
+-name = vlemaogarwbnizhuwtgalykm
+-release year = 1974
+-director = 2
+-function result = 82.250000
+
+[Game Movie]
+-name = ktwhgctjsblkxnzhmhdkamlnkx
+-release year = 1951
+-director = 
+-function result = 75.038462
+
+[Game Movie]
+-name = ahbzqjb
+-release year = 1971
+-director = sumegjtfshm
+-function result = 281.571429
+
+[Documentary]
+-name = hectbevykxhnyxw
+-release year = 1958
+-duration = 128
+-function result = 130.533333
+
+[Documentary]
+-name = wxefqjzxwxqmevoyyuvzeugrv
+-release year = 1966
+-duration = 90
+-function result = 78.640000
+
+[Documentary]
+-name = hvnezuwiwvgtltzij
+-release year = 1959
+-duration = 155
+-function result = 115.235294
+
+[Cartoon]
+-name = ikrqeoyulpbiehhadrwaapn
+-release year = 1967
+-director = 0
+-function result = 85.521739
+
+[Game Movie]
+-name = qhmnrxg
+-release year = 1965
+-director = buivfzy
+-function result = 280.714286
+
+[Game Movie]
+-name = wdmpcmrt
+-release year = 1960
+-director = o
+-function result = 245.000000
+
+[Cartoon]
+-name = bghozewjhqrexqemvlkaxb
+-release year = 1961
+-director = 2
+-function result = 89.136364
+
+[Cartoon]
+-name = nhgmcjvmzwqvfalweiojujw
+-release year = 1960
+-director = 1
+-function result = 85.217391
+
+[Documentary]
+-name = mhbkwktjn
+-release year = 1956
+-duration = 126
+-function result = 217.333333
+
+[Cartoon]
+-name = crz
+-release year = 1969
+-director = 2
+-function result = 656.333333
+
+[Documentary]
+-name = yvxjsgf
+-release year = 1968
+-duration = 158
+-function result = 281.142857
+
+[Cartoon]
+-name = hjjrfum
+-release year = 1959
+-director = 1
+-function result = 279.857143
+
+[Game Movie]
+-name = ktddsnxftvdqgxzlvrneaynuf
+-release year = 1975
+-director = gyqxwaq
+-function result = 79.000000
+
+[Cartoon]
+-name = mbsiyxaeubrq
+-release year = 1956
+-director = 0
+-function result = 163.000000
+
+[Documentary]
+-name = ehpmrykhvikokqzwttgtrj
+-release year = 1961
+-duration = 137
+-function result = 89.136364
+
+[Game Movie]
+-name = dhxzfdjwpaubjqkve
+-release year = 1961
+-director = lfseabxrmwfyniiminpr
+-function result = 115.352941
+
+[Cartoon]
+-name = gicyuyeqlljslmpfyokw
+-release year = 1970
+-director = 0
+-function result = 98.500000
+
+[Cartoon]
+-name = etexfnsnwvnsvtji
+-release year = 1968
+-director = 1
+-function result = 123.000000
+
+[Game Movie]
+-name = esyegkajhhylcelhsd
+-release year = 1965
+-director = qalixergklgcrycvgnypuf
+-function result = 109.166667
+
+[Cartoon]
+-name = ustowpewbm
+-release year = 1955
+-director = 2
+-function result = 195.500000
+
+[Game Movie]
+-name = s
+-release year = 1964
+-director = iwjjygpnehhlwpvsj
+-function result = 1964.000000
+
+[Game Movie]
+-name = fkegzy
+-release year = 1973
+-director = fagykcjtaqjous
+-function result = 328.833333
+
+[Documentary]
+-name = odhytpfycjfbjvi
+-release year = 1951
+-duration = 131
+-function result = 130.066667
+
+[Game Movie]
+-name = fqphiaxesvmjlpslihrjjco
+-release year = 1963
+-director = mjuxmdvrtlad
+-function result = 85.347826
+
+[Game Movie]
+-name = ivurgljs
+-release year = 1955
+-director = slfcnvqzglzsouljhnmvlt
+-function result = 244.375000
+
+[Game Movie]
+-name = wpdhhzzugdhbujjh
+-release year = 1959
+-director = dveogods
+-function result = 122.437500
+
+[Game Movie]
+-name = qxfmmivvjurpaz
+-release year = 1970
+-director = wibdseawugkxavonlm
+-function result = 140.714286
+
+[Cartoon]
+-name = c
+-release year = 1974
+-director = 2
+-function result = 1974.000000
+
+[Cartoon]
+-name = pcrqwnyxsqbspxyzvy
+-release year = 1959
+-director = 2
+-function result = 108.833333
+
+[Cartoon]
+-name = xikameacx
+-release year = 1954
+-director = 0
+-function result = 217.111111
+
+[Documentary]
+-name = ddgavxe
+-release year = 1962
+-duration = 167
+-function result = 280.285714
+
+[Cartoon]
+-name = nylkkbvjlhjzlj
+-release year = 1959
+-director = 1
+-function result = 139.928571
+
+[Cartoon]
+-name = zjjfrla
+-release year = 1965
+-director = 2
+-function result = 280.714286
+
+[Cartoon]
+-name = tds
+-release year = 1965
+-director = 1
+-function result = 655.000000
+
+[Cartoon]
+-name = qznd
+-release year = 1974
+-director = 0
+-function result = 493.500000
+
+[Documentary]
+-name = kefnmgyxlpimgaeivhcow
+-release year = 1970
+-duration = 165
+-function result = 93.809524
+
+[Documentary]
+-name = jrrhuntas
+-release year = 1962
+-duration = 176
+-function result = 218.000000
+
+[Game Movie]
+-name = jmwract
+-release year = 1955
+-director = molp
+-function result = 279.285714
+
+[Cartoon]
+-name = zaeiuxroknqcvcfclryeraa
+-release year = 1962
+-director = 2
+-function result = 85.304348
+
+[Documentary]
+-name = dvuzuvgep
+-release year = 1974
+-duration = 173
+-function result = 219.333333
+
+[Documentary]
+-name = lvsgzxkkqiqjkqg
+-release year = 1957
+-duration = 105
+-function result = 130.466667
+
+[Documentary]
+-name = cne
+-release year = 1958
+-duration = 99
+-function result = 652.666667
+
+[Cartoon]
+-name = zpbe
+-release year = 1964
+-director = 2
+-function result = 491.000000
+
+[Cartoon]
+-name = vaxhmqqdzctibazedmkcxufwl
+-release year = 1953
+-director = 1
+-function result = 78.120000
+
+[Documentary]
+-name = ershqatgswgusoyupexdobck
+-release year = 1975
+-duration = 141
+-function result = 82.291667
+
+[Game Movie]
+-name = emnkfirwklcejkaby
+-release year = 1963
+-director = ypcvvqzxciyyacmpnsxeqjrs
+-function result = 115.470588
+
+[Game Movie]
+-name = ogdoev
+-release year = 1958
+-director = cqjbnmjmmjqyydsyk
+-function result = 326.333333
+
+[Cartoon]
+-name = dxgi
+-release year = 1963
+-director = 1
+-function result = 490.750000
+
+[Cartoon]
+-name = tk
+-release year = 1971
+-director = 2
+-function result = 985.500000
+
+[Game Movie]
+-name = wqshc
+-release year = 1974
+-director = qscr
+-function result = 394.800000
+
+[Documentary]
+-name = khankxuumjkqcukaxq
+-release year = 1963
+-duration = 108
+-function result = 109.055556
+
+[Documentary]
+-name = rmwlr
+-release year = 1959
+-duration = 129
+-function result = 391.800000
+
+[Cartoon]
+-name = txhjkgf
+-release year = 1969
+-director = 1
+-function result = 281.285714
+
+[Cartoon]
+-name = jslvsimrxuxojvzal
+-release year = 1966
+-director = 2
+-function result = 115.647059
+
+[Cartoon]
+-name = pcrzjwg
+-release year = 1962
+-director = 1
+-function result = 280.285714
+
+[Cartoon]
+-name = hjkbrwsqrreangca
+-release year = 1970
+-director = 1
+-function result = 123.125000
+
+[Game Movie]
+-name = ly
+-release year = 1952
+-director = lhprlepalzmmsjfjcyn
+-function result = 976.000000
+
+[Documentary]
+-name = gnqcjsnhlaqcrdghfrgrgy
+-release year = 1963
+-duration = 174
+-function result = 89.227273
+
+[Game Movie]
+-name = lxg
+-release year = 1951
+-director = uomlqxfgeqguuaxdjcuruapwp
+-function result = 650.333333
+
+[Cartoon]
+-name = yh
+-release year = 1970
+-director = 0
+-function result = 985.000000
+
+[Cartoon]
+-name = hommusednzdmcmr
+-release year = 1953
+-director = 0
+-function result = 130.200000
+
+[Cartoon]
+-name = ul
+-release year = 1971
+-director = 1
+-function result = 985.500000
+
+[Cartoon]
+-name = vutsqizewmboqedrjqtv
+-release year = 1970
+-director = 0
+-function result = 98.500000
+
+[Game Movie]
+-name = xujnswhpqchgmhmitpxltadcs
+-release year = 1950
+-director = zdszbpwnfojodbqnhduvnplm
+-function result = 78.000000
+
+[Game Movie]
+-name = dljcknwmqokdtaoh
+-release year = 1962
+-director = pzsye
+-function result = 122.625000
+
+[Cartoon]
+-name = bjecpthcdjpsibkwnqp
+-release year = 1954
+-director = 1
+-function result = 102.842105
+
+[Game Movie]
+-name = wxlwczswbbcfrwmvbyk
+-release year = 1971
+-director = gnfcavtnatgyqtuusnsvo
+-function result = 103.736842
+
+[Game Movie]
+-name = tpfunppv
+-release year = 1968
+-director = uxd
+-function result = 246.000000
+
+[Game Movie]
+-name = slzsdumambukqpkziz
+-release year = 1959
+-director = eowt
+-function result = 108.833333
+
+[Cartoon]
+-name = ieiavcnwutsivhkpr
+-release year = 1955
+-director = 2
+-function result = 115.000000
+
+[Cartoon]
+-name = pdku
+-release year = 1956
+-director = 2
+-function result = 489.000000
+
+[Cartoon]
+-name = ff
+-release year = 1959
+-director = 0
+-function result = 979.500000
+
+[Game Movie]
+-name = hrbfnuywpfgfw
+-release year = 1953
+-director = mzlbcvvu
+-function result = 150.230769
+
+[Documentary]
+-name = isguiudzwknqkliprpnbbpoe
+-release year = 1962
+-duration = 125
+-function result = 81.750000
+
+[Documentary]
+-name = pnmahvuppzrlje
+-release year = 1972
+-duration = 98
+-function result = 140.857143
+
+[Documentary]
+-name = nkdblgszkllozdb
+-release year = 1953
+-duration = 119
+-function result = 130.200000
+
+[Game Movie]
+-name = zayyrljxr
+-release year = 1974
+-director = ofvyi
+-function result = 219.333333
+
+[Documentary]
+-name = qlbbypcbtqeeydgwd
+-release year = 1960
+-duration = 150
+-function result = 115.294118
+
+[Game Movie]
+-name = bwmhrkrpwifjljjcllxbrb
+-release year = 1950
+-director = xk
+-function result = 88.636364
+
+[Documentary]
+-name = krfmqrvje
+-release year = 1975
+-duration = 166
+-function result = 219.444444
+
+[Documentary]
+-name = gnfrwidhfgbjiyvlcdvuk
+-release year = 1962
+-duration = 91
+-function result = 93.428571
+
+[Cartoon]
+-name = vitwm
+-release year = 1953
+-director = 1
+-function result = 390.600000
+
+[Cartoon]
+-name = wvfzfmiixsgsdixzeiksmp
+-release year = 1972
+-director = 2
+-function result = 89.636364
+
+[Cartoon]
+-name = ixphumeznlo
+-release year = 1969
+-director = 0
+-function result = 179.000000
+
+[Documentary]
+-name = betmdssldlzuzve
+-release year = 1955
+-duration = 119
+-function result = 130.333333
+
+[Game Movie]
+-name = oyrv
+-release year = 1960
+-director = ggneabubhnnkigwntxjuvnfas
+-function result = 490.000000
+
+[Game Movie]
+-name = dkumshqsikwrzjchraw
+-release year = 1957
+-director = xfesumvnym
+-function result = 103.000000
+
+[Cartoon]
+-name = bqqjgjtsfltqpbkpxwmfdhzrc
+-release year = 1967
+-director = 0
+-function result = 78.680000
+
+[Documentary]
+-name = vmxleitnenurhngkzvhvjoa
+-release year = 1964
+-duration = 92
+-function result = 85.391304
+
+[Documentary]
+-name = clmygywudenskdpbkchuded
+-release year = 1966
+-duration = 120
+-function result = 85.478261
+
+[Game Movie]
+-name = ig
+-release year = 1954
+-director = fifrjmsfixlvrwagzkkh
+-function result = 977.000000
+
+[Cartoon]
+-name = kodcpokjvurmdd
+-release year = 1960
+-director = 0
+-function result = 140.000000
+
+[Documentary]
+-name = wixujd
+-release year = 1971
+-duration = 127
+-function result = 328.500000
+
+[Cartoon]
+-name = cdq
+-release year = 1969
+-director = 0
+-function result = 656.333333
+
+[Game Movie]
+-name = ijaueultyqbidhgng
+-release year = 1972
+-director = 
+-function result = 116.000000
+
+[Game Movie]
+-name = ubywfqiaoylzafguszskcdn
+-release year = 1961
+-director = jarmzditeip
+-function result = 85.260870
+
+[Cartoon]
+-name = mpzxqzewvwxqgatvlevdqugapm
+-release year = 1956
+-director = 2
+-function result = 75.230769
+
+[Game Movie]
+-name = hkdgjthnqflpv
+-release year = 1967
+-director = pqodujingqnvcyeamlm
+-function result = 151.307692
+
+[Documentary]
+-name = ndkfivufokvcpqoxfunsrp
+-release year = 1971
+-duration = 133
+-function result = 89.590909
+
+[Game Movie]
+-name = hgzbcogo
+-release year = 1952
+-director = pknuyzqdqirnnnchguc
+-function result = 244.000000
+
+[Game Movie]
+-name = luloyzunslx
+-release year = 1969
+-director = gxjyazi
+-function result = 179.000000
+
+[Cartoon]
+-name = greplhrzreuessdofxacgicp
+-release year = 1952
+-director = 0
+-function result = 81.333333
+
+[Game Movie]
+-name = yengvrvjamitscxkx
+-release year = 1951
+-director = 
+-function result = 114.764706
+
+[Documentary]
+-name = bhgjjvrnmhlsusqnnzochhumfh
+-release year = 1957
+-duration = 155
+-function result = 75.269231
+
+[Documentary]
+-name = jlupudmlrbuc
+-release year = 1964
+-duration = 137
+-function result = 163.666667
+
+[Cartoon]
+-name = bkirmqzieg
+-release year = 1963
+-director = 0
+-function result = 196.300000
+
+[Cartoon]
+-name = awivneaartblywbugfeowsgx
+-release year = 1960
+-director = 1
+-function result = 81.666667
+
+[Game Movie]
+-name = zrqapaxdfxfyrimpe
+-release year = 1971
+-director = lkuqbrkjolusc
+-function result = 115.941176
+
+[Documentary]
+-name = vcuufbsmalumczbnjwfmp
+-release year = 1972
+-duration = 130
+-function result = 93.904762
+
+[Documentary]
+-name = sz
+-release year = 1963
+-duration = 129
+-function result = 981.500000
+
+[Cartoon]
+-name = lpwfuxxhzkdlmcpcolhacxyhzq
+-release year = 1956
+-director = 1
+-function result = 75.230769
+
+[Cartoon]
+-name = griewfbwobgrovwfxkqe
+-release year = 1970
+-director = 0
+-function result = 98.500000
+
+[Cartoon]
+-name = cfdlljetapxzub
+-release year = 1960
+-director = 0
+-function result = 140.000000
+
+[Documentary]
+-name = bsaz
+-release year = 1973
+-duration = 130
+-function result = 493.250000
+
+[Documentary]
+-name = eylinppqaacgwextd
+-release year = 1970
+-duration = 101
+-function result = 115.882353
+
+[Game Movie]
+-name = yght
+-release year = 1968
+-director = grgsjk
+-function result = 492.000000
+
+[Cartoon]
+-name = fljxnlzwhetdjnzksaqzt
+-release year = 1958
+-director = 0
+-function result = 93.238095
+
+[Game Movie]
+-name = avous
+-release year = 1960
+-director = zfvwthyrqc
+-function result = 392.000000
+
+[Game Movie]
+-name = zvzuvpvqodcufx
+-release year = 1973
+-director = zrvaxrxsa
+-function result = 140.928571
+
+[Game Movie]
+-name = bvooxlorifmyvsaqxzb
+-release year = 1971
+-director = rwzqpykrvvkwsalpnbivgxtcr
+-function result = 103.736842
+
+[Documentary]
+-name = uvnntpfjnpajkmf
+-release year = 1964
+-duration = 145
+-function result = 130.933333
+
+[Game Movie]
+-name = btfwacretmyjjvzyooezd
+-release year = 1972
+-director = cmgouldohgimdkqwqllqx
+-function result = 93.904762
+
+[Documentary]
+-name = uzmybrudecrapwoydynikfear
+-release year = 1966
+-duration = 105
+-function result = 78.640000
+
+[Cartoon]
+-name = boidcietehzgaz
+-release year = 1975
+-director = 2
+-function result = 141.071429
+
+[Cartoon]
+-name = cqlkbqqbjiuzvvpfarognspmb
+-release year = 1964
+-director = 1
+-function result = 78.560000
+
+[Game Movie]
+-name = gytwjfxaxblfvldsci
+-release year = 1964
+-director = uybhrrvujjuartvoecngz
+-function result = 109.111111
+
+[Game Movie]
+-name = jfkehuzd
+-release year = 1953
+-director = cmkvigetaglvdbafoif
+-function result = 244.125000
+
+[Game Movie]
+-name = ohyupstslwfxt
+-release year = 1964
+-director = dyiggvbkwdrlmwq
+-function result = 151.076923
+
+[Cartoon]
+-name = wiblbwf
+-release year = 1970
+-director = 2
+-function result = 281.428571
+
+[Game Movie]
+-name = odromxujbggey
+-release year = 1966
+-director = qwjhjrdrsqurxllmzzp
+-function result = 151.230769
+
+[Game Movie]
+-name = qm
+-release year = 1969
+-director = rstvsoorzvaqa
+-function result = 984.500000
+
+[Documentary]
+-name = qcpbpbarrsguishzl
+-release year = 1971
+-duration = 144
+-function result = 115.941176
+
+[Documentary]
+-name = lwpiyiiutakxrnmtn
+-release year = 1962
+-duration = 131
+-function result = 115.411765
+
+[Cartoon]
+-name = gqcqrpuoxlz
+-release year = 1952
+-director = 0
+-function result = 177.454545
+
+[Cartoon]
+-name = krqftaclnpecuqjeybjqt
+-release year = 1961
+-director = 0
+-function result = 93.380952
+
+[Cartoon]
+-name = yhvcqrpkhudhzowquykkjrllcd
+-release year = 1954
+-director = 1
+-function result = 75.153846
+
+[Cartoon]
+-name = eqsbtlukvbey
+-release year = 1955
+-director = 1
+-function result = 162.916667
+
+[Cartoon]
+-name = xhgkupd
+-release year = 1950
+-director = 1
+-function result = 278.571429
+
+[Cartoon]
+-name = eldqrtksoxmys
+-release year = 1955
+-director = 0
+-function result = 150.384615
+
+[Cartoon]
+-name = kihkrpunhxuhejormgjhsdwqsw
+-release year = 1957
+-director = 2
+-function result = 75.269231
+
+[Cartoon]
+-name = jols
+-release year = 1953
+-director = 0
+-function result = 488.250000
+
+[Documentary]
+-name = qprnyxwmokuxrndpdvm
+-release year = 1952
+-duration = 151
+-function result = 102.736842
+
+[Cartoon]
+-name = lbeebhotyfmnfjjsytox
+-release year = 1951
+-director = 1
+-function result = 97.550000
+
+[Game Movie]
+-name = gvo
+-release year = 1973
+-director = ybplftrgdhcdmqqsazmauc
+-function result = 657.666667
+
+[Game Movie]
+-name = aimvykv
+-release year = 1957
+-director = bj
+-function result = 279.571429
+
+[Documentary]
+-name = p
+-release year = 1960
+-duration = 136
+-function result = 1960.000000
+
+[Cartoon]
+-name = ykvqmw
+-release year = 1962
+-director = 1
+-function result = 327.000000
+
+[Game Movie]
+-name = jynjjbhh
+-release year = 1966
+-director = ejpnsoqioadvyn
+-function result = 245.750000
+
+[Documentary]
+-name = ox
+-release year = 1958
+-duration = 171
+-function result = 979.000000
+
+[Game Movie]
+-name = htkqxrznwjclbrblhbpdcevvgm
+-release year = 1961
+-director = vuzuduhvryvgwejkhc
+-function result = 75.423077
+
+[Cartoon]
+-name = piqroomucgsy
+-release year = 1962
+-director = 2
+-function result = 163.500000
+
+[Documentary]
+-name = t
+-release year = 1969
+-duration = 117
+-function result = 1969.000000
+
+[Documentary]
+-name = asalcipqdcfnvybjmynsq
+-release year = 1950
+-duration = 167
+-function result = 92.857143
+
+[Cartoon]
+-name = aanvujxokkruzhxe
+-release year = 1960
+-director = 2
+-function result = 122.500000
+
+[Cartoon]
+-name = nkalxsdisiaui
+-release year = 1968
+-director = 1
+-function result = 151.384615
+
+[Cartoon]
+-name = pskalebubfingwbqwonruylcy
+-release year = 1962
+-director = 2
+-function result = 78.480000
+
+[Cartoon]
+-name = q
+-release year = 1965
+-director = 1
+-function result = 1965.000000
+
+[Cartoon]
+-name = rwctsgadvhbyzynprjnclnkxc
+-release year = 1965
+-director = 0
+-function result = 78.600000
+
+[Game Movie]
+-name = zpv
+-release year = 1969
+-director = sqqarvvawuzwjopsdsfseeu
+-function result = 656.333333
+

@@ -1,0 +1,219 @@
+     1                                  global swap
+     2                                  global Partition
+     3                                  global QuickSort
+     4                                  global MovieYearDivName
+     5                                  global GameMovieYearDivName
+     6                                  global CartoonYearDivName
+     7                                  global DocumentaryDivName
+     8                                  
+     9                                  SECTION .text
+    10                                  
+    11                                  GameMovieYearDivName:
+    12 00000000 55                              push    rbp
+    13 00000001 4889E5                          mov     rbp, rsp
+    14 00000004 48897DF8                        mov     qword [rbp-8H], rdi
+    15 00000008 488B45F8                        mov     rax, qword [rbp-8H]
+    16 0000000C 8B4030                          mov     eax, dword [rax+30H]
+    17 0000000F 8945F0                          mov     dword [rbp-10H], eax
+    18 00000012 C5FB2A45F0                      vcvtsi2sd xmm0, xmm0, dword [rbp-10H]
+    19 00000017 488B45F8                        mov     rax, qword [rbp-8H]
+    20 0000001B 8B00                            mov     eax, dword [rax]
+    21 0000001D 8945F0                          mov     dword [rbp-10H], eax
+    22 00000020 C5F32A4DF0                      vcvtsi2sd xmm1, xmm1, dword [rbp-10H]
+    23 00000025 C5FB5EC1                        vdivsd  xmm0, xmm0, xmm1
+    24 00000029 5D                              pop     rbp
+    25 0000002A C3                              ret
+    26                                  
+    27                                  CartoonYearDivName:
+    28 0000002B 55                              push    rbp                                     
+    29 0000002C 4889E5                          mov     rbp, rsp                                
+    30 0000002F 48897DF8                        mov     qword [rbp-8H], rdi                     
+    31 00000033 488B45F8                        mov     rax, qword [rbp-8H]                     
+    32 00000037 8B4030                          mov     eax, dword [rax+30H]                    
+    33 0000003A 8945F0                          mov     dword [rbp-10H], eax                    
+    34 0000003D C5F32A4DF0                      vcvtsi2sd xmm1, xmm1, dword [rbp-10H]           
+    35 00000042 488B45F8                        mov     rax, qword [rbp-8H]                     
+    36 00000046 488B00                          mov     rax, qword [rax]                        
+    37 00000049 488945F0                        mov     qword [rbp-10H], rax                    
+    38 0000004D C4E1FB2A45F0                    vcvtsi2sd xmm0, xmm0, qword [rbp-10H]           
+    39 00000053 C5F35EC0                        vdivsd  xmm0, xmm1, xmm0                        
+    40 00000057 5D                              pop     rbp                                     
+    41 00000058 C3                              ret                                             
+    42                                  
+    43                                  
+    44                                  
+    45                                  DocumentaryDivName:
+    46 00000059 55                              push    rbp
+    47 0000005A 4889E5                          mov     rbp, rsp
+    48 0000005D 48897DF8                        mov     qword [rbp-8H], rdi
+    49 00000061 488B45F8                        mov     rax, qword [rbp-8H]
+    50 00000065 8B402C                          mov     eax, dword [rax+2CH]
+    51 00000068 8945F4                          mov     dword [rbp-0CH], eax
+    52 0000006B C5FB2A45F4                      vcvtsi2sd xmm0, xmm0, dword [rbp-0CH]
+    53 00000070 488B45F8                        mov     rax, qword [rbp-8H]
+    54 00000074 8B00                            mov     eax, dword [rax]
+    55 00000076 8945F4                          mov     dword [rbp-0CH], eax
+    56 00000079 C5F32A4DF4                      vcvtsi2sd xmm1, xmm1, dword [rbp-0CH]
+    57 0000007E C5FB5EC1                        vdivsd  xmm0, xmm0, xmm1
+    58 00000082 5D                              pop     rbp
+    59 00000083 C3                              ret
+    60                                  
+    61                                  MovieYearDivName:
+    62 00000084 55                              push    rbp                                     
+    63 00000085 4889E5                          mov     rbp, rsp                                
+    64 00000088 4883EC08                        sub     rsp, 8                                  
+    65 0000008C 48897DF8                        mov     qword [rbp-8H], rdi                     
+    66 00000090 488B45F8                        mov     rax, qword [rbp-8H]                     
+    67 00000094 8B00                            mov     eax, dword [rax]                        
+    68 00000096 85C0                            test    eax, eax                                
+    69 00000098 7512                            jnz     .025                                   
+    70 0000009A 488B45F8                        mov     rax, qword [rbp-8H]                     
+    71 0000009E 488B4008                        mov     rax, qword [rax+8H]                     
+    72 000000A2 4889C7                          mov     rdi, rax                                
+    73 000000A5 E856FFFFFF                      call    GameMovieYearDivName                    
+    74 000000AA EB2D                            jmp     .027                                   
+    75                                  
+    76 000000AC 488B45F8                .025:  mov     rax, qword [rbp-8H]                     
+    77 000000B0 8B00                            mov     eax, dword [rax]                        
+    78 000000B2 83F801                          cmp     eax, 1                                  
+    79 000000B5 7512                            jnz     .026                                   
+    80 000000B7 488B45F8                        mov     rax, qword [rbp-8H]                     
+    81 000000BB 488B4008                        mov     rax, qword [rax+8H]                     
+    82 000000BF 4889C7                          mov     rdi, rax                                
+    83 000000C2 E864FFFFFF                      call    CartoonYearDivName                      
+    84 000000C7 EB10                            jmp     .027                                   
+    85                                  
+    86 000000C9 488B45F8                .026:  mov     rax, qword [rbp-8H]                     
+    87 000000CD 488B4008                        mov     rax, qword [rax+8H]                     
+    88 000000D1 4889C7                          mov     rdi, rax                                
+    89 000000D4 E880FFFFFF                      call    DocumentaryDivName                      
+    90 000000D9 C9                      .027:  leave                                           
+    91 000000DA C3                              ret                                             
+    92                                  
+    93                                  
+    94                                  
+    95                                  swap:   
+    96 000000DB 55                              push    rbp                                     
+    97 000000DC 4889E5                          mov     rbp, rsp                                
+    98 000000DF 48897DE8                        mov     qword [rbp-18H], rdi                    
+    99 000000E3 488975E0                        mov     qword [rbp-20H], rsi                    
+   100 000000E7 488B45E8                        mov     rax, qword [rbp-18H]                    
+   101 000000EB 488B5008                        mov     rdx, qword [rax+8H]                     
+   102 000000EF 488B00                          mov     rax, qword [rax]                        
+   103 000000F2 488945F0                        mov     qword [rbp-10H], rax                    
+   104 000000F6 488955F8                        mov     qword [rbp-8H], rdx                     
+   105 000000FA 488B4DE8                        mov     rcx, qword [rbp-18H]                    
+   106 000000FE 488B45E0                        mov     rax, qword [rbp-20H]                    
+   107 00000102 488B5008                        mov     rdx, qword [rax+8H]                     
+   108 00000106 488B00                          mov     rax, qword [rax]                        
+   109 00000109 488901                          mov     qword [rcx], rax                        
+   110 0000010C 48895108                        mov     qword [rcx+8H], rdx                     
+   111 00000110 488B4DE0                        mov     rcx, qword [rbp-20H]                    
+   112 00000114 488B45F0                        mov     rax, qword [rbp-10H]                    
+   113 00000118 488B55F8                        mov     rdx, qword [rbp-8H]                     
+   114 0000011C 488901                          mov     qword [rcx], rax                        
+   115 0000011F 48895108                        mov     qword [rcx+8H], rdx                     
+   116 00000123 90                              nop                                             
+   117 00000124 5D                              pop     rbp                                     
+   118 00000125 C3                              ret                                             
+   119                                  
+   120                                  
+   121                                  Partition:
+   122 00000126 55                              push    rbp                                     
+   123 00000127 4889E5                          mov     rbp, rsp                                
+   124 0000012A 4883EC28                        sub     rsp, 40                                 
+   125 0000012E 48897DE8                        mov     qword [rbp-18H], rdi                    
+   126 00000132 8975E4                          mov     dword [rbp-1CH], esi                    
+   127 00000135 8955E0                          mov     dword [rbp-20H], edx                    
+   128 00000138 8B45E0                          mov     eax, dword [rbp-20H]                    
+   129 0000013B 8945F4                          mov     dword [rbp-0CH], eax                    
+   130 0000013E 8B45E4                          mov     eax, dword [rbp-1CH]                    
+   131 00000141 FFC8                            dec     eax                                     
+   132 00000143 8945FC                          mov     dword [rbp-4H], eax                     
+   133 00000146 8B45E4                          mov     eax, dword [rbp-1CH]                    
+   134 00000149 8945F8                          mov     dword [rbp-8H], eax                     
+   135 0000014C EB69                            jmp     .038                                   
+   136                                  
+   137 0000014E 488B45E8                .036:  mov     rax, qword [rbp-18H]                    
+   138 00000152 8B55F8                          mov     edx, dword [rbp-8H]                     
+   139 00000155 4863D2                          movsxd  rdx, edx                                
+   140 00000158 488B44D008                      mov     rax, qword [rax+rdx*8+8H]               
+   141 0000015D 4889C7                          mov     rdi, rax                                
+   142 00000160 E81FFFFFFF                      call    MovieYearDivName                        
+   143 00000165 C5FB1145D8                      vmovsd  qword [rbp-28H], xmm0                   
+   144 0000016A 488B45E8                        mov     rax, qword [rbp-18H]                    
+   145 0000016E 8B55F4                          mov     edx, dword [rbp-0CH]                    
+   146 00000171 4863D2                          movsxd  rdx, edx                                
+   147 00000174 488B44D008                      mov     rax, qword [rax+rdx*8+8H]               
+   148 00000179 4889C7                          mov     rdi, rax                                
+   149 0000017C E803FFFFFF                      call    MovieYearDivName                        
+   150 00000181 C5F92F45D8                      vcomisd xmm0, qword [rbp-28H]                   
+   151 00000186 762C                            jbe     .037                                   
+   152 00000188 FF45FC                          inc     dword [rbp-4H]                          
+   153 0000018B 488B45E8                        mov     rax, qword [rbp-18H]                    
+   154 0000018F 8B55F8                          mov     edx, dword [rbp-8H]                     
+   155 00000192 4863D2                          movsxd  rdx, edx                                
+   156 00000195 488B54D008                      mov     rdx, qword [rax+rdx*8+8H]               
+   157 0000019A 488B45E8                        mov     rax, qword [rbp-18H]                    
+   158 0000019E 8B4DFC                          mov     ecx, dword [rbp-4H]                     
+   159 000001A1 4863C9                          movsxd  rcx, ecx                                
+   160 000001A4 488B44C808                      mov     rax, qword [rax+rcx*8+8H]               
+   161 000001A9 4889D6                          mov     rsi, rdx                                
+   162 000001AC 4889C7                          mov     rdi, rax                                
+   163 000001AF E827FFFFFF                      call    swap                                    
+   164 000001B4 FF45F8                  .037:  inc     dword [rbp-8H]                          
+   165 000001B7 8B45E0                  .038:  mov     eax, dword [rbp-20H]                    
+   166 000001BA 3B45F8                          cmp     eax, dword [rbp-8H]                     
+   167 000001BD 7F8F                            jg      .036                                   
+   168 000001BF 488B45E8                        mov     rax, qword [rbp-18H]                    
+   169 000001C3 8B55E0                          mov     edx, dword [rbp-20H]                    
+   170 000001C6 4863D2                          movsxd  rdx, edx                                
+   171 000001C9 488B54D008                      mov     rdx, qword [rax+rdx*8+8H]               
+   172 000001CE 8B45FC                          mov     eax, dword [rbp-4H]                     
+   173 000001D1 8D4801                          lea     ecx, [rax+1H]                           
+   174 000001D4 488B45E8                        mov     rax, qword [rbp-18H]                    
+   175 000001D8 4863C9                          movsxd  rcx, ecx                                
+   176 000001DB 488B44C808                      mov     rax, qword [rax+rcx*8+8H]               
+   177 000001E0 4889D6                          mov     rsi, rdx                                
+   178 000001E3 4889C7                          mov     rdi, rax                                
+   179 000001E6 E8F0FEFFFF                      call    swap                                    
+   180 000001EB 8B45FC                          mov     eax, dword [rbp-4H]                     
+   181 000001EE FFC0                            inc     eax                                     
+   182 000001F0 C9                              leave                                           
+   183 000001F1 C3                              ret                                             
+   184                                  
+   185                                  
+   186                                  QuickSort:
+   187 000001F2 55                              push    rbp                                     
+   188 000001F3 4889E5                          mov     rbp, rsp                                
+   189 000001F6 4883EC20                        sub     rsp, 32                                 
+   190 000001FA 48897DE8                        mov     qword [rbp-18H], rdi                    
+   191 000001FE 8975E4                          mov     dword [rbp-1CH], esi                    
+   192 00000201 8955E0                          mov     dword [rbp-20H], edx                    
+   193 00000204 8B45E4                          mov     eax, dword [rbp-1CH]                    
+   194 00000207 3B45E0                          cmp     eax, dword [rbp-20H]                    
+   195 0000020A 7D45                            jge     .039                                   
+   196 0000020C 8B55E0                          mov     edx, dword [rbp-20H]                    
+   197 0000020F 8B4DE4                          mov     ecx, dword [rbp-1CH]                    
+   198 00000212 488B45E8                        mov     rax, qword [rbp-18H]                    
+   199 00000216 89CE                            mov     esi, ecx                                
+   200 00000218 4889C7                          mov     rdi, rax                                
+   201 0000021B E806FFFFFF                      call    Partition                               
+   202 00000220 8945FC                          mov     dword [rbp-4H], eax                     
+   203 00000223 8B45FC                          mov     eax, dword [rbp-4H]                     
+   204 00000226 8D50FF                          lea     edx, [rax-1H]                           
+   205 00000229 8B4DE4                          mov     ecx, dword [rbp-1CH]                    
+   206 0000022C 488B45E8                        mov     rax, qword [rbp-18H]                    
+   207 00000230 89CE                            mov     esi, ecx                                
+   208 00000232 4889C7                          mov     rdi, rax                                
+   209 00000235 E8B8FFFFFF                      call    QuickSort                               
+   210 0000023A 8B45FC                          mov     eax, dword [rbp-4H]                     
+   211 0000023D 8D4801                          lea     ecx, [rax+1H]                           
+   212 00000240 8B55E0                          mov     edx, dword [rbp-20H]                    
+   213 00000243 488B45E8                        mov     rax, qword [rbp-18H]                    
+   214 00000247 89CE                            mov     esi, ecx                                
+   215 00000249 4889C7                          mov     rdi, rax                                
+   216 0000024C E8A1FFFFFF                      call    QuickSort                               
+   217 00000251 90                      .039:  nop                                             
+   218 00000252 C9                              leave                                           
+   219 00000253 C3                              ret                                             

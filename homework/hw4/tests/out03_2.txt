@@ -1,0 +1,14 @@
+Sorted container:
+Container contains 2 elements
+[Documentary]
+-name = geography
+-release year = 2010
+-duration = 500
+-function result = 223.333333
+
+[Documentary]
+-name = geography
+-release year = 2010
+-duration = 500
+-function result = 223.333333
+
