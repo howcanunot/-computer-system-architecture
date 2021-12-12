@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDARD 17)
         FORCE)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pthread")
 
-add_executable(hw5 main.cpp pin/pin.cpp conveyer/conveyer.cpp people/evaluator.cpp people/grinder.cpp people/controller.cpp)
+add_executable(hw5 main.cpp pin/pin.cpp conveyer/synchronized_queue.cpp people/evaluator.cpp people/grinder.cpp people/controller.cpp synchronized_logger/logger.cpp)
