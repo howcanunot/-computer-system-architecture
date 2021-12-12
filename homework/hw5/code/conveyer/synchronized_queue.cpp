@@ -1,12 +1,12 @@
-#include "conveyer.h"
+#include "synchronized_queue.h"
 
-void Conveyer::PushPin(Pin pin) {
+void SynchronizedQueue::PushPin(Pin& pin) {
     lock l(mutex_);
     pins_.push(pin);
     var_.notify_all();
 }
 
-Pin Conveyer::PopPin() {
+Pin SynchronizedQueue::PopPin() {
     ulock l(mutex_);
     while (pins_.empty()) {
         var_.wait(l);
@@ -18,14 +18,14 @@ Pin Conveyer::PopPin() {
     return pin;
 }
 
-bool Conveyer::IsEmpty() {
+bool SynchronizedQueue::IsEmpty() const {
     return pins_.empty();
 }
 
-bool Conveyer::IsWorking() {
+bool SynchronizedQueue::IsWorking() const {
     return isWorking;
 }
 
-void Conveyer::Stop() {
+void SynchronizedQueue::Stop() {
     isWorking = false;
 }

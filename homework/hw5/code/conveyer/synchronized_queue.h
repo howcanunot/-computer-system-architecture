@@ -1,15 +1,12 @@
-#ifndef HW5_CONVEYER_H
-#define HW5_CONVEYER_H
+#ifndef HW5_SYNCHRONIZED_QUEUE_H
+#define HW5_SYNCHRONIZED_QUEUE_H
 
 #include "../pin/pin.h"
 #include <mutex>
 #include <condition_variable>
 #include <queue>
 
-// static std::queue<Pin> que;
-
-
-class Conveyer {
+class SynchronizedQueue {
 private:
     std::queue<Pin> pins_;
     std::mutex mutex_;
@@ -20,18 +17,18 @@ private:
     typedef std::unique_lock<std::mutex> ulock;
 
 public:
-    Conveyer() = default;
+    SynchronizedQueue() = default;
 
-    void PushPin(Pin pin);
+    void PushPin(Pin& pin);
 
     Pin PopPin();
 
-    bool IsEmpty();
+    bool IsEmpty() const;
 
-    bool IsWorking();
+    bool IsWorking() const;
 
     void Stop();
 };
 
 
-#endif //HW5_CONVEYER_H
+#endif //HW5_SYNCHRONIZED_QUEUE_H
