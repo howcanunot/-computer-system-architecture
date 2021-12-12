@@ -1,7 +1,9 @@
 #include "controller.h"
 
-Controller::Controller(Conveyer *conveyer) {
-    conveyer_ = conveyer;
+Controller::Controller(SynchronizedQueue *conveyer, std::string path) {
+    sync_queue_ = conveyer;
+    logger_ = new Logger(path);
+    logger_->WriteLog("Controller thread start");
     thread_ = std::thread(&Controller::CheckPinQuality, this);
 }
 
@@ -10,8 +12,9 @@ Controller::~Controller() {
 }
 
 void Controller::CheckPinQuality() {
-    while (conveyer_->IsWorking() || !conveyer_->IsEmpty()) {
-        auto pin = conveyer_->PopPin();
-        std::cerr << "ok\n";
+    while (sync_queue_->IsWorking() || !sync_queue_->IsEmpty()) {
+        auto pin = sync_queue_->PopPin();
+        double quality = pin.GetQuality();
+        logger_->WriteLog("Controller check quality: " + std::to_string(quality));
     }
 }

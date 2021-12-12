@@ -1,7 +1,10 @@
 #include "grinder.h"
 
-Grinder::Grinder(Conveyer* conveyer) {
-    conveyer_ = conveyer;
+Grinder::Grinder(SynchronizedQueue* in_queue, SynchronizedQueue* out_queue, std::string path) {
+    in_sync_queue_ = in_queue;
+    out_sync_queue_ = out_queue;
+    logger_ = new Logger(path);
+    logger_->WriteLog("Grinder thread start");
     thread_ = std::thread(&Grinder::SharpenAndPush, this);
 }
 
@@ -10,10 +13,14 @@ Grinder::~Grinder() {
 }
 
 void Grinder::SharpenAndPush() {
-    while (conveyer_->IsWorking() || !conveyer_->IsEmpty()) {
-        Pin pin = conveyer_->PopPin();
+    while (in_sync_queue_->IsWorking() || !in_sync_queue_->IsEmpty()) {
+        Pin pin = in_sync_queue_->PopPin();
         pin.Sharpen();
-        std::this_thread::sleep_for(std::chrono::milliseconds(5000));
-        std::cerr << "Grinder grind pin: " << pin << "\n";
+
+        logger_->WriteLog("Grinder grind pin: ");
+
+        out_sync_queue_->PushPin(pin);
     }
+
+    out_sync_queue_->Stop();
 }

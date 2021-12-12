@@ -1,23 +1,24 @@
 #ifndef HW5_EVALUATOR_H
 #define HW5_EVALUATOR_H
 
-#include "../conveyer/conveyer.h"
+#include "../conveyer/synchronized_queue.h"
 #include <thread>
 #include <chrono>
-#include <iostream>
+#include "../synchronized_logger/logger.h"
 
 
 class Evaluator {
 private:
-    Conveyer* conveyer_;
+    SynchronizedQueue* conveyer_;
     std::thread thread_;
     Pin* pins_;
     size_t size_;
+    Logger* logger_;
 
 public:
     Evaluator() = default;
 
-    Evaluator(Conveyer*, Pin*, size_t);
+    Evaluator(SynchronizedQueue*, Pin*, size_t, std::string);
 
     ~Evaluator();
 

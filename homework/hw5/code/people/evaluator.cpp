@@ -1,15 +1,17 @@
 #include "evaluator.h"
 
-Evaluator::Evaluator(Conveyer* conveyer, Pin* pins, size_t size) {
+Evaluator::Evaluator(SynchronizedQueue* conveyer, Pin* pins, size_t size, std::string path) {
     pins_ = pins;
     size_ = size;
     conveyer_ = conveyer;
+    logger_ = new Logger(path);
+    logger_->WriteLog("Evaluator thread start");
     thread_ = std::thread(&Evaluator::CheckPinsAndPush, this);
 }
 
 Evaluator::~Evaluator() {
     thread_.join();
-    // delete[] pins_;
+    delete[] pins_;
 }
 
 void Evaluator::CheckPinsAndPush() {
@@ -17,8 +19,8 @@ void Evaluator::CheckPinsAndPush() {
         if (!pins_[i].CheckCurvature()) {
             continue;
         }
-        std::cerr << "evaluator checked pin for curvature: " << pins_[i] << "\n";
-        std::this_thread::sleep_for(std::chrono::milliseconds(2000));
+        // TODO: write pin
+        logger_->WriteLog("evaluator checked pin for curvature: ");
         conveyer_->PushPin(pins_[i]);
     }
 

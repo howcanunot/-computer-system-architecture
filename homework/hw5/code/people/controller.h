@@ -1,16 +1,18 @@
 #ifndef HW5_CONTROLLER_H
 #define HW5_CONTROLLER_H
 
-#include "../conveyer/conveyer.h"
+#include "../conveyer/synchronized_queue.h"
 #include <thread>
+#include "../synchronized_logger/logger.h"
 
 class Controller {
 private:
-    Conveyer* conveyer_;
+    SynchronizedQueue* sync_queue_;
     std::thread thread_;
+    Logger* logger_;
 
 public:
-    Controller(Conveyer* conveyer);
+    Controller(SynchronizedQueue*, std::string);
 
     ~Controller();
 
