@@ -2,12 +2,12 @@
 #define HW5_LOGGER_H
 
 #include <iostream>
-#include <fstream>
 #include <mutex>
-
+#include <iomanip>
+#include <fstream>
 class Logger {
 private:
-    std::mutex mutex_;
+    static std::mutex mutex_;
     std::ofstream out_;
 
     typedef std::lock_guard<std::mutex> lock;
@@ -17,7 +17,9 @@ public:
 
     Logger(std::string&);
 
-    void WriteLog(const std::string& log);
+    ~Logger();
+
+    void WriteLog(const std::string&);
 };
 
 

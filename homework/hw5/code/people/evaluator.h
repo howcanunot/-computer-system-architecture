@@ -18,7 +18,7 @@ private:
 public:
     Evaluator() = default;
 
-    Evaluator(SynchronizedQueue*, Pin*, size_t, std::string);
+    Evaluator(SynchronizedQueue*, Pin*, size_t, Logger*);
 
     ~Evaluator();
 

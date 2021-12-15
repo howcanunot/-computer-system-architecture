@@ -44,14 +44,15 @@ int main(int argc, char** argv) {
 
     SynchronizedQueue in;
     SynchronizedQueue out;
+    Logger logger(path);
 
-    Evaluator evaluator(&in, pins, size, path);
-    std::this_thread::sleep_for(std::chrono::milliseconds(2000));
+    Evaluator evaluator(&in, pins, size, &logger);
+    // std::this_thread::sleep_for(std::chrono::milliseconds(2000));
 
-    Grinder grinder(&in, &out, path);
-    std::this_thread::sleep_for(std::chrono::milliseconds(2000));
+    Grinder grinder(&in, &out, &logger);
+    // std::this_thread::sleep_for(std::chrono::milliseconds(2000));
 
-    Controller controller(&out, path);
+    Controller controller(&out, &logger);
 
     return 0;
 }

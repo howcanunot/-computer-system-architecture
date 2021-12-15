@@ -12,7 +12,7 @@ private:
     Logger* logger_;
 
 public:
-    Controller(SynchronizedQueue*, std::string);
+    Controller(SynchronizedQueue*, Logger*);
 
     ~Controller();
 

@@ -1,0 +1,12 @@
+Evaluator thread start
+Grinder thread start
+Controller thread start
+Evaluator checked curvature for Pin #0: curvature = 0.840188; sharpness = 6.000000
+Evaluator stopped conveyer
+Grinder started sharpening a Pin #0: curvature = 0.840188; sharpness = 6.000000
+Grinder sharpened a Pin #0: curvature = 0.840188; sharpness = 9.000000
+Grinder stopped conveyer
+Controller check quality for Pin #0: curvature = 0.840188; sharpness = 9.000000. Quality is 7.561689
+Controller thread joined
+Grinder thread joined
+Evaluator thread joined

@@ -1,14 +1,22 @@
 #include "synchronized_queue.h"
 
-void SynchronizedQueue::PushPin(Pin& pin) {
-    lock l(mutex_);
+std::mutex SynchronizedQueue::mutex_;
+
+void SynchronizedQueue::PushPin(Pin* pin) {
+    lock l(SynchronizedQueue::mutex_);
+    bool wake = pins_.empty();
     pins_.push(pin);
-    var_.notify_all();
+    if (wake) {
+        var_.notify_all();
+    }
 }
 
-Pin SynchronizedQueue::PopPin() {
-    ulock l(mutex_);
+Pin* SynchronizedQueue::PopPin() {
+    ulock l(SynchronizedQueue::mutex_);
     while (pins_.empty()) {
+        if (!isWorking) {
+            return nullptr;
+        }
         var_.wait(l);
     }
 
@@ -28,4 +36,5 @@ bool SynchronizedQueue::IsWorking() const {
 
 void SynchronizedQueue::Stop() {
     isWorking = false;
+    var_.notify_all();
 }

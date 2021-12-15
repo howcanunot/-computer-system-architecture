@@ -1,0 +1,42 @@
+Evaluator thread start
+Grinder thread start
+Controller thread start
+Not enough curvature Pin #1: curvature = 0.200000; sharpness = 10.000000. Required >= 0.3
+Evaluator checked curvature for Pin #2: curvature = 0.500000; sharpness = 8.000000
+Grinder started sharpening a Pin #2: curvature = 0.500000; sharpness = 8.000000
+Evaluator checked curvature for Pin #3: curvature = 0.430000; sharpness = 2.000000
+Not enough curvature Pin #4: curvature = 0.144000; sharpness = 3.000000. Required >= 0.3
+Evaluator checked curvature for Pin #5: curvature = 1.000000; sharpness = 1.000000
+Evaluator checked curvature for Pin #6: curvature = 1.000000; sharpness = 3.000000
+Grinder sharpened a Pin #2: curvature = 0.500000; sharpness = 10.000000
+Grinder started sharpening a Pin #3: curvature = 0.430000; sharpness = 2.000000
+Evaluator checked curvature for Pin #7: curvature = 0.430000; sharpness = 4.000000
+Evaluator checked curvature for Pin #8: curvature = 0.300000; sharpness = 7.000000
+Controller check quality for Pin #2: curvature = 0.500000; sharpness = 10.000000. Quality is 5.000000
+Evaluator checked curvature for Pin #9: curvature = 0.500000; sharpness = 10.000000
+Evaluator checked curvature for Pin #10: curvature = 0.760000; sharpness = 1.000000
+Evaluator stopped conveyer
+Grinder sharpened a Pin #3: curvature = 0.430000; sharpness = 3.000000
+Grinder started sharpening a Pin #5: curvature = 1.000000; sharpness = 1.000000
+Controller check quality for Pin #3: curvature = 0.430000; sharpness = 3.000000. Quality is 1.290000
+Grinder sharpened a Pin #5: curvature = 1.000000; sharpness = 1.500000
+Grinder started sharpening a Pin #6: curvature = 1.000000; sharpness = 3.000000
+Controller check quality for Pin #5: curvature = 1.000000; sharpness = 1.500000. Quality is 1.500000
+Grinder sharpened a Pin #6: curvature = 1.000000; sharpness = 4.500000
+Grinder started sharpening a Pin #7: curvature = 0.430000; sharpness = 4.000000
+Controller check quality for Pin #6: curvature = 1.000000; sharpness = 4.500000. Quality is 4.500000
+Grinder sharpened a Pin #7: curvature = 0.430000; sharpness = 6.000000
+Grinder started sharpening a Pin #8: curvature = 0.300000; sharpness = 7.000000
+Controller check quality for Pin #7: curvature = 0.430000; sharpness = 6.000000. Quality is 2.580000
+Grinder sharpened a Pin #8: curvature = 0.300000; sharpness = 10.000000
+Grinder started sharpening a Pin #9: curvature = 0.500000; sharpness = 10.000000
+Controller check quality for Pin #8: curvature = 0.300000; sharpness = 10.000000. Quality is 3.000000
+Grinder sharpened a Pin #9: curvature = 0.500000; sharpness = 10.000000
+Grinder started sharpening a Pin #10: curvature = 0.760000; sharpness = 1.000000
+Controller check quality for Pin #9: curvature = 0.500000; sharpness = 10.000000. Quality is 5.000000
+Grinder sharpened a Pin #10: curvature = 0.760000; sharpness = 1.500000
+Grinder stopped conveyer
+Controller check quality for Pin #10: curvature = 0.760000; sharpness = 1.500000. Quality is 1.140000
+Controller thread joined
+Grinder thread joined
+Evaluator thread joined

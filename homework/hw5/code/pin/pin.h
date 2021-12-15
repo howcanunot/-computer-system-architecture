@@ -27,6 +27,8 @@ public:
         return os;
     }
 
+    std::string to_string() const;
+
     static Pin* GenerateRandomPins(size_t size) {
         Pin* pins = new Pin[size];
 
@@ -42,7 +44,7 @@ public:
 
     static Pin* GeneratePinsFromFile(std::ifstream& in, size_t& size) {
         if (!in.is_open()) {
-            std::cout << "Error";
+            std::cout << "Input file not found";
             exit(1);
         }
 
@@ -50,11 +52,20 @@ public:
 
         Pin* pins = new Pin[size];
 
-        for (size_t i = 0; i < size; i++) {
+        size_t length = size;
+        int id = 1;
+
+        for (size_t i = 0; i < length; i++) {
             double curvature, sharpness;
             in >> curvature >> sharpness;
+            if (!(curvature >= 0.0 && curvature <= 1.0) ||
+                !(sharpness >= 0.0 && sharpness <= 10.0)) {
+                std::cout << "Invalid properties for pin #" << i << "\n";
+                size--;
+                continue;
+            }
 
-            pins[i] = Pin(curvature, sharpness, i);
+            pins[i] = Pin(curvature, sharpness, id++);
         }
 
         return pins;

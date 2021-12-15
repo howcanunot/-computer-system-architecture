@@ -8,8 +8,8 @@
 
 class SynchronizedQueue {
 private:
-    std::queue<Pin> pins_;
-    std::mutex mutex_;
+    std::queue<Pin*> pins_;
+    static std::mutex mutex_;
     std::condition_variable var_;
     bool isWorking = true;
 
@@ -19,9 +19,9 @@ private:
 public:
     SynchronizedQueue() = default;
 
-    void PushPin(Pin& pin);
+    void PushPin(Pin* pin);
 
-    Pin PopPin();
+    Pin* PopPin();
 
     bool IsEmpty() const;
 

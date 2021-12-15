@@ -1,0 +1,13 @@
+Evaluator thread start
+Grinder thread start
+Controller thread start
+Not enough curvature Pin #1: curvature = 0.200000; sharpness = 10.000000. Required >= 0.3
+Not enough curvature Pin #2: curvature = 0.000000; sharpness = 8.000000. Required >= 0.3
+Not enough curvature Pin #3: curvature = 0.299900; sharpness = 0.000000. Required >= 0.3
+Not enough curvature Pin #4: curvature = 0.100000; sharpness = 3.000000. Required >= 0.3
+Not enough curvature Pin #5: curvature = 0.000000; sharpness = 1.000000. Required >= 0.3
+Evaluator stopped conveyer
+Grinder stopped conveyer
+Controller thread joined
+Grinder thread joined
+Evaluator thread joined

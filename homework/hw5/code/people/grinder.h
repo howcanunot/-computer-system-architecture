@@ -14,7 +14,7 @@ private:
     Logger* logger_;
 
 public:
-    Grinder(SynchronizedQueue*, SynchronizedQueue*, std::string);
+    Grinder(SynchronizedQueue*, SynchronizedQueue*, Logger*);
 
     ~Grinder();
 

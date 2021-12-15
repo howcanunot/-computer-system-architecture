@@ -1,0 +1,95 @@
+Evaluator thread start
+Grinder thread start
+Controller thread start
+Evaluator checked curvature for Pin #0: curvature = 0.840188; sharpness = 6.000000
+Grinder started sharpening a Pin #0: curvature = 0.840188; sharpness = 6.000000
+Evaluator checked curvature for Pin #1: curvature = 0.783099; sharpness = 5.000000
+Evaluator checked curvature for Pin #2: curvature = 0.911647; sharpness = 5.000000
+Evaluator checked curvature for Pin #3: curvature = 0.335223; sharpness = 2.000000
+Not enough curvature Pin #4: curvature = 0.277775; sharpness = 1.000000. Required >= 0.3
+Grinder sharpened a Pin #0: curvature = 0.840188; sharpness = 9.000000
+Grinder started sharpening a Pin #1: curvature = 0.783099; sharpness = 5.000000
+Evaluator checked curvature for Pin #5: curvature = 0.477397; sharpness = 7.000000
+Evaluator checked curvature for Pin #6: curvature = 0.364784; sharpness = 9.000000
+Controller check quality for Pin #0: curvature = 0.840188; sharpness = 9.000000. Quality is 7.561689
+Evaluator checked curvature for Pin #7: curvature = 0.952230; sharpness = 6.000000
+Evaluator checked curvature for Pin #8: curvature = 0.635712; sharpness = 6.000000
+Not enough curvature Pin #9: curvature = 0.141603; sharpness = 6.000000. Required >= 0.3
+Grinder sharpened a Pin #1: curvature = 0.783099; sharpness = 7.500000
+Grinder started sharpening a Pin #2: curvature = 0.911647; sharpness = 5.000000
+Not enough curvature Pin #10: curvature = 0.016301; sharpness = 8.000000. Required >= 0.3
+Not enough curvature Pin #11: curvature = 0.137232; sharpness = 9.000000. Required >= 0.3
+Controller check quality for Pin #1: curvature = 0.783099; sharpness = 7.500000. Quality is 5.873244
+Not enough curvature Pin #12: curvature = 0.156679; sharpness = 0.000000. Required >= 0.3
+Not enough curvature Pin #13: curvature = 0.129790; sharpness = 3.000000. Required >= 0.3
+Evaluator checked curvature for Pin #14: curvature = 0.998925; sharpness = 5.000000
+Grinder sharpened a Pin #2: curvature = 0.911647; sharpness = 7.500000
+Grinder started sharpening a Pin #3: curvature = 0.335223; sharpness = 2.000000
+Evaluator checked curvature for Pin #15: curvature = 0.512932; sharpness = 2.000000
+Evaluator checked curvature for Pin #16: curvature = 0.612640; sharpness = 8.000000
+Controller check quality for Pin #2: curvature = 0.911647; sharpness = 7.500000. Quality is 6.837355
+Evaluator checked curvature for Pin #17: curvature = 0.637552; sharpness = 7.000000
+Evaluator checked curvature for Pin #18: curvature = 0.493583; sharpness = 6.000000
+Not enough curvature Pin #19: curvature = 0.292517; sharpness = 2.000000. Required >= 0.3
+Grinder sharpened a Pin #3: curvature = 0.335223; sharpness = 3.000000
+Grinder started sharpening a Pin #5: curvature = 0.477397; sharpness = 7.000000
+Evaluator checked curvature for Pin #20: curvature = 0.526745; sharpness = 3.000000
+Evaluator checked curvature for Pin #21: curvature = 0.400229; sharpness = 9.000000
+Controller check quality for Pin #3: curvature = 0.335223; sharpness = 3.000000. Quality is 1.005668
+Not enough curvature Pin #22: curvature = 0.283315; sharpness = 7.000000. Required >= 0.3
+Evaluator checked curvature for Pin #23: curvature = 0.807725; sharpness = 4.000000
+Not enough curvature Pin #24: curvature = 0.069755; sharpness = 0.000000. Required >= 0.3
+Grinder sharpened a Pin #5: curvature = 0.477397; sharpness = 10.000000
+Grinder started sharpening a Pin #6: curvature = 0.364784; sharpness = 9.000000
+Evaluator checked curvature for Pin #25: curvature = 0.525995; sharpness = 6.000000
+Not enough curvature Pin #26: curvature = 0.192214; sharpness = 0.000000. Required >= 0.3
+Controller check quality for Pin #5: curvature = 0.477397; sharpness = 10.000000. Quality is 4.773971
+Evaluator checked curvature for Pin #27: curvature = 0.890233; sharpness = 3.000000
+Not enough curvature Pin #28: curvature = 0.064171; sharpness = 0.000000. Required >= 0.3
+Evaluator checked curvature for Pin #29: curvature = 0.457702; sharpness = 1.000000
+Evaluator stopped conveyer
+Grinder sharpened a Pin #6: curvature = 0.364784; sharpness = 10.000000
+Grinder started sharpening a Pin #7: curvature = 0.952230; sharpness = 6.000000
+Controller check quality for Pin #6: curvature = 0.364784; sharpness = 10.000000. Quality is 3.647845
+Grinder sharpened a Pin #7: curvature = 0.952230; sharpness = 9.000000
+Grinder started sharpening a Pin #8: curvature = 0.635712; sharpness = 6.000000
+Controller check quality for Pin #7: curvature = 0.952230; sharpness = 9.000000. Quality is 8.570068
+Grinder sharpened a Pin #8: curvature = 0.635712; sharpness = 9.000000
+Grinder started sharpening a Pin #14: curvature = 0.998925; sharpness = 5.000000
+Controller check quality for Pin #8: curvature = 0.635712; sharpness = 9.000000. Quality is 5.721406
+Grinder sharpened a Pin #14: curvature = 0.998925; sharpness = 7.500000
+Grinder started sharpening a Pin #15: curvature = 0.512932; sharpness = 2.000000
+Controller check quality for Pin #14: curvature = 0.998925; sharpness = 7.500000. Quality is 7.491934
+Grinder sharpened a Pin #15: curvature = 0.512932; sharpness = 3.000000
+Grinder started sharpening a Pin #16: curvature = 0.612640; sharpness = 8.000000
+Controller check quality for Pin #15: curvature = 0.512932; sharpness = 3.000000. Quality is 1.538797
+Grinder sharpened a Pin #16: curvature = 0.612640; sharpness = 10.000000
+Grinder started sharpening a Pin #17: curvature = 0.637552; sharpness = 7.000000
+Controller check quality for Pin #16: curvature = 0.612640; sharpness = 10.000000. Quality is 6.126398
+Grinder sharpened a Pin #17: curvature = 0.637552; sharpness = 10.000000
+Grinder started sharpening a Pin #18: curvature = 0.493583; sharpness = 6.000000
+Controller check quality for Pin #17: curvature = 0.637552; sharpness = 10.000000. Quality is 6.375523
+Grinder sharpened a Pin #18: curvature = 0.493583; sharpness = 9.000000
+Grinder started sharpening a Pin #20: curvature = 0.526745; sharpness = 3.000000
+Controller check quality for Pin #18: curvature = 0.493583; sharpness = 9.000000. Quality is 4.442247
+Grinder sharpened a Pin #20: curvature = 0.526745; sharpness = 4.500000
+Grinder started sharpening a Pin #21: curvature = 0.400229; sharpness = 9.000000
+Controller check quality for Pin #20: curvature = 0.526745; sharpness = 4.500000. Quality is 2.370352
+Grinder sharpened a Pin #21: curvature = 0.400229; sharpness = 10.000000
+Grinder started sharpening a Pin #23: curvature = 0.807725; sharpness = 4.000000
+Controller check quality for Pin #21: curvature = 0.400229; sharpness = 10.000000. Quality is 4.002286
+Grinder sharpened a Pin #23: curvature = 0.807725; sharpness = 6.000000
+Grinder started sharpening a Pin #25: curvature = 0.525995; sharpness = 6.000000
+Controller check quality for Pin #23: curvature = 0.807725; sharpness = 6.000000. Quality is 4.846347
+Grinder sharpened a Pin #25: curvature = 0.525995; sharpness = 9.000000
+Grinder started sharpening a Pin #27: curvature = 0.890233; sharpness = 3.000000
+Controller check quality for Pin #25: curvature = 0.525995; sharpness = 9.000000. Quality is 4.733958
+Grinder sharpened a Pin #27: curvature = 0.890233; sharpness = 4.500000
+Grinder started sharpening a Pin #29: curvature = 0.457702; sharpness = 1.000000
+Controller check quality for Pin #27: curvature = 0.890233; sharpness = 4.500000. Quality is 4.006047
+Grinder sharpened a Pin #29: curvature = 0.457702; sharpness = 1.500000
+Grinder stopped conveyer
+Controller check quality for Pin #29: curvature = 0.457702; sharpness = 1.500000. Quality is 0.686553
+Controller thread joined
+Grinder thread joined
+Evaluator thread joined
